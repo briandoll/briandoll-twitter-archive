@@ -9,7 +9,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 86, 107 ],
       "url" : "https://t.co/5LFiWAEt",
       "expanded_url" : "https://soundcloud.com/prettylights/pretty-lights-jay-z-empire",
-      "display_url" : "soundcloud.com/prettylights/p…"
+      "display_url" : "soundcloud.com/prettylights/p\u2026"
     }, {
       "indices" : [ 114, 134 ],
       "url" : "http://t.co/jkH23A7W",
@@ -48,7 +48,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 71, 91 ],
       "url" : "http://t.co/nQHiVDi9",
       "expanded_url" : "http://www.amazon.com/EZ-Cup-Keurig-Coffee-Machines-Perfect/dp/B002YPC2NM/ref=sr_1_7?s=home-garden&ie=UTF8&qid=1356988224&sr=1-7",
-      "display_url" : "amazon.com/EZ-Cup-Keurig-…"
+      "display_url" : "amazon.com/EZ-Cup-Keurig-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "285855257928552449",
@@ -109,7 +109,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "@buster",
+      "name" : "Buster",
       "screen_name" : "buster",
       "indices" : [ 43, 50 ],
       "id_str" : "2185",
@@ -121,7 +121,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 122, 143 ],
       "url" : "https://t.co/dHGrlEYt",
       "expanded_url" : "https://github.com/busterbenson/public",
-      "display_url" : "github.com/busterbenson/p…"
+      "display_url" : "github.com/busterbenson/p\u2026"
     } ]
   },
   "geo" : {
@@ -195,13 +195,13 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 28, 48 ],
       "url" : "http://t.co/UGLJDPBV",
       "expanded_url" : "http://bits.blogs.nytimes.com/2012/12/28/github-has-big-dreams-for-open-source-software-and-more/",
-      "display_url" : "bits.blogs.nytimes.com/2012/12/28/git…"
+      "display_url" : "bits.blogs.nytimes.com/2012/12/28/git\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "285082801559179264",
-  "text" : "Dreams of ‘Open’ Everything http://t.co/UGLJDPBV Nice writeup in the New York Times from @qhardy on GitHub",
+  "text" : "Dreams of \u2018Open\u2019 Everything http://t.co/UGLJDPBV Nice writeup in the New York Times from @qhardy on GitHub",
   "id" : 285082801559179264,
   "created_at" : "Sat Dec 29 18:00:11 +0000 2012",
   "user" : {
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://itunes.apple.com/us/app/read-it-later-pro/id309601447?mt=8&uo=4\" rel=\"nofollow\">Read It Later Pro</a>",
+  "source" : "<a href=\"http://itunes.apple.com/us/app/read-it-later-pro/id309601447?mt=8&uo=4\" rel=\"nofollow\">Pocket for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Harvard Biz Review",
@@ -391,7 +391,7 @@ Grailbird.data.tweets_2012_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -456,7 +456,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -676,11 +676,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Lilly Kihlbom",
       "screen_name" : "Lilly",
@@ -701,7 +701,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 283352003298598912,
   "in_reply_to_status_id" : 283351396768702467,
   "created_at" : "Mon Dec 24 23:22:36 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -906,12 +906,12 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 74, 94 ],
       "url" : "http://t.co/yFM34X6P",
       "expanded_url" : "http://www.engadget.com/2012/12/19/valve-opens-steam-for-linux-beta/",
-      "display_url" : "engadget.com/2012/12/19/val…"
+      "display_url" : "engadget.com/2012/12/19/val\u2026"
     }, {
       "indices" : [ 101, 122 ],
       "url" : "https://t.co/txgcn4xO",
       "expanded_url" : "https://github.com/ValveSoftware/steam-for-linux",
-      "display_url" : "github.com/ValveSoftware/…"
+      "display_url" : "github.com/ValveSoftware/\u2026"
     } ]
   },
   "geo" : {
@@ -945,7 +945,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 61, 81 ],
       "url" : "http://t.co/wETx7joy",
       "expanded_url" : "http://www.youtube.com/watch?v=93w0xzOVVv8",
-      "display_url" : "youtube.com/watch?v=93w0xz…"
+      "display_url" : "youtube.com/watch?v=93w0xz\u2026"
     } ]
   },
   "geo" : {
@@ -1034,13 +1034,7 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : " Robert J Whitney ",
-      "screen_name" : "withloudhands",
-      "indices" : [ 0, 14 ],
-      "id_str" : "171960307",
-      "id" : 171960307
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1054,7 +1048,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 281556018062839808,
   "in_reply_to_status_id" : 281555867059503105,
   "created_at" : "Thu Dec 20 00:26:00 +0000 2012",
-  "in_reply_to_screen_name" : "withloudhands",
+  "in_reply_to_screen_name" : "_subvrt",
   "in_reply_to_user_id_str" : "171960307",
   "user" : {
     "name" : "Brian Doll",
@@ -1068,13 +1062,7 @@ Grailbird.data.tweets_2012_12 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : " Robert J Whitney ",
-      "screen_name" : "withloudhands",
-      "indices" : [ 0, 14 ],
-      "id_str" : "171960307",
-      "id" : 171960307
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1088,7 +1076,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 281546256298438657,
   "in_reply_to_status_id" : 281534820344033281,
   "created_at" : "Wed Dec 19 23:47:13 +0000 2012",
-  "in_reply_to_screen_name" : "withloudhands",
+  "in_reply_to_screen_name" : "_subvrt",
   "in_reply_to_user_id_str" : "171960307",
   "user" : {
     "name" : "Brian Doll",
@@ -1155,7 +1143,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 106, 127 ],
       "url" : "https://t.co/TT4taIu9",
       "expanded_url" : "https://github.com/blog/1359-the-octoverse-in-2012",
-      "display_url" : "github.com/blog/1359-the-…"
+      "display_url" : "github.com/blog/1359-the-\u2026"
     } ]
   },
   "geo" : {
@@ -1934,7 +1922,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 86, 106 ],
       "url" : "http://t.co/YvAs0jvb",
       "expanded_url" : "http://tomayko.com/writings/adopt-an-open-source-process-constraints",
-      "display_url" : "tomayko.com/writings/adopt…"
+      "display_url" : "tomayko.com/writings/adopt\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "278967937518407681",
@@ -2195,7 +2183,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 35, 56 ],
       "url" : "https://t.co/ymYHiMi4",
       "expanded_url" : "https://help.github.com/articles/github-terms-of-service",
-      "display_url" : "help.github.com/articles/githu…"
+      "display_url" : "help.github.com/articles/githu\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "278613899639664640",
@@ -2228,7 +2216,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 64, 85 ],
       "url" : "https://t.co/VC1Qt20S",
       "expanded_url" : "https://github.com/blog/1276-welcome-to-a-new-gist",
-      "display_url" : "github.com/blog/1276-welc…"
+      "display_url" : "github.com/blog/1276-welc\u2026"
     } ]
   },
   "geo" : {
@@ -2399,7 +2387,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 9, 30 ],
       "url" : "https://t.co/0l24bnGE",
       "expanded_url" : "https://twitter.com/briandoll/status/278577569333383169",
-      "display_url" : "twitter.com/briandoll/stat…"
+      "display_url" : "twitter.com/briandoll/stat\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "278578079859871745",
@@ -2517,7 +2505,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 13, 33 ],
       "url" : "http://t.co/7midqKMx",
       "expanded_url" : "http://f.cl.ly/items/402N1V1Q441y160n3228/Meet%20Ubuntu%20%7C%20Ubuntu.jpg",
-      "display_url" : "f.cl.ly/items/402N1V1Q…"
+      "display_url" : "f.cl.ly/items/402N1V1Q\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "278575460126961666",
@@ -2550,7 +2538,7 @@ Grailbird.data.tweets_2012_12 =
       "id_str" : "14586723",
       "id" : 14586723
     }, {
-      "name" : "Lincoln Stoll ",
+      "name" : "Lincoln Stoll",
       "screen_name" : "lstoll",
       "indices" : [ 7, 14 ],
       "id_str" : "59282163",
@@ -2635,7 +2623,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 50, 71 ],
       "url" : "https://t.co/VBWAeWQd",
       "expanded_url" : "https://github.com/wayneeseguin/rvm/graphs/contributors",
-      "display_url" : "github.com/wayneeseguin/r…"
+      "display_url" : "github.com/wayneeseguin/r\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "278573605602852864",
@@ -2668,7 +2656,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 87, 107 ],
       "url" : "http://t.co/96BPj4h8",
       "expanded_url" : "http://techblog.netflix.com/2012/12/hystrix-dashboard-and-turbine.html",
-      "display_url" : "techblog.netflix.com/2012/12/hystri…"
+      "display_url" : "techblog.netflix.com/2012/12/hystri\u2026"
     } ]
   },
   "geo" : {
@@ -3031,7 +3019,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 42, 63 ],
       "url" : "https://t.co/ymH9qx7D",
       "expanded_url" : "https://github.com/blog/1347-issue-attachments",
-      "display_url" : "github.com/blog/1347-issu…"
+      "display_url" : "github.com/blog/1347-issu\u2026"
     } ]
   },
   "geo" : {
@@ -3139,7 +3127,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/e9oOXUPz",
       "expanded_url" : "http://well.blogs.nytimes.com/2012/12/05/for-athletes-risks-from-ibuprofen-use/",
-      "display_url" : "well.blogs.nytimes.com/2012/12/05/for…"
+      "display_url" : "well.blogs.nytimes.com/2012/12/05/for\u2026"
     } ]
   },
   "geo" : {
@@ -3233,7 +3221,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 71, 92 ],
       "url" : "https://t.co/0VWCLiW0",
       "expanded_url" : "https://github.com/maxogden/gh-pages-template",
-      "display_url" : "github.com/maxogden/gh-pa…"
+      "display_url" : "github.com/maxogden/gh-pa\u2026"
     } ]
   },
   "geo" : {
@@ -3402,7 +3390,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 68, 89 ],
       "url" : "https://t.co/56sceeam",
       "expanded_url" : "https://github.com/blog/1327-creating-files-on-github",
-      "display_url" : "github.com/blog/1327-crea…"
+      "display_url" : "github.com/blog/1327-crea\u2026"
     } ]
   },
   "geo" : {
@@ -3459,7 +3447,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/g9u5N68s",
       "expanded_url" : "http://techcrunch.com/2012/12/05/prismatic-gets-15m-from-jim-breyer-and-yuri-milner-to-attack-the-really-hard-problem-of-bringing-you-relevant-news/",
-      "display_url" : "techcrunch.com/2012/12/05/pri…"
+      "display_url" : "techcrunch.com/2012/12/05/pri\u2026"
     } ]
   },
   "geo" : {
@@ -3527,7 +3515,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 86, 107 ],
       "url" : "https://t.co/W5yAwrBa",
       "expanded_url" : "https://codeclimate.com/changelog/50bd99f47e00a45b10002370",
-      "display_url" : "codeclimate.com/changelog/50bd…"
+      "display_url" : "codeclimate.com/changelog/50bd\u2026"
     } ]
   },
   "geo" : {
@@ -3544,7 +3532,7 @@ Grailbird.data.tweets_2012_12 =
         "indices" : [ 73, 94 ],
         "url" : "https://t.co/W5yAwrBa",
         "expanded_url" : "https://codeclimate.com/changelog/50bd99f47e00a45b10002370",
-        "display_url" : "codeclimate.com/changelog/50bd…"
+        "display_url" : "codeclimate.com/changelog/50bd\u2026"
       } ]
     },
     "geo" : {
@@ -3617,7 +3605,7 @@ Grailbird.data.tweets_2012_12 =
   "geo" : {
   },
   "id_str" : "276104678289330176",
-  "text" : "Mute works in Gmail on iPhone now too. 🎉",
+  "text" : "Mute works in Gmail on iPhone now too. \uD83C\uDF89",
   "id" : 276104678289330176,
   "created_at" : "Tue Dec 04 23:24:19 +0000 2012",
   "user" : {
@@ -3976,7 +3964,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 63, 84 ],
       "url" : "https://t.co/rICmNnjJ",
       "expanded_url" : "https://github.com/blog/1343-vlado-herman-is-a-githubber",
-      "display_url" : "github.com/blog/1343-vlad…"
+      "display_url" : "github.com/blog/1343-vlad\u2026"
     } ]
   },
   "geo" : {
@@ -3998,17 +3986,17 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 17, 27 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Lilly Kihlbom",
       "screen_name" : "Lilly",
@@ -4027,7 +4015,7 @@ Grailbird.data.tweets_2012_12 =
   "text" : "@cjkihlbom Happy @cjkihlbom day! @Lilly give him a peck for me! :heart:",
   "id" : 275711009350623232,
   "created_at" : "Mon Dec 03 21:20:01 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -4082,7 +4070,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 34, 54 ],
       "url" : "http://t.co/nPL7FVwZ",
       "expanded_url" : "http://emphaticsolutions.com/2012/12/02/github-an-egalitarian-love-story.html",
-      "display_url" : "emphaticsolutions.com/2012/12/02/git…"
+      "display_url" : "emphaticsolutions.com/2012/12/02/git\u2026"
     } ]
   },
   "geo" : {
@@ -4116,7 +4104,7 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 48, 68 ],
       "url" : "http://t.co/FLfZGDRK",
       "expanded_url" : "http://www.amazon.com/Searching-Sound-Life-Grateful-Dead/dp/0316154490",
-      "display_url" : "amazon.com/Searching-Soun…"
+      "display_url" : "amazon.com/Searching-Soun\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "275443126829715462",
@@ -4158,7 +4146,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "275419150736826370",
   "in_reply_to_user_id" : 24926510,
-  "text" : "@janaboruta Swoooooon! 👍❤⚡🎆🎉",
+  "text" : "@janaboruta Swoooooon! \uD83D\uDC4D\u2764\u26A1\uD83C\uDF86\uD83C\uDF89",
   "id" : 275419150736826370,
   "in_reply_to_status_id" : 275416729230917632,
   "created_at" : "Mon Dec 03 02:00:17 +0000 2012",
@@ -4196,7 +4184,7 @@ Grailbird.data.tweets_2012_12 =
   "geo" : {
   },
   "id_str" : "275416053444640769",
-  "text" : "Pocket is such a great app. It’s how I wanted Evernote to work. Thanks for the rec @tsaleh. Hoping @Prismatic will support it.",
+  "text" : "Pocket is such a great app. It\u2019s how I wanted Evernote to work. Thanks for the rec @tsaleh. Hoping @Prismatic will support it.",
   "id" : 275416053444640769,
   "created_at" : "Mon Dec 03 01:47:58 +0000 2012",
   "user" : {
@@ -4363,7 +4351,7 @@ Grailbird.data.tweets_2012_12 =
   },
   "id_str" : "275278244788457473",
   "in_reply_to_user_id" : 1182631,
-  "text" : "@jonmagic this is the second “30 year flood” in 7 years",
+  "text" : "@jonmagic this is the second \u201C30 year flood\u201D in 7 years",
   "id" : 275278244788457473,
   "in_reply_to_status_id" : 275277016788529152,
   "created_at" : "Sun Dec 02 16:40:22 +0000 2012",
@@ -4405,7 +4393,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 5, 10 ],
       "id_str" : "676573",
@@ -4423,13 +4411,13 @@ Grailbird.data.tweets_2012_12 =
       "indices" : [ 57, 77 ],
       "url" : "http://t.co/nEy4EBKj",
       "expanded_url" : "http://www.nytimes.com/2012/12/02/fashion/bah-humblebrag-the-unfortunate-rise-of-false-humility.html",
-      "display_url" : "nytimes.com/2012/12/02/fas…"
+      "display_url" : "nytimes.com/2012/12/02/fas\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "275265423665139715",
-  "text" : "Love @tobi’s quote in this NYT article on the Humblebrag http://t.co/nEy4EBKj /via @takeo",
+  "text" : "Love @tobi\u2019s quote in this NYT article on the Humblebrag http://t.co/nEy4EBKj /via @takeo",
   "id" : 275265423665139715,
   "created_at" : "Sun Dec 02 15:49:25 +0000 2012",
   "user" : {
@@ -4445,11 +4433,11 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4464,7 +4452,7 @@ Grailbird.data.tweets_2012_12 =
   "id" : 275148770763735040,
   "in_reply_to_status_id" : 275147763812032512,
   "created_at" : "Sun Dec 02 08:05:53 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -4479,7 +4467,7 @@ Grailbird.data.tweets_2012_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",

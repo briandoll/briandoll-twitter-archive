@@ -2077,7 +2077,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lorcan Lyons",
+      "name" : "lorcan",
       "screen_name" : "lorcan",
       "indices" : [ 0, 7 ],
       "id_str" : "666633",
@@ -3144,7 +3144,7 @@ Grailbird.data.tweets_2008_12 =
   "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lorcan Lyons",
+      "name" : "lorcan",
       "screen_name" : "lorcan",
       "indices" : [ 0, 7 ],
       "id_str" : "666633",

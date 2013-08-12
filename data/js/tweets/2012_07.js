@@ -52,7 +52,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "230382241593831424",
   "in_reply_to_user_id" : 16224117,
-  "text" : "@ericgerhardt and when a double-decker bus….",
+  "text" : "@ericgerhardt and when a double-decker bus\u2026.",
   "id" : 230382241593831424,
   "in_reply_to_status_id" : 230381829763526656,
   "created_at" : "Tue Jul 31 19:19:41 +0000 2012",
@@ -91,7 +91,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Luckiest Monkey",
@@ -191,13 +191,13 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 56, 77 ],
       "url" : "https://t.co/NWJUYhBC",
       "expanded_url" : "https://img.skitch.com/20120727-dtxak56gwyeqdt2c1xg5ayw2r2.jpg",
-      "display_url" : "img.skitch.com/20120727-dtxak…"
+      "display_url" : "img.skitch.com/20120727-dtxak\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "228920955567734785",
-  "text" : "So… you can get emoji in your terminal w/ mountain lion https://t.co/NWJUYhBC  wish they had transparent backgrounds, though",
+  "text" : "So\u2026 you can get emoji in your terminal w/ mountain lion https://t.co/NWJUYhBC  wish they had transparent backgrounds, though",
   "id" : 228920955567734785,
   "created_at" : "Fri Jul 27 18:33:03 +0000 2012",
   "user" : {
@@ -418,7 +418,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Todd of Vizify",
+      "name" : "Vizify",
       "screen_name" : "vizify",
       "indices" : [ 0, 7 ],
       "id_str" : "295513152",
@@ -506,7 +506,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "228562482925543424",
   "in_reply_to_user_id" : 59503,
-  "text" : "@h3h can't believe I'm asking this but… invite code? heh",
+  "text" : "@h3h can't believe I'm asking this but\u2026 invite code? heh",
   "id" : 228562482925543424,
   "in_reply_to_status_id" : 228560065077055489,
   "created_at" : "Thu Jul 26 18:48:37 +0000 2012",
@@ -1057,7 +1057,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -1399,7 +1399,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 86, 107 ],
       "url" : "https://t.co/KQoPIfxz",
       "expanded_url" : "https://github.com/blog/1198-the-first-octogala",
-      "display_url" : "github.com/blog/1198-the-…"
+      "display_url" : "github.com/blog/1198-the-\u2026"
     } ]
   },
   "geo" : {
@@ -2012,7 +2012,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223402478048251905",
   "in_reply_to_user_id" : 6312822,
-  "text" : "@cdharrison I was on the Erie canal yesterday… we used to build shit for public good. Wifi would be such a boost, especially in rural areas.",
+  "text" : "@cdharrison I was on the Erie canal yesterday\u2026 we used to build shit for public good. Wifi would be such a boost, especially in rural areas.",
   "id" : 223402478048251905,
   "in_reply_to_status_id" : 223401890011025409,
   "created_at" : "Thu Jul 12 13:04:36 +0000 2012",
@@ -2087,7 +2087,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "bleikamp",
       "protected" : false,
       "id_str" : "14062332",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2584227351/jquay6i4b2c7i9zwgirk_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3437045508/cbafab8835b7597dab4b41655521dc0d_normal.png",
       "id" : 14062332,
       "verified" : false
     }
@@ -2230,7 +2230,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 40, 60 ],
       "url" : "http://t.co/z1TzRcx2",
       "expanded_url" : "http://obfuscurity.com/2012/07/Introducing-Descartes",
-      "display_url" : "obfuscurity.com/2012/07/Introd…"
+      "display_url" : "obfuscurity.com/2012/07/Introd\u2026"
     } ]
   },
   "geo" : {
@@ -2250,7 +2250,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 23, 43 ],
         "url" : "http://t.co/z1TzRcx2",
         "expanded_url" : "http://obfuscurity.com/2012/07/Introducing-Descartes",
-        "display_url" : "obfuscurity.com/2012/07/Introd…"
+        "display_url" : "obfuscurity.com/2012/07/Introd\u2026"
       } ]
     },
     "geo" : {
@@ -2330,7 +2330,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 113, 133 ],
       "url" : "http://t.co/OlVMI1pI",
       "expanded_url" : "http://engineering.twitter.com/2012/07/caching-with-twemcache.html",
-      "display_url" : "engineering.twitter.com/2012/07/cachin…"
+      "display_url" : "engineering.twitter.com/2012/07/cachin\u2026"
     } ]
   },
   "geo" : {
@@ -2401,7 +2401,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222772539406024704",
   "in_reply_to_user_id" : 3283901,
-  "text" : "@andrewchen that still reads so well. I especially love the \"What’s your goal with the company?\" section. Still true.",
+  "text" : "@andrewchen that still reads so well. I especially love the \"What\u2019s your goal with the company?\" section. Still true.",
   "id" : 222772539406024704,
   "in_reply_to_status_id" : 222771594727133184,
   "created_at" : "Tue Jul 10 19:21:26 +0000 2012",
@@ -2432,7 +2432,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 59, 79 ],
       "url" : "http://t.co/l7EtywoM",
       "expanded_url" : "http://tomayko.com/writings/management-style",
-      "display_url" : "tomayko.com/writings/manag…"
+      "display_url" : "tomayko.com/writings/manag\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "222753492417253378",
@@ -2663,7 +2663,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222505365189836801",
   "in_reply_to_user_id" : 29249184,
-  "text" : "@ralenda … or will it?",
+  "text" : "@ralenda \u2026 or will it?",
   "id" : 222505365189836801,
   "in_reply_to_status_id" : 222505230842068995,
   "created_at" : "Tue Jul 10 01:39:47 +0000 2012",
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 34, 55 ],
       "url" : "https://t.co/NtwwycAk",
       "expanded_url" : "https://github.com/blog/1189-investing-in-github",
-      "display_url" : "github.com/blog/1189-inve…"
+      "display_url" : "github.com/blog/1189-inve\u2026"
     } ]
   },
   "geo" : {
@@ -2779,7 +2779,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 22, 43 ],
         "url" : "https://t.co/NtwwycAk",
         "expanded_url" : "https://github.com/blog/1189-investing-in-github",
-        "display_url" : "github.com/blog/1189-inve…"
+        "display_url" : "github.com/blog/1189-inve\u2026"
       } ]
     },
     "geo" : {
@@ -2844,7 +2844,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2927,7 +2927,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 22, 42 ],
       "url" : "http://t.co/MFMRiTCE",
       "expanded_url" : "http://en.m.wikipedia.org/wiki/United_Ireland",
-      "display_url" : "en.m.wikipedia.org/wiki/United_Ir…"
+      "display_url" : "en.m.wikipedia.org/wiki/United_Ir\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "221504432871968768",
@@ -3152,7 +3152,7 @@ Grailbird.data.tweets_2012_07 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

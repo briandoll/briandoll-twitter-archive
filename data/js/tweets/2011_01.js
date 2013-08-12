@@ -522,7 +522,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 72, 91 ],
       "url" : "http://t.co/XngjyRm",
       "expanded_url" : "http://twitterfeed.com/feed/help#faq2_1",
-      "display_url" : "twitterfeed.com/feed/help#faq2…"
+      "display_url" : "twitterfeed.com/feed/help#faq2\u2026"
     } ]
   },
   "geo" : {
@@ -939,7 +939,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 112, 131 ],
       "url" : "http://t.co/LShy5UN",
       "expanded_url" : "http://blog.newrelic.com/2011/01/26/how-do-you-move-more-than-6000-customers-in-2-hours/",
-      "display_url" : "blog.newrelic.com/2011/01/26/how…"
+      "display_url" : "blog.newrelic.com/2011/01/26/how\u2026"
     } ]
   },
   "geo" : {
@@ -1067,7 +1067,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 80, 99 ],
       "url" : "http://t.co/PdadLq5",
       "expanded_url" : "http://emphaticsolutions.com/2010/12/10/build-businesses-not-apps.html",
-      "display_url" : "emphaticsolutions.com/2010/12/10/bui…"
+      "display_url" : "emphaticsolutions.com/2010/12/10/bui\u2026"
     } ]
   },
   "geo" : {
@@ -1104,7 +1104,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 101, 120 ],
       "url" : "http://t.co/5xXIYSG",
       "expanded_url" : "http://newrelic.com/partnership.html",
-      "display_url" : "newrelic.com/partnership.ht…"
+      "display_url" : "newrelic.com/partnership.ht\u2026"
     } ]
   },
   "geo" : {
@@ -1440,7 +1440,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 64, 83 ],
       "url" : "http://t.co/Kw0tmXZ",
       "expanded_url" : "http://emphaticsolutions.com/2011/01/21/functional-widgets-with-rails-javascript-jsonp.html",
-      "display_url" : "emphaticsolutions.com/2011/01/21/fun…"
+      "display_url" : "emphaticsolutions.com/2011/01/21/fun\u2026"
     } ]
   },
   "geo" : {
@@ -1546,7 +1546,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 89, 108 ],
       "url" : "http://t.co/D6s4dDp",
       "expanded_url" : "http://joyeur.com/2007/06/07/getting-started-with-jruby/",
-      "display_url" : "joyeur.com/2007/06/07/get…"
+      "display_url" : "joyeur.com/2007/06/07/get\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "29396670227681280",
@@ -1647,7 +1647,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -1686,11 +1686,11 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1705,7 +1705,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 28968492321476608,
   "in_reply_to_status_id" : 28968219737858048,
   "created_at" : "Sun Jan 23 00:13:21 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1766,7 +1766,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/Kw0tmXZ",
       "expanded_url" : "http://emphaticsolutions.com/2011/01/21/functional-widgets-with-rails-javascript-jsonp.html",
-      "display_url" : "emphaticsolutions.com/2011/01/21/fun…"
+      "display_url" : "emphaticsolutions.com/2011/01/21/fun\u2026"
     } ]
   },
   "geo" : {
@@ -1791,11 +1791,11 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1810,7 +1810,7 @@ Grailbird.data.tweets_2011_01 =
   "id" : 28944905732628480,
   "in_reply_to_status_id" : 28944720264695811,
   "created_at" : "Sat Jan 22 22:39:37 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2038,7 +2038,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/XmP5B3x",
       "expanded_url" : "http://www.masterbranch.com/job/software-engineer-ror-at-twylah-twylah-inc-san-francisco/762",
-      "display_url" : "masterbranch.com/job/software-e…"
+      "display_url" : "masterbranch.com/job/software-e\u2026"
     } ]
   },
   "geo" : {
@@ -2286,7 +2286,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "mperham",
       "protected" : false,
       "id_str" : "14060922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1531638646/headshot_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3615499471/5305a46167bd44ffd639196cf9965427_normal.jpeg",
       "id" : 14060922,
       "verified" : false
     }
@@ -2370,7 +2370,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 91, 110 ],
       "url" : "http://t.co/2YFRKdW",
       "expanded_url" : "http://blog.newrelic.com/2011/01/18/engine-yard-makes-rpm-bronze-available-to-customers-free/",
-      "display_url" : "blog.newrelic.com/2011/01/18/eng…"
+      "display_url" : "blog.newrelic.com/2011/01/18/eng\u2026"
     } ]
   },
   "geo" : {
@@ -2661,7 +2661,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "26080739489484800",
-  "text" : "“@drtoast: Chinese Wikipedia Cites Dr. Toast: http://t.co/V2X3dkI” - silly truthists!",
+  "text" : "\u201C@drtoast: Chinese Wikipedia Cites Dr. Toast: http://t.co/V2X3dkI\u201D - silly truthists!",
   "id" : 26080739489484800,
   "created_at" : "Sat Jan 15 00:58:27 +0000 2011",
   "user" : {
@@ -3057,7 +3057,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "[Christofer] Hoff",
+      "name" : "Hoff",
       "screen_name" : "Beaker",
       "indices" : [ 0, 7 ],
       "id_str" : "3244801",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pagely",
+      "name" : "Pagely\u00AE",
       "screen_name" : "Pagely",
       "indices" : [ 0, 7 ],
       "id_str" : "46861248",
@@ -3326,7 +3326,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 77, 96 ],
       "url" : "http://t.co/rDngLug",
       "expanded_url" : "http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/",
-      "display_url" : "blog.newrelic.com/2011/01/06/the…"
+      "display_url" : "blog.newrelic.com/2011/01/06/the\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "23617640656281601",
@@ -3438,7 +3438,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3450,7 +3450,7 @@ Grailbird.data.tweets_2011_01 =
       "indices" : [ 108, 127 ],
       "url" : "http://t.co/28AnWet",
       "expanded_url" : "https://skitch.com/briandoll/reebs/style",
-      "display_url" : "skitch.com/briandoll/reeb…"
+      "display_url" : "skitch.com/briandoll/reeb\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "23393839410585601",
@@ -3846,7 +3846,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wycats",
+      "name" : "Yehuda Katz",
       "screen_name" : "wycats",
       "indices" : [ 0, 7 ],
       "id_str" : "8526432",

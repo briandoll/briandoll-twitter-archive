@@ -15,13 +15,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 89, 110 ],
       "url" : "https://t.co/9dx87hR4",
       "expanded_url" : "https://github.com/blog/1242-octokittens-everywhere",
-      "display_url" : "github.com/blog/1242-octo…"
+      "display_url" : "github.com/blog/1242-octo\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "241591684461383682",
-  "text" : "One of the many reasons why it’s so amazing to work at @GitHub - Octokittens Everywhere! https://t.co/9dx87hR4",
+  "text" : "One of the many reasons why it\u2019s so amazing to work at @GitHub - Octokittens Everywhere! https://t.co/9dx87hR4",
   "id" : 241591684461383682,
   "created_at" : "Fri Aug 31 17:42:00 +0000 2012",
   "user" : {
@@ -52,7 +52,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "241589614337486848",
   "in_reply_to_user_id" : 18047782,
-  "text" : "@p_elliott I remember chatting about branch names on pull requests. I’d love to get more of your thoughts on this. email me?",
+  "text" : "@p_elliott I remember chatting about branch names on pull requests. I\u2019d love to get more of your thoughts on this. email me?",
   "id" : 241589614337486848,
   "in_reply_to_status_id" : 241526061404393473,
   "created_at" : "Fri Aug 31 17:33:47 +0000 2012",
@@ -123,7 +123,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 84, 104 ],
       "url" : "http://t.co/bm2vRYT1",
       "expanded_url" : "http://techcrunch.com/2012/08/30/how-twitter-uses-open-source/",
-      "display_url" : "techcrunch.com/2012/08/30/how…"
+      "display_url" : "techcrunch.com/2012/08/30/how\u2026"
     } ]
   },
   "geo" : {
@@ -160,7 +160,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "241286943474864129",
   "in_reply_to_user_id" : 4363111,
-  "text" : "@tnclr Hey, shoot me an email w/ any issues you’ve been having.",
+  "text" : "@tnclr Hey, shoot me an email w/ any issues you\u2019ve been having.",
   "id" : 241286943474864129,
   "in_reply_to_status_id" : 241224736703660032,
   "created_at" : "Thu Aug 30 21:31:04 +0000 2012",
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 101, 122 ],
       "url" : "https://t.co/QWaAA7W2",
       "expanded_url" : "https://github.com/blog/1241-deploying-at-github",
-      "display_url" : "github.com/blog/1241-depl…"
+      "display_url" : "github.com/blog/1241-depl\u2026"
     } ]
   },
   "geo" : {
@@ -210,7 +210,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -253,7 +253,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 103, 123 ],
       "url" : "http://t.co/BaSKJO3s",
       "expanded_url" : "http://www.amazon.com/Scrumban-Essays-Systems-Software-Development/dp/0578002140",
-      "display_url" : "amazon.com/Scrumban-Essay…"
+      "display_url" : "amazon.com/Scrumban-Essay\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "240943924422787072",
@@ -261,7 +261,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "240946616884948993",
   "in_reply_to_user_id" : 15629200,
-  "text" : "@stubbornella Scrumban: despite the name is a really good book on applying lean principals to software http://t.co/BaSKJO3s (and it’s short)",
+  "text" : "@stubbornella Scrumban: despite the name is a really good book on applying lean principals to software http://t.co/BaSKJO3s (and it\u2019s short)",
   "id" : 240946616884948993,
   "in_reply_to_status_id" : 240943924422787072,
   "created_at" : "Wed Aug 29 22:58:44 +0000 2012",
@@ -286,7 +286,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 20, 41 ],
       "url" : "https://t.co/QWaAA7W2",
       "expanded_url" : "https://github.com/blog/1241-deploying-at-github",
-      "display_url" : "github.com/blog/1241-depl…"
+      "display_url" : "github.com/blog/1241-depl\u2026"
     } ]
   },
   "geo" : {
@@ -314,7 +314,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 23, 44 ],
       "url" : "https://t.co/odE0GxDR",
       "expanded_url" : "https://github.com/blog/1230-optimizing-sales-for-happiness",
-      "display_url" : "github.com/blog/1230-opti…"
+      "display_url" : "github.com/blog/1230-opti\u2026"
     } ]
   },
   "geo" : {
@@ -342,13 +342,13 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/N88P2DPu",
       "expanded_url" : "http://osxdaily.com/2012/08/27/enable-save-as-os-x-mountain-lion/",
-      "display_url" : "osxdaily.com/2012/08/27/ena…"
+      "display_url" : "osxdaily.com/2012/08/27/ena\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "240521865838329856",
-  "text" : "Old news, but to enable “Save As…” in Mountain Lion: http://t.co/N88P2DPu",
+  "text" : "Old news, but to enable \u201CSave As\u2026\u201D in Mountain Lion: http://t.co/N88P2DPu",
   "id" : 240521865838329856,
   "created_at" : "Tue Aug 28 18:50:56 +0000 2012",
   "user" : {
@@ -466,7 +466,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -481,7 +481,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "240156623786606592",
   "in_reply_to_user_id" : 659933,
-  "text" : "@bryanl maybe change the idea of your audience. less “intro to”, more “check out this crazy”",
+  "text" : "@bryanl maybe change the idea of your audience. less \u201Cintro to\u201D, more \u201Ccheck out this crazy\u201D",
   "id" : 240156623786606592,
   "in_reply_to_status_id" : 240156183468593152,
   "created_at" : "Mon Aug 27 18:39:35 +0000 2012",
@@ -554,7 +554,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -631,7 +631,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/a200HIZs",
       "expanded_url" : "http://techcrunch.com/2012/08/24/the-lyft-launch-that-coulda-been/",
-      "display_url" : "techcrunch.com/2012/08/24/the…"
+      "display_url" : "techcrunch.com/2012/08/24/the\u2026"
     } ]
   },
   "geo" : {
@@ -688,7 +688,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 67, 87 ],
       "url" : "http://t.co/wRFXsDUQ",
       "expanded_url" : "http://www.yelp.com/biz/pearls-deluxe-burgers-san-francisco",
-      "display_url" : "yelp.com/biz/pearls-del…"
+      "display_url" : "yelp.com/biz/pearls-del\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "239044626529546241",
@@ -770,7 +770,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238780003083509760",
   "in_reply_to_user_id" : 18496432,
-  "text" : "@nrrrdcore @xpaulbettsx 10 of ‘em for a webinar",
+  "text" : "@nrrrdcore @xpaulbettsx 10 of \u2018em for a webinar",
   "id" : 238780003083509760,
   "in_reply_to_status_id" : 238779898758561792,
   "created_at" : "Thu Aug 23 23:29:23 +0000 2012",
@@ -838,7 +838,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238740902368133120",
   "in_reply_to_user_id" : 6221832,
-  "text" : "@amerine I’m kinda glad my perl and Macromedia Director OSS stuff isn’t public from ’96-99",
+  "text" : "@amerine I\u2019m kinda glad my perl and Macromedia Director OSS stuff isn\u2019t public from \u201996-99",
   "id" : 238740902368133120,
   "in_reply_to_status_id" : 238740680304893952,
   "created_at" : "Thu Aug 23 20:54:01 +0000 2012",
@@ -895,7 +895,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238734796925304832",
   "in_reply_to_user_id" : 30923,
-  "text" : "@rands how about “being heard”?",
+  "text" : "@rands how about \u201Cbeing heard\u201D?",
   "id" : 238734796925304832,
   "in_reply_to_status_id" : 238734666587312129,
   "created_at" : "Thu Aug 23 20:29:45 +0000 2012",
@@ -950,7 +950,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238701848540884992",
-  "text" : "All I want is good web based A/V conferencing. No vendor has solved this yet. I’ll even take amazing audio conferencing.",
+  "text" : "All I want is good web based A/V conferencing. No vendor has solved this yet. I\u2019ll even take amazing audio conferencing.",
   "id" : 238701848540884992,
   "created_at" : "Thu Aug 23 18:18:50 +0000 2012",
   "user" : {
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238386239424823296",
   "in_reply_to_user_id" : 11294,
-  "text" : "@nzkoz restaurants and shops in the SF bay area have those as well. Not very effective when basically every restaurant is “unsafe”.",
+  "text" : "@nzkoz restaurants and shops in the SF bay area have those as well. Not very effective when basically every restaurant is \u201Cunsafe\u201D.",
   "id" : 238386239424823296,
   "in_reply_to_status_id" : 238385431085989889,
   "created_at" : "Wed Aug 22 21:24:43 +0000 2012",
@@ -1276,7 +1276,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "238114149194928129",
-  "text" : "I’m using GitHub Issues w/ our mobile app http://t.co/dVotCXBC as my TODO list. Nice to have everything together w/ labels &amp; milestones too.",
+  "text" : "I\u2019m using GitHub Issues w/ our mobile app http://t.co/dVotCXBC as my TODO list. Nice to have everything together w/ labels &amp; milestones too.",
   "id" : 238114149194928129,
   "created_at" : "Wed Aug 22 03:23:31 +0000 2012",
   "user" : {
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "238052300608901120",
   "in_reply_to_user_id" : 150,
-  "text" : "@stevej text got cut off… FULL OF VIM did it say?",
+  "text" : "@stevej text got cut off\u2026 FULL OF VIM did it say?",
   "id" : 238052300608901120,
   "in_reply_to_status_id" : 238052156157079552,
   "created_at" : "Tue Aug 21 23:17:45 +0000 2012",
@@ -1435,7 +1435,7 @@ Grailbird.data.tweets_2012_08 =
   "geo" : {
   },
   "id_str" : "237984903453626368",
-  "text" : "My iPhone bumper broke the other day and now I’m handling my phone like a new baby. iPhone bumper + iPad cover = ~$100. Classic.",
+  "text" : "My iPhone bumper broke the other day and now I\u2019m handling my phone like a new baby. iPhone bumper + iPad cover = ~$100. Classic.",
   "id" : 237984903453626368,
   "created_at" : "Tue Aug 21 18:49:57 +0000 2012",
   "user" : {
@@ -1466,7 +1466,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "237948207265619968",
   "in_reply_to_user_id" : 697893,
-  "text" : "@bkeepers no ragweed in SF, just sayin’",
+  "text" : "@bkeepers no ragweed in SF, just sayin\u2019",
   "id" : 237948207265619968,
   "in_reply_to_status_id" : 237935776359407616,
   "created_at" : "Tue Aug 21 16:24:08 +0000 2012",
@@ -1497,7 +1497,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 114, 135 ],
       "url" : "https://t.co/fNvB0FNE",
       "expanded_url" : "https://github.com/blog/1233-john-britton-is-a-githubber",
-      "display_url" : "github.com/blog/1233-john…"
+      "display_url" : "github.com/blog/1233-john\u2026"
     } ]
   },
   "geo" : {
@@ -1669,7 +1669,7 @@ Grailbird.data.tweets_2012_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1746,14 +1746,39 @@ Grailbird.data.tweets_2012_08 =
       "id_str" : "6141442",
       "id" : 6141442
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http://twitter.com/rsanheim/status/235546824436486144/photo/1",
       "indices" : [ 104, 124 ],
       "url" : "http://t.co/1iktsuKv",
-      "expanded_url" : "http://twitter.com/rsanheim/status/235546824436486144/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/A0TUlr8CEAAzyGi.png",
+      "id_str" : "235546824444874752",
+      "id" : 235546824444874752,
+      "media_url_https" : "https://pbs.twimg.com/media/A0TUlr8CEAAzyGi.png",
+      "sizes" : [ {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 600,
+        "resize" : "fit",
+        "w" : 600
+      } ],
       "display_url" : "pic.twitter.com/1iktsuKv"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },
@@ -2011,7 +2036,7 @@ Grailbird.data.tweets_2012_08 =
   "id_str" : "234455527831248897",
   "text" : "RT @kldub: Delicious post-boys-golf lunch in Sonoma! @pjhyett @brianmario @briandoll @alenavas   @ The Girl and The Fig http://t.co/kGXPeakE",
   "retweeted_status" : {
-    "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+    "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "PJ Hyett",
@@ -2188,7 +2213,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 109, 129 ],
       "url" : "http://t.co/NILM8Jd5",
       "expanded_url" : "http://www.youtube.com/watch?v=ldqjM7x6NhE",
-      "display_url" : "youtube.com/watch?v=ldqjM7…"
+      "display_url" : "youtube.com/watch?v=ldqjM7\u2026"
     } ]
   },
   "geo" : {
@@ -2318,7 +2343,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vicent Martí",
+      "name" : "Vicent Mart\u00ED",
       "screen_name" : "vmg",
       "indices" : [ 15, 19 ],
       "id_str" : "53043664",
@@ -2330,7 +2355,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 67, 88 ],
       "url" : "https://t.co/sRmmlhDc",
       "expanded_url" : "https://github.com/bitly/dablooms/pull/19",
-      "display_url" : "github.com/bitly/dablooms…"
+      "display_url" : "github.com/bitly/dablooms\u2026"
     } ]
   },
   "geo" : {
@@ -2407,7 +2432,7 @@ Grailbird.data.tweets_2012_08 =
   },
   "id_str" : "232969474788179968",
   "in_reply_to_user_id" : 14062332,
-  "text" : "@bleikamp that's just the thing… i LOVE PORTLAND",
+  "text" : "@bleikamp that's just the thing\u2026 i LOVE PORTLAND",
   "id" : 232969474788179968,
   "in_reply_to_status_id" : 232969376767299584,
   "created_at" : "Tue Aug 07 22:40:25 +0000 2012",
@@ -2656,7 +2681,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 63, 83 ],
       "url" : "http://t.co/tsHhy561",
       "expanded_url" : "http://www.amazon.com/Will-Measure-Your-Life-ebook/dp/B006ID0CH4/ref=tmm_kin_title_0",
-      "display_url" : "amazon.com/Will-Measure-Y…"
+      "display_url" : "amazon.com/Will-Measure-Y\u2026"
     } ]
   },
   "geo" : {
@@ -2792,7 +2817,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 63, 84 ],
       "url" : "https://t.co/L5fuQP1N",
       "expanded_url" : "https://github.com/blog/1204-notifications-stars",
-      "display_url" : "github.com/blog/1204-noti…"
+      "display_url" : "github.com/blog/1204-noti\u2026"
     } ]
   },
   "geo" : {
@@ -2809,7 +2834,7 @@ Grailbird.data.tweets_2012_08 =
         "indices" : [ 51, 72 ],
         "url" : "https://t.co/L5fuQP1N",
         "expanded_url" : "https://github.com/blog/1204-notifications-stars",
-        "display_url" : "github.com/blog/1204-noti…"
+        "display_url" : "github.com/blog/1204-noti\u2026"
       } ]
     },
     "geo" : {
@@ -2843,7 +2868,7 @@ Grailbird.data.tweets_2012_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Vicent Martí",
+      "name" : "Vicent Mart\u00ED",
       "screen_name" : "vmg",
       "indices" : [ 0, 4 ],
       "id_str" : "53043664",
@@ -3013,7 +3038,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 87, 107 ],
       "url" : "http://t.co/NIFa4Zz6",
       "expanded_url" : "http://emphaticsolutions.com/free.tech.books/",
-      "display_url" : "emphaticsolutions.com/free.tech.book…"
+      "display_url" : "emphaticsolutions.com/free.tech.book\u2026"
     } ]
   },
   "geo" : {
@@ -3075,7 +3100,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 80, 100 ],
       "url" : "http://t.co/iOqOmO2b",
       "expanded_url" : "http://www.magpictures.com/jirodreamsofsushi/",
-      "display_url" : "magpictures.com/jirodreamsofsu…"
+      "display_url" : "magpictures.com/jirodreamsofsu\u2026"
     } ]
   },
   "geo" : {
@@ -3308,7 +3333,7 @@ Grailbird.data.tweets_2012_08 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/f25pOMtO",
       "expanded_url" : "http://www.amazon.com/How-Will-Measure-Your-Life/dp/0062102419",
-      "display_url" : "amazon.com/How-Will-Measu…"
+      "display_url" : "amazon.com/How-Will-Measu\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "231402908850208768",

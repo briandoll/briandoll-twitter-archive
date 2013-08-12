@@ -117,7 +117,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 78, 98 ],
       "url" : "http://t.co/nS069diB",
       "expanded_url" : "http://emphaticsolutions.com/2012/01/26/2011-a-look-back.html",
-      "display_url" : "emphaticsolutions.com/2012/01/26/201…"
+      "display_url" : "emphaticsolutions.com/2012/01/26/201\u2026"
     } ]
   },
   "geo" : {
@@ -562,7 +562,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 106, 126 ],
       "url" : "http://t.co/zCGRkMvD",
       "expanded_url" : "http://www.slideshare.net/mtnygard/architecture-without-an-end-state",
-      "display_url" : "slideshare.net/mtnygard/archi…"
+      "display_url" : "slideshare.net/mtnygard/archi\u2026"
     } ]
   },
   "geo" : {
@@ -599,14 +599,14 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 33, 53 ],
       "url" : "http://t.co/4eSBRZbW",
       "expanded_url" : "http://www.etsy.com/listing/82125786/moustache-world-map-made-with-various",
-      "display_url" : "etsy.com/listing/821257…"
+      "display_url" : "etsy.com/listing/821257\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "162394929321082880",
   "in_reply_to_user_id" : 7141792,
-  "text" : "@luckiestmonkey an office décor: http://t.co/4eSBRZbW #soawesome",
+  "text" : "@luckiestmonkey an office d\u00E9cor: http://t.co/4eSBRZbW #soawesome",
   "id" : 162394929321082880,
   "created_at" : "Thu Jan 26 04:42:22 +0000 2012",
   "in_reply_to_screen_name" : "luckiestmonkey",
@@ -815,7 +815,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 111, 131 ],
       "url" : "http://t.co/eJTH8IiN",
       "expanded_url" : "http://blog.intercom.io/big-announcements-1000000-end-users-public-beta-awesome-advisors-1m-raised/",
-      "display_url" : "blog.intercom.io/big-announceme…"
+      "display_url" : "blog.intercom.io/big-announceme\u2026"
     } ]
   },
   "geo" : {
@@ -838,7 +838,7 @@ Grailbird.data.tweets_2012_01 =
         "indices" : [ 93, 113 ],
         "url" : "http://t.co/eJTH8IiN",
         "expanded_url" : "http://blog.intercom.io/big-announcements-1000000-end-users-public-beta-awesome-advisors-1m-raised/",
-        "display_url" : "blog.intercom.io/big-announceme…"
+        "display_url" : "blog.intercom.io/big-announceme\u2026"
       } ]
     },
     "geo" : {
@@ -852,7 +852,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "eoghanmccabe",
       "protected" : false,
       "id_str" : "118203",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2303024544/d3js0kyhqc3rhp4dd1wh_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000087623379/7a8cc4c6563a17a9af612f144009d1e0_normal.png",
       "id" : 118203,
       "verified" : false
     }
@@ -1358,7 +1358,7 @@ Grailbird.data.tweets_2012_01 =
       "screen_name" : "joshsusser",
       "protected" : false,
       "id_str" : "35954885",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2283020561/rf7wslf0w4sd9gbtjamp_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3467390000/83de72f0fda7f2ebd7e60658bb6257f2_normal.png",
       "id" : 35954885,
       "verified" : false
     }
@@ -1592,7 +1592,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 61, 81 ],
       "url" : "http://t.co/DAl3ew3C",
       "expanded_url" : "http://www.eastvillageradio.com/upload/images/7505002523769-2(1).jpg",
-      "display_url" : "eastvillageradio.com/upload/images/…"
+      "display_url" : "eastvillageradio.com/upload/images/\u2026"
     } ]
   },
   "geo" : {
@@ -1677,7 +1677,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 92, 113 ],
       "url" : "https://t.co/TZT3uD4t",
       "expanded_url" : "https://github.com/briandoll/wodleader/wiki",
-      "display_url" : "github.com/briandoll/wodl…"
+      "display_url" : "github.com/briandoll/wodl\u2026"
     } ]
   },
   "geo" : {
@@ -1753,7 +1753,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1823,11 +1823,11 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1842,7 +1842,7 @@ Grailbird.data.tweets_2012_01 =
   "id" : 160479597962600448,
   "in_reply_to_status_id" : 160478729032826881,
   "created_at" : "Fri Jan 20 21:51:32 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1885,7 +1885,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wycats",
+      "name" : "Yehuda Katz",
       "screen_name" : "wycats",
       "indices" : [ 0, 7 ],
       "id_str" : "8526432",
@@ -1931,7 +1931,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 71, 91 ],
       "url" : "http://t.co/e9tTZcA6",
       "expanded_url" : "http://www-conf.slac.stanford.edu/xldb2011/talks/xldb2011_tue_1005_LinkedIn.pdf",
-      "display_url" : "www-conf.slac.stanford.edu/xldb2011/talks…"
+      "display_url" : "www-conf.slac.stanford.edu/xldb2011/talks\u2026"
     } ]
   },
   "geo" : {
@@ -1953,7 +1953,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1987,7 +1987,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2028,7 +2028,7 @@ Grailbird.data.tweets_2012_01 =
   "geo" : {
   },
   "id_str" : "160203339248828418",
-  "text" : "\"Experience with The Open Group Architecture Framework (TOGAF®) v9.0 desirable\" Oh, how I don't miss my time in finance systems architecture",
+  "text" : "\"Experience with The Open Group Architecture Framework (TOGAF\u00AE) v9.0 desirable\" Oh, how I don't miss my time in finance systems architecture",
   "id" : 160203339248828418,
   "created_at" : "Fri Jan 20 03:33:47 +0000 2012",
   "user" : {
@@ -2285,7 +2285,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 32, 53 ],
       "url" : "https://t.co/jsvlBbVt",
       "expanded_url" : "https://github.com/briandoll/change-inside-surroundings.vim",
-      "display_url" : "github.com/briandoll/chan…"
+      "display_url" : "github.com/briandoll/chan\u2026"
     } ]
   },
   "geo" : {
@@ -2322,7 +2322,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 29, 50 ],
       "url" : "https://t.co/jsvlBbVt",
       "expanded_url" : "https://github.com/briandoll/change-inside-surroundings.vim",
-      "display_url" : "github.com/briandoll/chan…"
+      "display_url" : "github.com/briandoll/chan\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "158775662172311553",
@@ -2421,7 +2421,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 31, 52 ],
       "url" : "https://t.co/IrSnQ9Xn",
       "expanded_url" : "https://github.com/briandoll/change-container.vim",
-      "display_url" : "github.com/briandoll/chan…"
+      "display_url" : "github.com/briandoll/chan\u2026"
     } ]
   },
   "geo" : {
@@ -2902,7 +2902,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 15, 35 ],
       "url" : "http://t.co/DQABm1hS",
       "expanded_url" : "http://www.stmbags.com.au/catalog/macbook-bag-13-inch/jacket-small-laptop-sleeve/",
-      "display_url" : "stmbags.com.au/catalog/macboo…"
+      "display_url" : "stmbags.com.au/catalog/macboo\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "156429102721667072",
@@ -3014,7 +3014,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 94, 114 ],
       "url" : "http://t.co/uTmWnsUk",
       "expanded_url" : "http://www.youtube.com/watch?v=xBgThvB_IDQ",
-      "display_url" : "youtube.com/watch?v=xBgThv…"
+      "display_url" : "youtube.com/watch?v=xBgThv\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "156230625022578688",
@@ -3038,7 +3038,7 @@ Grailbird.data.tweets_2012_01 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3286,7 +3286,7 @@ Grailbird.data.tweets_2012_01 =
   },
   "id_str" : "154991926603546624",
   "in_reply_to_user_id" : 8000842,
-  "text" : "@tpope bummer. that's what I guessed… no easy way to drive it and verify expectations. thanks.",
+  "text" : "@tpope bummer. that's what I guessed\u2026 no easy way to drive it and verify expectations. thanks.",
   "id" : 154991926603546624,
   "in_reply_to_status_id" : 154991629911080960,
   "created_at" : "Thu Jan 05 18:25:29 +0000 2012",
@@ -3525,7 +3525,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3599,7 +3599,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "8000842",
       "id" : 8000842
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 133, 140 ],
       "id_str" : "659933",
@@ -3611,7 +3611,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 100, 121 ],
       "url" : "https://t.co/btfxtyiE",
       "expanded_url" : "https://raw.github.com/gist/0bb206794102f4d5a1a2/c1a58adddb82d2c70e6b571cd2a703a4863da20c/gistfile1.txt",
-      "display_url" : "raw.github.com/gist/0bb206794…"
+      "display_url" : "raw.github.com/gist/0bb206794\u2026"
     } ]
   },
   "geo" : {
@@ -3682,7 +3682,7 @@ Grailbird.data.tweets_2012_01 =
   },
   "id_str" : "154725980970291202",
   "in_reply_to_user_id" : 637113,
-  "text" : "@RobotDeathSquad In finance, we did auth between internal apps (SOAP… shudder). Auth code was usually more complex than the service.",
+  "text" : "@RobotDeathSquad In finance, we did auth between internal apps (SOAP\u2026 shudder). Auth code was usually more complex than the service.",
   "id" : 154725980970291202,
   "in_reply_to_status_id" : 154721966903918592,
   "created_at" : "Thu Jan 05 00:48:43 +0000 2012",
@@ -3849,7 +3849,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/UoqcFrTb",
       "expanded_url" : "http://www.linkedin.com/pub/justin-mager/10/9a4/5a4",
-      "display_url" : "linkedin.com/pub/justin-mag…"
+      "display_url" : "linkedin.com/pub/justin-mag\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "154271621337726976",
@@ -4025,7 +4025,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 30, 50 ],
       "url" : "http://t.co/uUjzz8SC",
       "expanded_url" : "http://mralancooper.tumblr.com/post/14297722197/you-can-innovate-or-you-can-predict-and-measure",
-      "display_url" : "mralancooper.tumblr.com/post/142977221…"
+      "display_url" : "mralancooper.tumblr.com/post/142977221\u2026"
     } ]
   },
   "geo" : {
@@ -4361,7 +4361,7 @@ Grailbird.data.tweets_2012_01 =
       "id_str" : "4206131",
       "id" : 4206131
     }, {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 37, 44 ],
       "id_str" : "7516242",
@@ -4373,7 +4373,7 @@ Grailbird.data.tweets_2012_01 =
       "indices" : [ 52, 72 ],
       "url" : "http://t.co/7tAP0I8E",
       "expanded_url" : "http://mislav.uniqpath.com/2011/12/vim-revisited/",
-      "display_url" : "mislav.uniqpath.com/2011/12/vim-re…"
+      "display_url" : "mislav.uniqpath.com/2011/12/vim-re\u2026"
     } ]
   },
   "geo" : {
@@ -4429,7 +4429,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -4497,7 +4497,7 @@ Grailbird.data.tweets_2012_01 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

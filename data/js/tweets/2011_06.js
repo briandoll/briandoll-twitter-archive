@@ -32,7 +32,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradley Grzesiak",
+      "name" : "Brad Grzesiak",
       "screen_name" : "listrophy",
       "indices" : [ 0, 10 ],
       "id_str" : "1949721",
@@ -82,7 +82,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 94, 113 ],
       "url" : "http://t.co/MreCPpZ",
       "expanded_url" : "http://support.newrelic.com/help/kb/dotnet/new-relic-for-net",
-      "display_url" : "support.newrelic.com/help/kb/dotnet…"
+      "display_url" : "support.newrelic.com/help/kb/dotnet\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "86279630423724032",
@@ -121,13 +121,13 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 95, 114 ],
       "url" : "http://t.co/6xAkorz",
       "expanded_url" : "http://tenderlovemaking.com/2011/06/29/i-want-dtrace-probes-in-ruby/",
-      "display_url" : "tenderlovemaking.com/2011/06/29/i-w…"
+      "display_url" : "tenderlovemaking.com/2011/06/29/i-w\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "86209595890073600",
-  "text" : "\"To find these Hash allocations, I decided to add DTrace support (to ruby)\" - I ♥ @tenderlove! http://t.co/6xAkorz",
+  "text" : "\"To find these Hash allocations, I decided to add DTrace support (to ruby)\" - I \u2665 @tenderlove! http://t.co/6xAkorz",
   "id" : 86209595890073600,
   "created_at" : "Wed Jun 29 23:09:04 +0000 2011",
   "user" : {
@@ -143,7 +143,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -189,7 +189,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 102, 121 ],
       "url" : "http://t.co/eSJZOdV",
       "expanded_url" : "http://tenderlovemaking.com/2009/10/17/full-text-search-on-heroku/",
-      "display_url" : "tenderlovemaking.com/2009/10/17/ful…"
+      "display_url" : "tenderlovemaking.com/2009/10/17/ful\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "86166616328503296",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 77, 96 ],
       "url" : "http://t.co/yQMFfYa",
       "expanded_url" : "http://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser/985704#985704",
-      "display_url" : "stackoverflow.com/questions/9854…"
+      "display_url" : "stackoverflow.com/questions/9854\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "85851563352002561",
@@ -388,7 +388,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 26, 45 ],
       "url" : "http://t.co/Pfj4qvK",
       "expanded_url" : "http://warpspire.com/posts/designing-github-mac/",
-      "display_url" : "warpspire.com/posts/designin…"
+      "display_url" : "warpspire.com/posts/designin\u2026"
     } ]
   },
   "geo" : {
@@ -422,7 +422,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 87, 106 ],
       "url" : "http://t.co/WTl1tJH",
       "expanded_url" : "http://blog.heroku.com/archives/2011/6/28/the_new_heroku_4_erosion_resistance_explicit_contracts/",
-      "display_url" : "blog.heroku.com/archives/2011/…"
+      "display_url" : "blog.heroku.com/archives/2011/\u2026"
     } ]
   },
   "geo" : {
@@ -617,7 +617,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 44, 63 ],
       "url" : "http://t.co/yKK2W7b",
       "expanded_url" : "http://www.meetup.com/San-Francisco-Ruby-on-Rails-Group/events/22207811/",
-      "display_url" : "meetup.com/San-Francisco-…"
+      "display_url" : "meetup.com/San-Francisco-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "84671316652859392",
@@ -817,7 +817,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 65, 84 ],
       "url" : "http://t.co/VmsjRbL",
       "expanded_url" : "http://emphaticsolutions.com/2010/02/09/people-not-process-the-soul-of-agile.html",
-      "display_url" : "emphaticsolutions.com/2010/02/09/peo…"
+      "display_url" : "emphaticsolutions.com/2010/02/09/peo\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "84397890977538050",
@@ -902,7 +902,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 118, 137 ],
       "url" : "http://t.co/jgwTObq",
       "expanded_url" : "https://github.com/briandoll/dotfiles/blob/master/js/github.com.js",
-      "display_url" : "github.com/briandoll/dotf…"
+      "display_url" : "github.com/briandoll/dotf\u2026"
     } ]
   },
   "geo" : {
@@ -960,7 +960,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 117, 136 ],
         "url" : "http://t.co/EhXHTAk",
         "expanded_url" : "http://gogaruco.wufoo.com/forms/gogaruco-2011-call-for-proposals/",
-        "display_url" : "gogaruco.wufoo.com/forms/gogaruco…"
+        "display_url" : "gogaruco.wufoo.com/forms/gogaruco\u2026"
       } ]
     },
     "geo" : {
@@ -974,7 +974,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "gogaruco",
       "protected" : false,
       "id_str" : "19278778",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2305637396/mbhyx1x0azuf6c4p2yt1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3704109174/9fa686a50cfa1c0b487d58dea971f17a_normal.png",
       "id" : 19278778,
       "verified" : false
     }
@@ -1797,7 +1797,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 97, 116 ],
       "url" : "http://t.co/yKK2W7b",
       "expanded_url" : "http://www.meetup.com/San-Francisco-Ruby-on-Rails-Group/events/22207811/",
-      "display_url" : "meetup.com/San-Francisco-…"
+      "display_url" : "meetup.com/San-Francisco-\u2026"
     } ]
   },
   "geo" : {
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 72, 91 ],
       "url" : "http://t.co/dXvZ6Yf",
       "expanded_url" : "http://www.youtube.com/watch?v=BtxEKK8DllI",
-      "display_url" : "youtube.com/watch?v=BtxEKK…"
+      "display_url" : "youtube.com/watch?v=BtxEKK\u2026"
     } ]
   },
   "geo" : {
@@ -1953,7 +1953,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 39, 58 ],
       "url" : "http://t.co/wT0XdeZ",
       "expanded_url" : "http://games.crossfit.com/features/videos/unbeatable-danny-nichols-325-thruster-0",
-      "display_url" : "games.crossfit.com/features/video…"
+      "display_url" : "games.crossfit.com/features/video\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "82299039307137024",
@@ -2222,7 +2222,7 @@ Grailbird.data.tweets_2011_06 =
   "geo" : {
   },
   "id_str" : "81854624600031232",
-  "text" : "Was using Google maps earlier while driving past Google HQ, and just got a LinkedIn invite while at LinkedIn HQ. I ♥ living in the bay area.",
+  "text" : "Was using Google maps earlier while driving past Google HQ, and just got a LinkedIn invite while at LinkedIn HQ. I \u2665 living in the bay area.",
   "id" : 81854624600031232,
   "created_at" : "Fri Jun 17 22:43:57 +0000 2011",
   "user" : {
@@ -2321,7 +2321,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/UGHNqnK",
       "expanded_url" : "http://www.amazon.com/Release-Production-Ready-Software-Pragmatic-Programmers/dp/0978739213",
-      "display_url" : "amazon.com/Release-Produc…"
+      "display_url" : "amazon.com/Release-Produc\u2026"
     } ]
   },
   "geo" : {
@@ -2746,7 +2746,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 30, 49 ],
       "url" : "http://t.co/Fgd6bZT",
       "expanded_url" : "http://www.youtube.com/watch?v=bMJZ7RgCdhk",
-      "display_url" : "youtube.com/watch?v=bMJZ7R…"
+      "display_url" : "youtube.com/watch?v=bMJZ7R\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "80841179024994304",
@@ -2785,7 +2785,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 42, 61 ],
       "url" : "http://t.co/I2d4Nmc",
       "expanded_url" : "http://www.radiolab.org/blogs/radiolab-blog/2008/jul/29/tell-me-a-story/",
-      "display_url" : "radiolab.org/blogs/radiolab…"
+      "display_url" : "radiolab.org/blogs/radiolab\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "80620803242196993",
@@ -2830,7 +2830,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 89, 108 ],
       "url" : "http://t.co/sKSpw9T",
       "expanded_url" : "http://blog.hasmanythrough.com/2011/6/13/gogaruco-2011-cfp",
-      "display_url" : "blog.hasmanythrough.com/2011/6/13/goga…"
+      "display_url" : "blog.hasmanythrough.com/2011/6/13/goga\u2026"
     } ]
   },
   "geo" : {
@@ -2853,7 +2853,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 75, 94 ],
         "url" : "http://t.co/sKSpw9T",
         "expanded_url" : "http://blog.hasmanythrough.com/2011/6/13/gogaruco-2011-cfp",
-        "display_url" : "blog.hasmanythrough.com/2011/6/13/goga…"
+        "display_url" : "blog.hasmanythrough.com/2011/6/13/goga\u2026"
       } ]
     },
     "geo" : {
@@ -2867,7 +2867,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "gogaruco",
       "protected" : false,
       "id_str" : "19278778",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2305637396/mbhyx1x0azuf6c4p2yt1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3704109174/9fa686a50cfa1c0b487d58dea971f17a_normal.png",
       "id" : 19278778,
       "verified" : false
     }
@@ -2927,7 +2927,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 0, 13 ],
       "id_str" : "1020961",
@@ -2979,7 +2979,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 106, 125 ],
       "url" : "http://t.co/1aesWDk",
       "expanded_url" : "http://blog.newrelic.com/2011/05/17/how-rum-works/",
-      "display_url" : "blog.newrelic.com/2011/05/17/how…"
+      "display_url" : "blog.newrelic.com/2011/05/17/how\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "80377412344492032",
@@ -3800,7 +3800,7 @@ Grailbird.data.tweets_2011_06 =
   },
   "id_str" : "76040536951238656",
   "in_reply_to_user_id" : 3286561,
-  "text" : "@tsaleh @timocratic Ohhh that photo is Serious Business™ with the ear piece and all!",
+  "text" : "@tsaleh @timocratic Ohhh that photo is Serious Business\u2122 with the ear piece and all!",
   "id" : 76040536951238656,
   "in_reply_to_status_id" : 76039821591715840,
   "created_at" : "Wed Jun 01 21:40:51 +0000 2011",
@@ -3865,7 +3865,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 80, 99 ],
       "url" : "http://t.co/febMco2",
       "expanded_url" : "http://www.copyblogger.com/james-chartrand-underpants/",
-      "display_url" : "copyblogger.com/james-chartran…"
+      "display_url" : "copyblogger.com/james-chartran\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "75991393822191617",
@@ -4027,7 +4027,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "chacon",
       "protected" : false,
       "id_str" : "127583",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2971584770/c2eb68a17d006b00b7077af4efc80422_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3187178371/c65ce6fb5f3e0a1ceb5827022a702b66_normal.jpeg",
       "id" : 127583,
       "verified" : false
     }

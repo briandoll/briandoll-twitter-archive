@@ -319,7 +319,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andréa Cecil",
+      "name" : "Andr\u00E9a Cecil",
       "screen_name" : "andreacecil",
       "indices" : [ 0, 12 ],
       "id_str" : "7216852",
@@ -422,7 +422,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andréa Cecil",
+      "name" : "Andr\u00E9a Cecil",
       "screen_name" : "andreacecil",
       "indices" : [ 0, 12 ],
       "id_str" : "7216852",
@@ -521,7 +521,13 @@ Grailbird.data.tweets_2010_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Barry Jenkins",
+      "screen_name" : "BandryBarry",
+      "indices" : [ 0, 12 ],
+      "id_str" : "619278612",
+      "id" : 619278612
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -768,11 +774,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -787,7 +793,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 25150230326,
   "in_reply_to_status_id" : 25149901761,
   "created_at" : "Tue Sep 21 20:45:59 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1176,11 +1182,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1195,7 +1201,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24682564999,
   "in_reply_to_status_id" : 24682471971,
   "created_at" : "Thu Sep 16 17:22:08 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1210,11 +1216,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1229,7 +1235,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24682356044,
   "in_reply_to_status_id" : 24621805850,
   "created_at" : "Thu Sep 16 17:19:14 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1312,11 +1318,11 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1331,7 +1337,7 @@ Grailbird.data.tweets_2010_09 =
   "id" : 24615269555,
   "in_reply_to_status_id" : 24614960063,
   "created_at" : "Wed Sep 15 23:57:58 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1347,7 +1353,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "SlideShare",
-      "screen_name" : "slideshare",
+      "screen_name" : "SlideShare",
       "indices" : [ 7, 18 ],
       "id_str" : "9676152",
       "id" : 9676152
@@ -1382,7 +1388,7 @@ Grailbird.data.tweets_2010_09 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "SlideShare",
-      "screen_name" : "slideshare",
+      "screen_name" : "SlideShare",
       "indices" : [ 20, 31 ],
       "id_str" : "9676152",
       "id" : 9676152
@@ -1493,7 +1499,7 @@ Grailbird.data.tweets_2010_09 =
   },
   "id_str" : "24587771610",
   "in_reply_to_user_id" : 7632622,
-  "text" : "@alexch “Let the man speak!”",
+  "text" : "@alexch \u201CLet the man speak!\u201D",
   "id" : 24587771610,
   "in_reply_to_status_id" : 24587630023,
   "created_at" : "Wed Sep 15 17:08:18 +0000 2010",
@@ -2098,7 +2104,7 @@ Grailbird.data.tweets_2010_09 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

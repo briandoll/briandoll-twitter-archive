@@ -219,7 +219,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 118, 137 ],
       "url" : "http://t.co/AyL12f3",
       "expanded_url" : "http://blog.newrelic.com/2011/03/25/tell-us-your-stories-write-a-blog-post-about-how-you-use-new-relic-and-you-could-win-an-ipad-2/",
-      "display_url" : "blog.newrelic.com/2011/03/25/tel…"
+      "display_url" : "blog.newrelic.com/2011/03/25/tel\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "52661120967778304",
@@ -246,11 +246,11 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ignite",
-      "screen_name" : "ignite",
+      "name" : "Ignite",
+      "screen_name" : "Ignite",
       "indices" : [ 0, 7 ],
-      "id_str" : "18951280",
-      "id" : 18951280
+      "id_str" : "1493918006",
+      "id" : 1493918006
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -268,7 +268,7 @@ Grailbird.data.tweets_2011_03 =
   "text" : "@ignite Is it possible to suggest ignite talks to add to http://t.co/bz5ix7D ?",
   "id" : 52506497149702144,
   "created_at" : "Mon Mar 28 23:04:59 +0000 2011",
-  "in_reply_to_screen_name" : "ignite",
+  "in_reply_to_screen_name" : "ignitesh0w",
   "in_reply_to_user_id_str" : "18951280",
   "user" : {
     "name" : "Brian Doll",
@@ -301,7 +301,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 40, 59 ],
       "url" : "http://t.co/CokYdLr",
       "expanded_url" : "http://www.tonchidot.com/en/pressroom/articles/20110326/",
-      "display_url" : "tonchidot.com/en/pressroom/a…"
+      "display_url" : "tonchidot.com/en/pressroom/a\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "52500298052276224",
@@ -488,7 +488,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 84, 103 ],
       "url" : "http://t.co/VTW0R3D",
       "expanded_url" : "https://github.com/briandoll/git-svn-scripts",
-      "display_url" : "github.com/briandoll/git-…"
+      "display_url" : "github.com/briandoll/git-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "51840714274910208",
@@ -740,7 +740,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "TJ Belger",
+      "name" : "TJ's Gym",
       "screen_name" : "tjsgyms",
       "indices" : [ 71, 79 ],
       "id_str" : "155570209",
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 81, 100 ],
       "url" : "http://t.co/4dN0kxn",
       "expanded_url" : "http://media.crossfit.com/cf-video/CrossFit_NorCal40s_ShortOverview.mov",
-      "display_url" : "media.crossfit.com/cf-video/Cross…"
+      "display_url" : "media.crossfit.com/cf-video/Cross\u2026"
     } ]
   },
   "geo" : {
@@ -1099,7 +1099,7 @@ Grailbird.data.tweets_2011_03 =
   "geo" : {
   },
   "id_str" : "51002524542582784",
-  "text" : "Evernote’s Three Laws of Data Protection: http://t.co/21A3WQA // A bit verbose but great to see a post like this.  Love @evernote!",
+  "text" : "Evernote\u2019s Three Laws of Data Protection: http://t.co/21A3WQA // A bit verbose but great to see a post like this.  Love @evernote!",
   "id" : 51002524542582784,
   "created_at" : "Thu Mar 24 19:28:44 +0000 2011",
   "user" : {
@@ -1235,7 +1235,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 67, 81 ],
       "id_str" : "30372235",
@@ -1247,7 +1247,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 37, 56 ],
       "url" : "http://t.co/uaxAZl5",
       "expanded_url" : "http://library-rss.crossfit.com/free/rss/pdf/CFJ_Meatza_Recipe_March2011.pdf",
-      "display_url" : "library-rss.crossfit.com/free/rss/pdf/C…"
+      "display_url" : "library-rss.crossfit.com/free/rss/pdf/C\u2026"
     } ]
   },
   "geo" : {
@@ -1282,7 +1282,7 @@ Grailbird.data.tweets_2011_03 =
   "geo" : {
   },
   "id_str" : "50765855625199616",
-  "text" : "“defaults write com.apple.dock no-glass -boolean YES; killall Dock  # NO to change it back.” // SUCH a better OSX doc UI! /via @peterc",
+  "text" : "\u201Cdefaults write com.apple.dock no-glass -boolean YES; killall Dock  # NO to change it back.\u201D // SUCH a better OSX doc UI! /via @peterc",
   "id" : 50765855625199616,
   "created_at" : "Thu Mar 24 03:48:17 +0000 2011",
   "user" : {
@@ -1412,7 +1412,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 79, 98 ],
       "url" : "http://t.co/pQ3fwcC",
       "expanded_url" : "http://emphaticsolutions.com/2011/03/19/object-oriented-css-for-programmers.html",
-      "display_url" : "emphaticsolutions.com/2011/03/19/obj…"
+      "display_url" : "emphaticsolutions.com/2011/03/19/obj\u2026"
     } ]
   },
   "geo" : {
@@ -1756,11 +1756,11 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1775,7 +1775,7 @@ Grailbird.data.tweets_2011_03 =
   "id" : 50274879177633793,
   "in_reply_to_status_id" : 50274318948646912,
   "created_at" : "Tue Mar 22 19:17:19 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2016,20 +2016,14 @@ Grailbird.data.tweets_2011_03 =
 }, {
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Charles Poliquin ",
-      "screen_name" : "CharlesPoliquin",
-      "indices" : [ 90, 106 ],
-      "id_str" : "42722752",
-      "id" : 42722752
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
       "indices" : [ 64, 83 ],
       "url" : "http://t.co/CnJjXtt",
       "expanded_url" : "http://www.charlespoliquin.com/ArticlesMultimedia/Articles/Article/607/Going_Meatless.aspx",
-      "display_url" : "charlespoliquin.com/ArticlesMultim…"
+      "display_url" : "charlespoliquin.com/ArticlesMultim\u2026"
     } ]
   },
   "geo" : {
@@ -2091,7 +2085,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/pQ3fwcC",
       "expanded_url" : "http://emphaticsolutions.com/2011/03/19/object-oriented-css-for-programmers.html",
-      "display_url" : "emphaticsolutions.com/2011/03/19/obj…"
+      "display_url" : "emphaticsolutions.com/2011/03/19/obj\u2026"
     } ]
   },
   "geo" : {
@@ -2160,7 +2154,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 112, 131 ],
       "url" : "http://t.co/ykaDSzq",
       "expanded_url" : "http://blog.newrelic.com/2010/07/22/what-changed-using-deployment-tracking-in-rpm/",
-      "display_url" : "blog.newrelic.com/2010/07/22/wha…"
+      "display_url" : "blog.newrelic.com/2010/07/22/wha\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "49588993771315200",
@@ -2199,7 +2193,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 75, 94 ],
       "url" : "http://t.co/pQ3fwcC",
       "expanded_url" : "http://emphaticsolutions.com/2011/03/19/object-oriented-css-for-programmers.html",
-      "display_url" : "emphaticsolutions.com/2011/03/19/obj…"
+      "display_url" : "emphaticsolutions.com/2011/03/19/obj\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "48813441300959232",
@@ -2238,7 +2232,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 66, 85 ],
       "url" : "http://t.co/pQ3fwcC",
       "expanded_url" : "http://emphaticsolutions.com/2011/03/19/object-oriented-css-for-programmers.html",
-      "display_url" : "emphaticsolutions.com/2011/03/19/obj…"
+      "display_url" : "emphaticsolutions.com/2011/03/19/obj\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "49685998799552512",
@@ -2364,7 +2358,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 41, 60 ],
       "url" : "http://t.co/fpq3buB",
       "expanded_url" : "http://nymag.com/daily/intel/2011/03/womans_remarkable_vagina_hid_5.html",
-      "display_url" : "nymag.com/daily/intel/20…"
+      "display_url" : "nymag.com/daily/intel/20\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "48887156927758336",
@@ -2409,12 +2403,12 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/oa5FcMd",
       "expanded_url" : "https://github.com/stubbornella/oocss",
-      "display_url" : "github.com/stubbornella/o…"
+      "display_url" : "github.com/stubbornella/o\u2026"
     }, {
       "indices" : [ 94, 113 ],
       "url" : "http://t.co/LMa8pbB",
       "expanded_url" : "http://www.stubbornella.org/content/category/general/geek/",
-      "display_url" : "stubbornella.org/content/catego…"
+      "display_url" : "stubbornella.org/content/catego\u2026"
     } ]
   },
   "geo" : {
@@ -2788,7 +2782,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "2730471",
       "id" : 2730471
     }, {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 100, 107 ],
       "id_str" : "93017945",
@@ -2800,13 +2794,13 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 114, 133 ],
       "url" : "http://t.co/Vx8FsbN",
       "expanded_url" : "http://corner.squareup.com/2011/03/fsync-error-handling.html",
-      "display_url" : "corner.squareup.com/2011/03/fsync-…"
+      "display_url" : "corner.squareup.com/2011/03/fsync-\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "48422868337430529",
-  "text" : "\"Please submit corrections along with your résumé.\" Great post by @crazybob on fsync error handling @square blog: http://t.co/Vx8FsbN",
+  "text" : "\"Please submit corrections along with your r\u00E9sum\u00E9.\" Great post by @crazybob on fsync error handling @square blog: http://t.co/Vx8FsbN",
   "id" : 48422868337430529,
   "created_at" : "Thu Mar 17 16:38:06 +0000 2011",
   "user" : {
@@ -2831,7 +2825,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 108, 127 ],
       "url" : "http://t.co/07yXsME",
       "expanded_url" : "http://www.flickr.com/photos/viajante/5119659026/",
-      "display_url" : "flickr.com/photos/viajant…"
+      "display_url" : "flickr.com/photos/viajant\u2026"
     } ]
   },
   "geo" : {
@@ -3126,7 +3120,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "berkun",
       "protected" : false,
       "id_str" : "30495974",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1650114946/gravatar_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3473773522/4b23b27d77b27987333372676452e488_normal.png",
       "id" : 30495974,
       "verified" : false
     }
@@ -3528,7 +3522,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "14996079",
       "id" : 14996079
     }, {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 38, 43 ],
       "id_str" : "676573",
@@ -3596,7 +3590,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "violet blue ®",
+      "name" : "violet blue \u00AE",
       "screen_name" : "violetblue",
       "indices" : [ 0, 11 ],
       "id_str" : "5062341",
@@ -3905,7 +3899,7 @@ Grailbird.data.tweets_2011_03 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3979,7 +3973,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 66, 85 ],
       "url" : "http://t.co/38EnbXa",
       "expanded_url" : "http://en.wikipedia.org/wiki/Richter_magnitude_scale",
-      "display_url" : "en.wikipedia.org/wiki/Richter_m…"
+      "display_url" : "en.wikipedia.org/wiki/Richter_m\u2026"
     } ]
   },
   "geo" : {
@@ -4172,7 +4166,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 100, 119 ],
       "url" : "http://t.co/LBchrTp",
       "expanded_url" : "http://igniterailsconf.com/speakers/proposals",
-      "display_url" : "igniterailsconf.com/speakers/propo…"
+      "display_url" : "igniterailsconf.com/speakers/propo\u2026"
     } ]
   },
   "geo" : {
@@ -4410,7 +4404,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 64, 83 ],
       "url" : "http://t.co/ezYyuZ4",
       "expanded_url" : "http://examples.oreilly.com/9781565922570/email-opt.txt",
-      "display_url" : "examples.oreilly.com/9781565922570/…"
+      "display_url" : "examples.oreilly.com/9781565922570/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "45703317652897792",
@@ -4554,7 +4548,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 120, 139 ],
       "url" : "http://t.co/pCP9Tnc",
       "expanded_url" : "http://cr.yp.to/snuffle/bruteforce-20050425.pdf",
-      "display_url" : "cr.yp.to/snuffle/brutef…"
+      "display_url" : "cr.yp.to/snuffle/brutef\u2026"
     } ]
   },
   "geo" : {
@@ -5051,7 +5045,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 120, 139 ],
       "url" : "http://t.co/RiLvogB",
       "expanded_url" : "http://bmoremedia.com/features/startupcity030811.aspx",
-      "display_url" : "bmoremedia.com/features/start…"
+      "display_url" : "bmoremedia.com/features/start\u2026"
     } ]
   },
   "geo" : {
@@ -5406,7 +5400,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/rFIBnyg",
       "expanded_url" : "http://blog.newrelic.com/2011/01/06/the-fallacies-of-distributed-computing-reborn-the-cloud-era/",
-      "display_url" : "blog.newrelic.com/2011/01/06/the…"
+      "display_url" : "blog.newrelic.com/2011/01/06/the\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "44803470573846528",
@@ -5588,7 +5582,7 @@ Grailbird.data.tweets_2011_03 =
       "screen_name" : "ebertchicago",
       "protected" : false,
       "id_str" : "79797834",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1097198153/33ebert_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3709998068/2eaf8d1ffc7807586877b3b8eba23637_normal.jpeg",
       "id" : 79797834,
       "verified" : true
     }
@@ -5728,7 +5722,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 42, 61 ],
       "url" : "http://t.co/FqKdytU",
       "expanded_url" : "https://github.com/retr0h/ssl_requirement/",
-      "display_url" : "github.com/retr0h/ssl_req…"
+      "display_url" : "github.com/retr0h/ssl_req\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "43012321018265600",
@@ -5835,7 +5829,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 95, 114 ],
       "url" : "http://t.co/HBfXgJj",
       "expanded_url" : "http://blog.newrelic.com/2011/02/27/availability-monitoring-in-new-relic/",
-      "display_url" : "blog.newrelic.com/2011/02/27/ava…"
+      "display_url" : "blog.newrelic.com/2011/02/27/ava\u2026"
     } ]
   },
   "geo" : {
@@ -5869,7 +5863,7 @@ Grailbird.data.tweets_2011_03 =
       "id_str" : "106863403",
       "id" : 106863403
     }, {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 120, 134 ],
       "id_str" : "30372235",
@@ -5989,7 +5983,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 26, 45 ],
       "url" : "http://t.co/7MlTrzk",
       "expanded_url" : "http://www.youtube.com/watch?v=HnsHpPNltBw",
-      "display_url" : "youtube.com/watch?v=HnsHpP…"
+      "display_url" : "youtube.com/watch?v=HnsHpP\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "42743873516212224",
@@ -6028,7 +6022,7 @@ Grailbird.data.tweets_2011_03 =
       "indices" : [ 18, 37 ],
       "url" : "http://t.co/vJ6wagV",
       "expanded_url" : "http://www.quirkey.com/blog/2011/02/10/ish/",
-      "display_url" : "quirkey.com/blog/2011/02/1…"
+      "display_url" : "quirkey.com/blog/2011/02/1\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "42740440516141057",

@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6507111198",
-  "text" : "Schneier responding (via an old post) to Eric Schmidt's douchbaggery on privacy: http://bit.ly/72Tgo4  I ♥ Bruce Schneier.",
+  "text" : "Schneier responding (via an old post) to Eric Schmidt's douchbaggery on privacy: http://bit.ly/72Tgo4  I \u2665 Bruce Schneier.",
   "id" : 6507111198,
   "created_at" : "Wed Dec 09 20:12:27 +0000 2009",
   "user" : {
@@ -1590,7 +1590,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 1, 8 ],
       "id_str" : "659933",
@@ -2077,7 +2077,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6277278148",
-  "text" : "Who might the open-source software equivalent be of Paul Erdős http://bit.ly/6K7pld ?",
+  "text" : "Who might the open-source software equivalent be of Paul Erd\u0151s http://bit.ly/6K7pld ?",
   "id" : 6277278148,
   "created_at" : "Wed Dec 02 18:43:54 +0000 2009",
   "user" : {
@@ -2220,7 +2220,7 @@ Grailbird.data.tweets_2009_12 =
   "geo" : {
   },
   "id_str" : "6243551228",
-  "text" : "If you're into Kanban, check out agilezen.com (@agilezen).  As fluid as a physical board, as comfortable as it's name implies.  ♥♥♥",
+  "text" : "If you're into Kanban, check out agilezen.com (@agilezen).  As fluid as a physical board, as comfortable as it's name implies.  \u2665\u2665\u2665",
   "id" : 6243551228,
   "created_at" : "Tue Dec 01 19:00:09 +0000 2009",
   "user" : {

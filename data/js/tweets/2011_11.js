@@ -242,7 +242,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/buATTp31",
       "expanded_url" : "http://www.slideshare.net/terriko/how-does-biology-explain-the-low-numbers-of-women-in-cs-hint-it-doesnt/14",
-      "display_url" : "slideshare.net/terriko/how-do…"
+      "display_url" : "slideshare.net/terriko/how-do\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "141785670967500800",
@@ -315,7 +315,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/tTRJGVli",
       "expanded_url" : "http://en.wikipedia.org/wiki/Interrobang",
-      "display_url" : "en.wikipedia.org/wiki/Interroba…"
+      "display_url" : "en.wikipedia.org/wiki/Interroba\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "141764432253562880",
@@ -323,7 +323,7 @@ Grailbird.data.tweets_2011_11 =
   },
   "id_str" : "141765241510961152",
   "in_reply_to_user_id" : 713263,
-  "text" : "@defunkt don't forget about the interrobang ‽ http://t.co/tTRJGVli",
+  "text" : "@defunkt don't forget about the interrobang \u203D http://t.co/tTRJGVli",
   "id" : 141765241510961152,
   "in_reply_to_status_id" : 141764432253562880,
   "created_at" : "Wed Nov 30 06:27:22 +0000 2011",
@@ -394,7 +394,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 76, 96 ],
       "url" : "http://t.co/ojweGfd6",
       "expanded_url" : "https://skitch.com/briandoll/gckmm/oss",
-      "display_url" : "skitch.com/briandoll/gckm…"
+      "display_url" : "skitch.com/briandoll/gckm\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "141641351342194688",
@@ -421,7 +421,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -471,8 +471,8 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LUXr",
-      "screen_name" : "LUXrco",
+      "name" : "Luxr",
+      "screen_name" : "LuxrCo",
       "indices" : [ 3, 10 ],
       "id_str" : "183380260",
       "id" : 183380260
@@ -512,8 +512,8 @@ Grailbird.data.tweets_2011_11 =
     "id" : 141610470690914304,
     "created_at" : "Tue Nov 29 20:12:21 +0000 2011",
     "user" : {
-      "name" : "LUXr",
-      "screen_name" : "LUXrco",
+      "name" : "Luxr",
+      "screen_name" : "LuxrCo",
       "protected" : false,
       "id_str" : "183380260",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1126029836/LUXr_125_normal.jpg",
@@ -857,7 +857,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1301,7 +1301,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1611,7 +1611,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1639,7 +1639,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1701,7 +1701,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1826,7 +1826,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1903,7 +1903,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 92, 112 ],
       "url" : "http://t.co/tTRJGVli",
       "expanded_url" : "http://en.wikipedia.org/wiki/Interrobang",
-      "display_url" : "en.wikipedia.org/wiki/Interroba…"
+      "display_url" : "en.wikipedia.org/wiki/Interroba\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "137667043162992640",
@@ -1929,13 +1929,7 @@ Grailbird.data.tweets_2011_11 =
 }, {
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Allison Belger",
-      "screen_name" : "AllisonBelger",
-      "indices" : [ 0, 14 ],
-      "id_str" : "414139714",
-      "id" : 414139714
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1949,7 +1943,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 137665825971781633,
   "in_reply_to_status_id" : 137649087066554368,
   "created_at" : "Fri Nov 18 22:57:45 +0000 2011",
-  "in_reply_to_screen_name" : "AllisonBelger",
+  "in_reply_to_screen_name" : "psychologywod",
   "in_reply_to_user_id_str" : "414139714",
   "user" : {
     "name" : "Brian Doll",
@@ -1961,7 +1955,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1995,11 +1989,11 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2014,7 +2008,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 137585808222863361,
   "in_reply_to_status_id" : 137585568874901506,
   "created_at" : "Fri Nov 18 17:39:47 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2202,7 +2196,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2439,7 +2433,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 21, 41 ],
       "url" : "http://t.co/zOc4QKWo",
       "expanded_url" : "http://www.awesomehq.com/wp-content/uploads/2010/03/pogoball.jpg",
-      "display_url" : "awesomehq.com/wp-content/upl…"
+      "display_url" : "awesomehq.com/wp-content/upl\u2026"
     } ]
   },
   "geo" : {
@@ -2461,7 +2455,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 9, 16 ],
       "id_str" : "93017945",
@@ -2562,7 +2556,7 @@ Grailbird.data.tweets_2011_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2725,7 +2719,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 76, 96 ],
       "url" : "http://t.co/zZVAqPav",
       "expanded_url" : "http://www.youtube.com/watch?v=v2UwvN6zusg",
-      "display_url" : "youtube.com/watch?v=v2UwvN…"
+      "display_url" : "youtube.com/watch?v=v2UwvN\u2026"
     } ]
   },
   "geo" : {
@@ -2771,7 +2765,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/veVIlrKs",
       "expanded_url" : "https://github.com/schacon/git-scribe",
-      "display_url" : "github.com/schacon/git-sc…"
+      "display_url" : "github.com/schacon/git-sc\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "135031731265871872",
@@ -3072,7 +3066,7 @@ Grailbird.data.tweets_2011_11 =
     "created_at" : "Tue Nov 08 09:23:35 +0000 2011",
     "user" : {
       "name" : "Sander Koers",
-      "screen_name" : "KoersSander",
+      "screen_name" : "krednas",
       "protected" : false,
       "id_str" : "57939413",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/3027608095/1a278a37bd0cff085026f7ec663cf9c8_normal.jpeg",
@@ -3205,7 +3199,7 @@ Grailbird.data.tweets_2011_11 =
       "screen_name" : "mjlevitt",
       "protected" : false,
       "id_str" : "2567021",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3123644171/5f1af478092100a821954b2a4c0c652b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000114883067/29c907a3b5d9398a6e2a5508adbc82f4_normal.jpeg",
       "id" : 2567021,
       "verified" : false
     }
@@ -3368,11 +3362,11 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Elabs",
       "screen_name" : "elabs",
@@ -3393,7 +3387,7 @@ Grailbird.data.tweets_2011_11 =
   "id" : 133477519008608256,
   "in_reply_to_status_id" : 133468192298377216,
   "created_at" : "Mon Nov 07 09:34:55 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -3466,7 +3460,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/QalQ2vci",
       "expanded_url" : "http://emphaticsolutions.com/2011/03/19/object-oriented-css-for-programmers.html",
-      "display_url" : "emphaticsolutions.com/2011/03/19/obj…"
+      "display_url" : "emphaticsolutions.com/2011/03/19/obj\u2026"
     } ]
   },
   "geo" : {
@@ -3520,7 +3514,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 84, 104 ],
       "url" : "http://t.co/Ko0OdJ8l",
       "expanded_url" : "http://www.flickr.com/photos/emphaticelements/6314453742/lightbox/",
-      "display_url" : "flickr.com/photos/emphati…"
+      "display_url" : "flickr.com/photos/emphati\u2026"
     } ]
   },
   "geo" : {
@@ -3554,7 +3548,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 112, 132 ],
       "url" : "http://t.co/NmErKhj5",
       "expanded_url" : "http://www.flickr.com/photos/emphaticelements/6313936465/in/set-72157628056258852",
-      "display_url" : "flickr.com/photos/emphati…"
+      "display_url" : "flickr.com/photos/emphati\u2026"
     } ]
   },
   "geo" : {
@@ -3644,8 +3638,8 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LUXr",
-      "screen_name" : "LUXrco",
+      "name" : "Luxr",
+      "screen_name" : "LuxrCo",
       "indices" : [ 3, 10 ],
       "id_str" : "183380260",
       "id" : 183380260
@@ -3679,8 +3673,8 @@ Grailbird.data.tweets_2011_11 =
     "id" : 131969693182468096,
     "created_at" : "Thu Nov 03 05:43:21 +0000 2011",
     "user" : {
-      "name" : "LUXr",
-      "screen_name" : "LUXrco",
+      "name" : "Luxr",
+      "screen_name" : "LuxrCo",
       "protected" : false,
       "id_str" : "183380260",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1126029836/LUXr_125_normal.jpg",
@@ -3718,7 +3712,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/2XTXkPnT",
       "expanded_url" : "http://www.ustream.tv/channel/onlab-en",
-      "display_url" : "ustream.tv/channel/onlab-…"
+      "display_url" : "ustream.tv/channel/onlab-\u2026"
     } ]
   },
   "geo" : {
@@ -3740,7 +3734,7 @@ Grailbird.data.tweets_2011_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hiro Maeda",
+      "name" : "Hiro Maeda (\u524D\u7530\u30D2\u30ED\uFF09",
       "screen_name" : "djtokyo",
       "indices" : [ 3, 11 ],
       "id_str" : "14573397",
@@ -3755,7 +3749,7 @@ Grailbird.data.tweets_2011_11 =
       "indices" : [ 92, 112 ],
       "url" : "http://t.co/9Cg6gr2O",
       "expanded_url" : "http://www.ustream.tv/channel/onlab-en",
-      "display_url" : "ustream.tv/channel/onlab-…"
+      "display_url" : "ustream.tv/channel/onlab-\u2026"
     } ]
   },
   "geo" : {
@@ -3775,7 +3769,7 @@ Grailbird.data.tweets_2011_11 =
         "indices" : [ 79, 99 ],
         "url" : "http://t.co/9Cg6gr2O",
         "expanded_url" : "http://www.ustream.tv/channel/onlab-en",
-        "display_url" : "ustream.tv/channel/onlab-…"
+        "display_url" : "ustream.tv/channel/onlab-\u2026"
       } ]
     },
     "geo" : {
@@ -3785,7 +3779,7 @@ Grailbird.data.tweets_2011_11 =
     "id" : 131885743344861185,
     "created_at" : "Thu Nov 03 00:09:46 +0000 2011",
     "user" : {
-      "name" : "Hiro Maeda",
+      "name" : "Hiro Maeda (\u524D\u7530\u30D2\u30ED\uFF09",
       "screen_name" : "djtokyo",
       "protected" : false,
       "id_str" : "14573397",

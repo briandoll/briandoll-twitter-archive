@@ -1925,7 +1925,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2063,7 +2063,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2086,7 +2086,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2229,7 +2229,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Eric Hodel",
@@ -2286,7 +2286,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2309,7 +2309,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Peter Cooper",
@@ -2343,7 +2343,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Wanstrath",
@@ -2377,7 +2377,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Wanstrath",
@@ -2411,7 +2411,7 @@ Grailbird.data.tweets_2008_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://echofon.com/\" rel=\"nofollow\">Echofon</a>",
+  "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2768,7 +2768,7 @@ Grailbird.data.tweets_2008_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Sieger [日空]",
+      "name" : "Nick Sieger [\u65E5\u7A7A]",
       "screen_name" : "nicksieger",
       "indices" : [ 0, 11 ],
       "id_str" : "5504482",

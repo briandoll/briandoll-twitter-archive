@@ -66,7 +66,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 0, 13 ],
       "id_str" : "1020961",
@@ -550,7 +550,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "mperham",
       "protected" : false,
       "id_str" : "14060922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1531638646/headshot_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3615499471/5305a46167bd44ffd639196cf9965427_normal.jpeg",
       "id" : 14060922,
       "verified" : false
     }
@@ -1039,7 +1039,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -2125,7 +2125,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "1645208441716736",
-  "text" : "Hurl is back: http://hurl.it/ /via @defunkt - I ♥ Hurl. Crazy useful.",
+  "text" : "Hurl is back: http://hurl.it/ /via @defunkt - I \u2665 Hurl. Crazy useful.",
   "id" : 1645208441716736,
   "created_at" : "Mon Nov 08 14:40:22 +0000 2010",
   "user" : {
@@ -2802,7 +2802,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

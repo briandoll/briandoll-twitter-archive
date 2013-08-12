@@ -55,7 +55,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 81, 100 ],
       "url" : "http://t.co/iiSW2rN",
       "expanded_url" : "http://support.newrelic.com/kb/java/self-installing-java-agent",
-      "display_url" : "support.newrelic.com/kb/java/self-i…"
+      "display_url" : "support.newrelic.com/kb/java/self-i\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "75321638400430080",
@@ -129,7 +129,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "74991756944478208",
-  "text" : "RT @neilpatel: “To open a shop is easy, to keep it open is an art”",
+  "text" : "RT @neilpatel: \u201CTo open a shop is easy, to keep it open is an art\u201D",
   "retweeted_status" : {
     "source" : "<a href=\"http://sharefeed.com\" rel=\"nofollow\">ShareFeed</a>",
     "entities" : {
@@ -141,7 +141,7 @@ Grailbird.data.tweets_2011_05 =
     "geo" : {
     },
     "id_str" : "74988506325323776",
-    "text" : "“To open a shop is easy, to keep it open is an art”",
+    "text" : "\u201CTo open a shop is easy, to keep it open is an art\u201D",
     "id" : 74988506325323776,
     "created_at" : "Mon May 30 00:00:27 +0000 2011",
     "user" : {
@@ -435,7 +435,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc Hämmerle",
+      "name" : "Don Quixote",
       "screen_name" : "no7hing",
       "indices" : [ 0, 8 ],
       "id_str" : "14411615",
@@ -453,7 +453,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 114, 133 ],
       "url" : "http://t.co/xK5w9dh",
       "expanded_url" : "http://support.newrelic.com/kb/docs/custom-metric-collection",
-      "display_url" : "support.newrelic.com/kb/docs/custom…"
+      "display_url" : "support.newrelic.com/kb/docs/custom\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "73760856072126464",
@@ -674,7 +674,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 100, 119 ],
       "url" : "http://t.co/6o1kD5f",
       "expanded_url" : "http://www.youtube.com/watch?v=23xzRCoDZf4",
-      "display_url" : "youtube.com/watch?v=23xzRC…"
+      "display_url" : "youtube.com/watch?v=23xzRC\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "73523340526100481",
@@ -961,7 +961,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 120, 139 ],
       "url" : "http://t.co/dVaEtQb",
       "expanded_url" : "http://www.youtube.com/watch?v=BtxEKK8DllI",
-      "display_url" : "youtube.com/watch?v=BtxEKK…"
+      "display_url" : "youtube.com/watch?v=BtxEKK\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "73226962964975618",
@@ -1021,7 +1021,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "b6n",
       "protected" : false,
       "id_str" : "16031975",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3074962800/ad22f5cc827df63682c6a59c9169b5ee_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000108444498/3648054ee353c73eb923d86636ec06d2_normal.jpeg",
       "id" : 16031975,
       "verified" : false
     }
@@ -1081,7 +1081,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/zHA9Kcf",
       "expanded_url" : "http://www.marinij.com/marinnews/ci_18130567",
-      "display_url" : "marinij.com/marinnews/ci_1…"
+      "display_url" : "marinij.com/marinnews/ci_1\u2026"
     } ]
   },
   "geo" : {
@@ -1408,7 +1408,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 75, 94 ],
       "url" : "http://t.co/cX0TMhw",
       "expanded_url" : "http://bettween.com/briandoll/bleything",
-      "display_url" : "bettween.com/briandoll/bley…"
+      "display_url" : "bettween.com/briandoll/bley\u2026"
     } ]
   },
   "geo" : {
@@ -1467,7 +1467,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 21, 28 ],
       "id_str" : "93017945",
@@ -1609,7 +1609,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 46, 65 ],
       "url" : "http://t.co/dVaEtQb",
       "expanded_url" : "http://www.youtube.com/watch?v=BtxEKK8DllI",
-      "display_url" : "youtube.com/watch?v=BtxEKK…"
+      "display_url" : "youtube.com/watch?v=BtxEKK\u2026"
     } ]
   },
   "geo" : {
@@ -1646,7 +1646,7 @@ Grailbird.data.tweets_2011_05 =
   },
   "id_str" : "72348234714071042",
   "in_reply_to_user_id" : 1438261,
-  "text" : "@atmos Tábor is a pretty amazing small town, if you get a chance to drive out of Prague. Loving these pics!",
+  "text" : "@atmos T\u00E1bor is a pretty amazing small town, if you get a chance to drive out of Prague. Loving these pics!",
   "id" : 72348234714071042,
   "in_reply_to_status_id" : 72344577159340033,
   "created_at" : "Sun May 22 17:08:57 +0000 2011",
@@ -1840,7 +1840,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "newrelic",
       "protected" : false,
       "id_str" : "15527007",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/63290922/avatar_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3406837805/0779891adbade5fba538642cbd6d3953_normal.png",
       "id" : 15527007,
       "verified" : true
     }
@@ -1978,7 +1978,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pagely",
+      "name" : "Pagely\u00AE",
       "screen_name" : "Pagely",
       "indices" : [ 0, 7 ],
       "id_str" : "46861248",
@@ -2202,7 +2202,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blue Box Group",
+      "name" : "Blue Box ",
       "screen_name" : "bluebox",
       "indices" : [ 3, 11 ],
       "id_str" : "180497628",
@@ -2237,7 +2237,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 70602077700763648,
     "created_at" : "Tue May 17 21:30:21 +0000 2011",
     "user" : {
-      "name" : "Blue Box Group",
+      "name" : "Blue Box ",
       "screen_name" : "bluebox",
       "protected" : false,
       "id_str" : "180497628",
@@ -2261,7 +2261,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pagely",
+      "name" : "Pagely\u00AE",
       "screen_name" : "Pagely",
       "indices" : [ 0, 7 ],
       "id_str" : "46861248",
@@ -2517,7 +2517,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 60, 79 ],
       "url" : "http://t.co/nYxfYbb",
       "expanded_url" : "http://www.yelp.com/biz/burkes-restaurant-baltimore",
-      "display_url" : "yelp.com/biz/burkes-res…"
+      "display_url" : "yelp.com/biz/burkes-res\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "70124668941635584",
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pagely",
+      "name" : "Pagely\u00AE",
       "screen_name" : "Pagely",
       "indices" : [ 0, 7 ],
       "id_str" : "46861248",
@@ -2772,7 +2772,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pagely",
+      "name" : "Pagely\u00AE",
       "screen_name" : "Pagely",
       "indices" : [ 121, 128 ],
       "id_str" : "46861248",
@@ -3028,13 +3028,13 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Blue Box Group",
+      "name" : "Blue Box ",
       "screen_name" : "bluebox",
       "indices" : [ 3, 11 ],
       "id_str" : "180497628",
       "id" : 180497628
     }, {
-      "name" : "Blue Box Group",
+      "name" : "Blue Box ",
       "screen_name" : "bluebox",
       "indices" : [ 18, 26 ],
       "id_str" : "180497628",
@@ -3064,7 +3064,7 @@ Grailbird.data.tweets_2011_05 =
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Blue Box Group",
+        "name" : "Blue Box ",
         "screen_name" : "bluebox",
         "indices" : [ 5, 13 ],
         "id_str" : "180497628",
@@ -3096,7 +3096,7 @@ Grailbird.data.tweets_2011_05 =
     "id" : 70197536085913600,
     "created_at" : "Mon May 16 18:42:51 +0000 2011",
     "user" : {
-      "name" : "Blue Box Group",
+      "name" : "Blue Box ",
       "screen_name" : "bluebox",
       "protected" : false,
       "id_str" : "180497628",
@@ -3154,7 +3154,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "violet blue ®",
+      "name" : "violet blue \u00AE",
       "screen_name" : "violetblue",
       "indices" : [ 0, 11 ],
       "id_str" : "5062341",
@@ -3332,7 +3332,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "veganstraightedge",
       "protected" : false,
       "id_str" : "641013",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1266963198/avatar_a_sqaure_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3545362398/3f131adbf4e4b1f61789759ad09372ca_normal.png",
       "id" : 641013,
       "verified" : false
     }
@@ -3367,7 +3367,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 87, 106 ],
       "url" : "http://t.co/QBr9odS",
       "expanded_url" : "http://www.igniteaustin.org/2010/01/how-to-set-up-autoadvance-on-apple-keynote.html",
-      "display_url" : "igniteaustin.org/2010/01/how-to…"
+      "display_url" : "igniteaustin.org/2010/01/how-to\u2026"
     } ]
   },
   "geo" : {
@@ -3395,7 +3395,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 101, 120 ],
       "url" : "http://t.co/zU8WW7y",
       "expanded_url" : "http://farm2.static.flickr.com/1348/779698979_87a70e78d6.jpg",
-      "display_url" : "farm2.static.flickr.com/1348/779698979…"
+      "display_url" : "farm2.static.flickr.com/1348/779698979\u2026"
     } ]
   },
   "geo" : {
@@ -3578,7 +3578,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "69135820401025024",
-  "text" : "Always Be Shipping™",
+  "text" : "Always Be Shipping\u2122",
   "id" : 69135820401025024,
   "created_at" : "Fri May 13 20:23:58 +0000 2011",
   "user" : {
@@ -4035,7 +4035,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/WrCeAMV",
       "expanded_url" : "https://docs.google.com/present/edit?id=0ARdzmxsv2H3DZGR2eHd4NDdfMzZkZGM0am5mNQ&hl=en&authkey=COqIoOYJ",
-      "display_url" : "docs.google.com/present/edit?i…"
+      "display_url" : "docs.google.com/present/edit?i\u2026"
     } ]
   },
   "geo" : {
@@ -4228,7 +4228,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/pipvHag",
       "expanded_url" : "http://games.crossfit.com/regions/northern-california",
-      "display_url" : "games.crossfit.com/regions/northe…"
+      "display_url" : "games.crossfit.com/regions/northe\u2026"
     } ]
   },
   "geo" : {
@@ -4357,7 +4357,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "66621167741579264",
-  "text" : "Just said the same thing about a trail run this evening. “@al3x: I don't care where, just far.”",
+  "text" : "Just said the same thing about a trail run this evening. \u201C@al3x: I don't care where, just far.\u201D",
   "id" : 66621167741579264,
   "created_at" : "Fri May 06 21:51:38 +0000 2011",
   "user" : {
@@ -4497,7 +4497,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 89, 108 ],
       "url" : "http://t.co/DvOE2w8",
       "expanded_url" : "http://whiskeymar.ch/san-francisco-06-may-2011/",
-      "display_url" : "whiskeymar.ch/san-francisco-…"
+      "display_url" : "whiskeymar.ch/san-francisco-\u2026"
     } ]
   },
   "geo" : {

@@ -396,7 +396,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : {
   },
   "id_str" : "2244194919",
-  "text" : "Good music: when it's so good, you can't imagine taking the headphones off to make that call.  It's just gonna have to wait a while.  Jah! ",
+  "text" : "Good music: when it's so good, you can't imagine taking the headphones off to make that call.  It's just gonna have to wait a while.  Jah!\u2028",
   "id" : 2244194919,
   "created_at" : "Fri Jun 19 21:25:39 +0000 2009",
   "user" : {
@@ -693,7 +693,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -1337,7 +1337,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",

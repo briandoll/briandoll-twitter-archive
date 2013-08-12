@@ -288,7 +288,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 117, 137 ],
       "url" : "http://t.co/OA3Nbb28",
       "expanded_url" : "http://blog.newrelic.com/2011/09/28/state-of-the-stack-a-ruby-on-rails-benchmarking-report-sept-2011/",
-      "display_url" : "blog.newrelic.com/2011/09/28/sta…"
+      "display_url" : "blog.newrelic.com/2011/09/28/sta\u2026"
     } ]
   },
   "geo" : {
@@ -411,7 +411,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/OA3Nbb28",
       "expanded_url" : "http://blog.newrelic.com/2011/09/28/state-of-the-stack-a-ruby-on-rails-benchmarking-report-sept-2011/",
-      "display_url" : "blog.newrelic.com/2011/09/28/sta…"
+      "display_url" : "blog.newrelic.com/2011/09/28/sta\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "119143953613324288",
@@ -715,7 +715,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/AmHuQXCq",
       "expanded_url" : "http://web.archive.org/web/200102050006/http://www.teknobabble.net/brian/looking_to_satisfy_my_soul.html",
-      "display_url" : "web.archive.org/web/2001020500…"
+      "display_url" : "web.archive.org/web/2001020500\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "118830625988943872",
@@ -1151,7 +1151,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 114, 134 ],
       "url" : "http://t.co/pmgWVFu2",
       "expanded_url" : "http://hosted.ap.org/dynamic/stories/E/EU_BREAKING_LIGHT_SPEED?SITE=AP&SECTION=HOME&TEMPLATE=DEFAULT",
-      "display_url" : "hosted.ap.org/dynamic/storie…"
+      "display_url" : "hosted.ap.org/dynamic/storie\u2026"
     } ]
   },
   "geo" : {
@@ -1219,7 +1219,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 119, 139 ],
       "url" : "http://t.co/l6GTznda",
       "expanded_url" : "https://github.com/newrelic/rpm_contrib",
-      "display_url" : "github.com/newrelic/rpm_c…"
+      "display_url" : "github.com/newrelic/rpm_c\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "116939417180045312",
@@ -1261,7 +1261,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 110, 130 ],
       "url" : "http://t.co/qwyYFSDa",
       "expanded_url" : "http://blog.newrelic.com/2011/09/14/new-transaction-tracing-page/",
-      "display_url" : "blog.newrelic.com/2011/09/14/new…"
+      "display_url" : "blog.newrelic.com/2011/09/14/new\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "116937789580390400",
@@ -1346,7 +1346,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 60, 80 ],
       "url" : "http://t.co/7zg0MPPy",
       "expanded_url" : "http://en.wikipedia.org/wiki/List_of_exonerated_death_row_inmates#United_States",
-      "display_url" : "en.wikipedia.org/wiki/List_of_e…"
+      "display_url" : "en.wikipedia.org/wiki/List_of_e\u2026"
     } ]
   },
   "geo" : {
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2011_09 =
         "indices" : [ 49, 69 ],
         "url" : "http://t.co/7zg0MPPy",
         "expanded_url" : "http://en.wikipedia.org/wiki/List_of_exonerated_death_row_inmates#United_States",
-        "display_url" : "en.wikipedia.org/wiki/List_of_e…"
+        "display_url" : "en.wikipedia.org/wiki/List_of_e\u2026"
       } ]
     },
     "geo" : {
@@ -1625,7 +1625,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 51, 71 ],
       "url" : "http://t.co/hFkB3TEE",
       "expanded_url" : "http://www.youtube.com/watch?v=cM5A1K6TxxM",
-      "display_url" : "youtube.com/watch?v=cM5A1K…"
+      "display_url" : "youtube.com/watch?v=cM5A1K\u2026"
     } ]
   },
   "geo" : {
@@ -1652,12 +1652,6 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 0, 9 ],
       "id_str" : "75315883",
       "id" : 75315883
-    }, {
-      "name" : "@tunixman",
-      "screen_name" : "tunixman",
-      "indices" : [ 10, 19 ],
-      "id_str" : "166725432",
-      "id" : 166725432
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1878,7 +1872,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/LzrTdBrW",
       "expanded_url" : "http://banksimple.com/blog/BankSimple/a-first-look-at-BankSimple/",
-      "display_url" : "banksimple.com/blog/BankSimpl…"
+      "display_url" : "banksimple.com/blog/BankSimpl\u2026"
     } ]
   },
   "geo" : {
@@ -2133,7 +2127,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "james nguyen",
+      "name" : "James Nguyen",
       "screen_name" : "rivertiger",
       "indices" : [ 0, 11 ],
       "id_str" : "14539591",
@@ -2151,7 +2145,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 67, 87 ],
       "url" : "http://t.co/WQ73gOXC",
       "expanded_url" : "http://www.sfruby.info/messages/23130072/",
-      "display_url" : "sfruby.info/messages/23130…"
+      "display_url" : "sfruby.info/messages/23130\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "116280868355579905",
@@ -2218,7 +2212,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 90, 110 ],
       "url" : "http://t.co/08jkD7sO",
       "expanded_url" : "http://osxdaily.com/2011/09/04/internet-explorer-for-mac-ie7-ie8-ie-9-free/",
-      "display_url" : "osxdaily.com/2011/09/04/int…"
+      "display_url" : "osxdaily.com/2011/09/04/int\u2026"
     } ]
   },
   "geo" : {
@@ -2263,11 +2257,11 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2282,7 +2276,7 @@ Grailbird.data.tweets_2011_09 =
   "id" : 115986380437458945,
   "in_reply_to_status_id" : 115986081425534976,
   "created_at" : "Tue Sep 20 03:11:22 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2421,7 +2415,7 @@ Grailbird.data.tweets_2011_09 =
   "geo" : {
   },
   "id_str" : "115791162761158656",
-  "text" : "RT @Mike_FTW: Happy Monday, Knowledge Workers! How about we focus on building stuff this week? Let’s be our better selves.",
+  "text" : "RT @Mike_FTW: Happy Monday, Knowledge Workers! How about we focus on building stuff this week? Let\u2019s be our better selves.",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
     "entities" : {
@@ -2433,7 +2427,7 @@ Grailbird.data.tweets_2011_09 =
     "geo" : {
     },
     "id_str" : "115790622190878720",
-    "text" : "Happy Monday, Knowledge Workers! How about we focus on building stuff this week? Let’s be our better selves.",
+    "text" : "Happy Monday, Knowledge Workers! How about we focus on building stuff this week? Let\u2019s be our better selves.",
     "id" : 115790622190878720,
     "created_at" : "Mon Sep 19 14:13:30 +0000 2011",
     "user" : {
@@ -2504,7 +2498,7 @@ Grailbird.data.tweets_2011_09 =
       "screen_name" : "timocratic",
       "protected" : false,
       "id_str" : "14086000",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/532917848/me_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000045265098/f8582f2640ba8fee5957a95964b1555c_normal.jpeg",
       "id" : 14086000,
       "verified" : false
     }
@@ -2571,17 +2565,17 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 60, 80 ],
       "url" : "http://t.co/prktLHSm",
       "expanded_url" : "http://blog.newrelic.com/2011/05/17/how-rum-works/",
-      "display_url" : "blog.newrelic.com/2011/05/17/how…"
+      "display_url" : "blog.newrelic.com/2011/05/17/how\u2026"
     }, {
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/AixWqNTs",
       "expanded_url" : "http://blog.newrelic.com/2011/05/27/using-real-user-monitoring-to-improve-response-time/",
-      "display_url" : "blog.newrelic.com/2011/05/27/usi…"
+      "display_url" : "blog.newrelic.com/2011/05/27/usi\u2026"
     }, {
       "indices" : [ 102, 122 ],
       "url" : "http://t.co/FGsDLZxF",
       "expanded_url" : "http://blog.newrelic.com/2011/06/24/monitoring-user-experience-a-single-page-lifecycle/",
-      "display_url" : "blog.newrelic.com/2011/06/24/mon…"
+      "display_url" : "blog.newrelic.com/2011/06/24/mon\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "115488691308339200",
@@ -2642,7 +2636,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wycats",
+      "name" : "Yehuda Katz",
       "screen_name" : "wycats",
       "indices" : [ 59, 66 ],
       "id_str" : "8526432",
@@ -2683,7 +2677,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/nFvMbLhA",
       "expanded_url" : "http://en.wikipedia.org/wiki/Real-time_computing",
-      "display_url" : "en.wikipedia.org/wiki/Real-time…"
+      "display_url" : "en.wikipedia.org/wiki/Real-time\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "115195168105308160",
@@ -2857,7 +2851,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 60, 80 ],
       "url" : "http://t.co/iIMcgWdO",
       "expanded_url" : "https://github.com/briandoll/movableink-api",
-      "display_url" : "github.com/briandoll/mova…"
+      "display_url" : "github.com/briandoll/mova\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "113114731967025152",
@@ -3256,7 +3250,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/nrhhaRhQ",
       "expanded_url" : "http://blog.heroku.com/archives/2011/9/15/facebook/",
-      "display_url" : "blog.heroku.com/archives/2011/…"
+      "display_url" : "blog.heroku.com/archives/2011/\u2026"
     } ]
   },
   "geo" : {
@@ -3318,7 +3312,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 109, 129 ],
       "url" : "http://t.co/ldOsMQy7",
       "expanded_url" : "http://www.schneier.com/blog/archives/2011/09/a_status_report.html",
-      "display_url" : "schneier.com/blog/archives/…"
+      "display_url" : "schneier.com/blog/archives/\u2026"
     } ]
   },
   "geo" : {
@@ -3384,7 +3378,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 84, 104 ],
       "url" : "http://t.co/4SQrkwtG",
       "expanded_url" : "http://homepage.mac.com/mseffie/handouts/writegood.html",
-      "display_url" : "homepage.mac.com/mseffie/handou…"
+      "display_url" : "homepage.mac.com/mseffie/handou\u2026"
     } ]
   },
   "geo" : {
@@ -3646,7 +3640,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 71, 91 ],
       "url" : "http://t.co/hsfQLkn6",
       "expanded_url" : "https://img.skitch.com/20110915-8frtw8yya4tpwbkabkmmn3qu5p.jpg",
-      "display_url" : "img.skitch.com/20110915-8frtw…"
+      "display_url" : "img.skitch.com/20110915-8frtw\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "114174045242667008",
@@ -3679,7 +3673,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 117, 137 ],
       "url" : "http://t.co/MpeIWNTF",
       "expanded_url" : "https://img.skitch.com/20110915-ef87kyu72kn29hgr1hywf99g8j.jpg",
-      "display_url" : "img.skitch.com/20110915-ef87k…"
+      "display_url" : "img.skitch.com/20110915-ef87k\u2026"
     } ]
   },
   "geo" : {
@@ -3835,7 +3829,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3887,7 +3881,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 83, 102 ],
       "url" : "http://t.co/D9BRXGR",
       "expanded_url" : "https://support.newrelic.com/kb/java/multiple-applications-in-java",
-      "display_url" : "support.newrelic.com/kb/java/multip…"
+      "display_url" : "support.newrelic.com/kb/java/multip\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "114026489770545152",
@@ -4353,7 +4347,7 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ian Jørgensen",
+      "name" : "Ian J\u00F8rgensen",
       "screen_name" : "ianjorgensen",
       "indices" : [ 0, 13 ],
       "id_str" : "10289352",
@@ -4365,7 +4359,7 @@ Grailbird.data.tweets_2011_09 =
       "indices" : [ 14, 33 ],
       "url" : "http://t.co/MZzeNP3",
       "expanded_url" : "http://blog.newrelic.com/2011/06/20/new-data-api/",
-      "display_url" : "blog.newrelic.com/2011/06/20/new…"
+      "display_url" : "blog.newrelic.com/2011/06/20/new\u2026"
     } ]
   },
   "geo" : {
@@ -4424,6 +4418,12 @@ Grailbird.data.tweets_2011_09 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Devin Crawley",
+      "screen_name" : "DevinCrawley",
+      "indices" : [ 0, 13 ],
+      "id_str" : "1248827532",
+      "id" : 1248827532
+    }, {
       "name" : "NewRelic",
       "screen_name" : "newrelic",
       "indices" : [ 64, 73 ],

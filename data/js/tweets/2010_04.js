@@ -212,7 +212,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "33493",
       "id" : 33493
     }, {
-      "name" : "Cons.Def.Río.Maullín",
+      "name" : "Cons.Def.R\u00EDo.Maull\u00EDn",
       "screen_name" : "coderio",
       "indices" : [ 16, 24 ],
       "id_str" : "511003887",
@@ -455,7 +455,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wycats",
+      "name" : "Yehuda Katz",
       "screen_name" : "wycats",
       "indices" : [ 0, 7 ],
       "id_str" : "8526432",
@@ -586,7 +586,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -872,7 +872,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -895,7 +895,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1606,7 +1606,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2010_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+  "source" : "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00AE</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2097,7 +2097,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11952418007",
-  "text" : "Sí se puede! Celebrate César Chávez today, a true leader.",
+  "text" : "S\u00ED se puede! Celebrate C\u00E9sar Ch\u00E1vez today, a true leader.",
   "id" : 11952418007,
   "created_at" : "Sat Apr 10 19:31:47 +0000 2010",
   "user" : {
@@ -2142,7 +2142,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -2326,11 +2326,11 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Stephen Caudill",
       "screen_name" : "voxdolo",
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2010_04 =
   "id" : 11791745941,
   "in_reply_to_status_id" : 11791582579,
   "created_at" : "Wed Apr 07 23:08:02 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 0, 13 ],
       "id_str" : "1020961",
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 0, 13 ],
       "id_str" : "1020961",
@@ -2821,7 +2821,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "11444335400",
-  "text" : "What do RPM and Pivotal Tracker have in common? They’re agile, they’re effective, and now integrated. http://bit.ly/aq5ZVH (via @newrelic)",
+  "text" : "What do RPM and Pivotal Tracker have in common? They\u2019re agile, they\u2019re effective, and now integrated. http://bit.ly/aq5ZVH (via @newrelic)",
   "id" : 11444335400,
   "created_at" : "Thu Apr 01 20:57:49 +0000 2010",
   "user" : {
@@ -2837,7 +2837,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 0, 13 ],
       "id_str" : "1020961",
@@ -2905,7 +2905,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

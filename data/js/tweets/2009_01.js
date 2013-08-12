@@ -1798,7 +1798,7 @@ Grailbird.data.tweets_2009_01 =
       "id_str" : "1235521",
       "id" : 1235521
     }, {
-      "name" : "Dave Winer ☮",
+      "name" : "Dave Winer \u262E",
       "screen_name" : "davewiner",
       "indices" : [ 15, 25 ],
       "id_str" : "3839",

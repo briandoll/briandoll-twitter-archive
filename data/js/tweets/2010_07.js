@@ -693,7 +693,7 @@ Grailbird.data.tweets_2010_07 =
       "id_str" : "13368452",
       "id" : 13368452
     }, {
-      "name" : "Pete Cashmore",
+      "name" : "Mashable",
       "screen_name" : "mashable",
       "indices" : [ 29, 38 ],
       "id_str" : "972651",
@@ -2059,11 +2059,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2078,7 +2078,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 18944001627,
   "in_reply_to_status_id" : 18943965163,
   "created_at" : "Mon Jul 19 21:17:37 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2492,7 +2492,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 9, 16 ],
       "id_str" : "93017945",
@@ -2601,7 +2601,7 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "✎ Andrew Warner",
+      "name" : "\u270E Andrew Warner",
       "screen_name" : "AndrewWarner",
       "indices" : [ 34, 47 ],
       "id_str" : "1020961",
@@ -3681,11 +3681,11 @@ Grailbird.data.tweets_2010_07 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3700,7 +3700,7 @@ Grailbird.data.tweets_2010_07 =
   "id" : 17969267205,
   "in_reply_to_status_id" : 17968651389,
   "created_at" : "Wed Jul 07 18:23:14 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -4079,28 +4079,17 @@ Grailbird.data.tweets_2010_07 =
 }, {
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andy",
-      "screen_name" : "webandy",
-      "indices" : [ 0, 8 ],
-      "id_str" : "11589532",
-      "id" : 11589532
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "17521757045",
   "geo" : {
   },
   "id_str" : "17522207728",
-  "in_reply_to_user_id" : 11589532,
   "text" : "@webandy yea, I'm usually quite nice to them but this was insane. sent me a list of gigs and asked me to send back my contacts that match.",
   "id" : 17522207728,
-  "in_reply_to_status_id" : 17521757045,
   "created_at" : "Thu Jul 01 21:37:42 +0000 2010",
-  "in_reply_to_screen_name" : "webandy",
-  "in_reply_to_user_id_str" : "11589532",
   "user" : {
     "name" : "Brian Doll",
     "screen_name" : "briandoll",

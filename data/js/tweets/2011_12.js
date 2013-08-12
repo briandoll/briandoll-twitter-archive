@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2011_12 = 
  [ {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -28,7 +28,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -56,7 +56,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -112,7 +112,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -158,7 +158,7 @@ Grailbird.data.tweets_2011_12 =
   },
   "id_str" : "151157721226416128",
   "in_reply_to_user_id" : 59341538,
-  "text" : "@tehviking I was noticing that too. Sad. I first got hooked on the planner in in '94… been an odd road for them since.",
+  "text" : "@tehviking I was noticing that too. Sad. I first got hooked on the planner in in '94\u2026 been an odd road for them since.",
   "id" : 151157721226416128,
   "in_reply_to_status_id" : 151151638328000512,
   "created_at" : "Mon Dec 26 04:29:43 +0000 2011",
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 56, 76 ],
       "url" : "http://t.co/sgmFTQga",
       "expanded_url" : "http://aws.typepad.com/aws/2011/12/new-elastic-network-interfaces-in-the-virtual-private-cloud.html",
-      "display_url" : "aws.typepad.com/aws/2011/12/ne…"
+      "display_url" : "aws.typepad.com/aws/2011/12/ne\u2026"
     } ]
   },
   "geo" : {
@@ -627,7 +627,7 @@ Grailbird.data.tweets_2011_12 =
   },
   "id_str" : "149623100647018496",
   "in_reply_to_user_id" : 45603,
-  "text" : "@obie well, since Class objects are object instances of the Class class… I'd guess so ;)",
+  "text" : "@obie well, since Class objects are object instances of the Class class\u2026 I'd guess so ;)",
   "id" : 149623100647018496,
   "in_reply_to_status_id" : 149622700850167808,
   "created_at" : "Wed Dec 21 22:51:41 +0000 2011",
@@ -661,7 +661,7 @@ Grailbird.data.tweets_2011_12 =
   },
   "id_str" : "149620796455788544",
   "in_reply_to_user_id" : 1940,
-  "text" : "@l4rk • Give laptop to child - find every file in ~/ completely renamed to unintelligible gibberish.",
+  "text" : "@l4rk \u2022 Give laptop to child - find every file in ~/ completely renamed to unintelligible gibberish.",
   "id" : 149620796455788544,
   "in_reply_to_status_id" : 149618935304687616,
   "created_at" : "Wed Dec 21 22:42:32 +0000 2011",
@@ -698,7 +698,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/tTRJGVli",
       "expanded_url" : "http://en.wikipedia.org/wiki/Interrobang",
-      "display_url" : "en.wikipedia.org/wiki/Interroba…"
+      "display_url" : "en.wikipedia.org/wiki/Interroba\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "149589807339806720",
@@ -706,7 +706,7 @@ Grailbird.data.tweets_2011_12 =
   },
   "id_str" : "149597249687650304",
   "in_reply_to_user_id" : 22193381,
-  "text" : "@jyhsu @stirman Don't just stop at exclamation points!!1!!!11! When you're excitedly unsure it's time for interrobang ‽ http://t.co/tTRJGVli",
+  "text" : "@jyhsu @stirman Don't just stop at exclamation points!!1!!!11! When you're excitedly unsure it's time for interrobang \u203D http://t.co/tTRJGVli",
   "id" : 149597249687650304,
   "in_reply_to_status_id" : 149589807339806720,
   "created_at" : "Wed Dec 21 21:08:58 +0000 2011",
@@ -740,7 +740,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 9, 29 ],
       "url" : "http://t.co/lUIfSv9U",
       "expanded_url" : "http://tldp.org/LDP/Bash-Beginners-Guide/html/Bash-Beginners-Guide.html#sect_03_03_03",
-      "display_url" : "tldp.org/LDP/Bash-Begin…"
+      "display_url" : "tldp.org/LDP/Bash-Begin\u2026"
     } ]
   },
   "geo" : {
@@ -978,7 +978,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1311,11 +1311,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Jimmy Nordlund",
       "screen_name" : "jimmynordlund",
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 147406059575848962,
   "in_reply_to_status_id" : 147377253238579200,
   "created_at" : "Thu Dec 15 20:01:57 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1351,11 +1351,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1363,7 +1363,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 33, 53 ],
       "url" : "http://t.co/zAe4riqc",
       "expanded_url" : "http://blog.geckoboard.com/new-widget-new-relic",
-      "display_url" : "blog.geckoboard.com/new-widget-new…"
+      "display_url" : "blog.geckoboard.com/new-widget-new\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "147243391653122048",
@@ -1375,7 +1375,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 147370009948196864,
   "in_reply_to_status_id" : 147243391653122048,
   "created_at" : "Thu Dec 15 17:38:43 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1430,7 +1430,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/pHrJsTra",
       "expanded_url" : "http://www.pacificstandardtime.org/images/template/icecube.jpg",
-      "display_url" : "pacificstandardtime.org/images/templat…"
+      "display_url" : "pacificstandardtime.org/images/templat\u2026"
     } ]
   },
   "geo" : {
@@ -1452,11 +1452,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1471,7 +1471,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 147358490745249793,
   "in_reply_to_status_id" : 147347100164816896,
   "created_at" : "Thu Dec 15 16:52:56 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1486,11 +1486,11 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1505,7 +1505,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 147243132738740224,
   "in_reply_to_status_id" : 147242439193800704,
   "created_at" : "Thu Dec 15 09:14:33 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1658,7 +1658,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1830,7 +1830,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1895,8 +1895,8 @@ Grailbird.data.tweets_2011_12 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LUXr",
-      "screen_name" : "LUXrco",
+      "name" : "Luxr",
+      "screen_name" : "LuxrCo",
       "indices" : [ 0, 7 ],
       "id_str" : "183380260",
       "id" : 183380260
@@ -1919,7 +1919,7 @@ Grailbird.data.tweets_2011_12 =
   "id" : 145253231373713408,
   "in_reply_to_status_id" : 145252493897641984,
   "created_at" : "Fri Dec 09 21:27:23 +0000 2011",
-  "in_reply_to_screen_name" : "LUXrco",
+  "in_reply_to_screen_name" : "LuxrCo",
   "in_reply_to_user_id_str" : "183380260",
   "user" : {
     "name" : "Brian Doll",
@@ -2000,7 +2000,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 101, 121 ],
       "url" : "http://t.co/JMtjGwIK",
       "expanded_url" : "http://www.youtube.com/watch?v=CbKsgaXQy2k",
-      "display_url" : "youtube.com/watch?v=CbKsga…"
+      "display_url" : "youtube.com/watch?v=CbKsga\u2026"
     } ]
   },
   "geo" : {
@@ -2034,13 +2034,13 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 94, 114 ],
       "url" : "http://t.co/ID95hRun",
       "expanded_url" : "https://github.com/kneath/kss/blob/master/SPEC.md",
-      "display_url" : "github.com/kneath/kss/blo…"
+      "display_url" : "github.com/kneath/kss/blo\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "144520400506863616",
-  "text" : "… and that dovetails nicely into @kneath's much needed KSS spec for documenting stylesheets - http://t.co/ID95hRun",
+  "text" : "\u2026 and that dovetails nicely into @kneath's much needed KSS spec for documenting stylesheets - http://t.co/ID95hRun",
   "id" : 144520400506863616,
   "created_at" : "Wed Dec 07 20:55:23 +0000 2011",
   "user" : {
@@ -2062,7 +2062,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 70, 90 ],
       "url" : "http://t.co/l5Mclnyj",
       "expanded_url" : "http://www.henryandclover.com/2011/11/30/organising-semantic-stylesheets/",
-      "display_url" : "henryandclover.com/2011/11/30/org…"
+      "display_url" : "henryandclover.com/2011/11/30/org\u2026"
     } ]
   },
   "geo" : {
@@ -2124,7 +2124,7 @@ Grailbird.data.tweets_2011_12 =
       "id_str" : "15527007",
       "id" : 15527007
     }, {
-      "name" : "Mercadolibre",
+      "name" : "MercadoLibre",
       "screen_name" : "Mercadolibre",
       "indices" : [ 68, 81 ],
       "id_str" : "15141406",
@@ -2213,7 +2213,7 @@ Grailbird.data.tweets_2011_12 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2337,7 +2337,7 @@ Grailbird.data.tweets_2011_12 =
       "indices" : [ 96, 116 ],
       "url" : "http://t.co/Zpydh1G9",
       "expanded_url" : "http://newrelic.com/docs/java/java-agent-installation",
-      "display_url" : "newrelic.com/docs/java/java…"
+      "display_url" : "newrelic.com/docs/java/java\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "142529942750633985",

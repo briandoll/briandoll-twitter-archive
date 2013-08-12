@@ -920,7 +920,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Conrad Twizzle",
+      "name" : "buzzlebee",
       "screen_name" : "ctwiz",
       "indices" : [ 0, 6 ],
       "id_str" : "132811099",
@@ -1222,7 +1222,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1237,7 +1237,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "id_str" : "16910422892355584",
   "in_reply_to_user_id" : 659933,
-  "text" : "@bryanl I don't understand the utility either, but that is the greatest about.me page I've seen yet™.",
+  "text" : "@bryanl I don't understand the utility either, but that is the greatest about.me page I've seen yet\u2122.",
   "id" : 16910422892355584,
   "in_reply_to_status_id" : 16908687931084800,
   "created_at" : "Mon Dec 20 17:38:53 +0000 2010",
@@ -1313,7 +1313,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -1347,7 +1347,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -1381,7 +1381,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -2322,13 +2322,13 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 88, 93 ],
       "id_str" : "676573",
       "id" : 676573
     }, {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 105, 110 ],
       "id_str" : "676573",
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2010_12 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "SlideShare",
-      "screen_name" : "slideshare",
+      "screen_name" : "SlideShare",
       "indices" : [ 22, 33 ],
       "id_str" : "9676152",
       "id" : 9676152
@@ -3513,11 +3513,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3530,7 +3530,7 @@ Grailbird.data.tweets_2010_12 =
   "text" : "@cjkihlbom Happy Birthday, man! I'm loving these pics! Wish I could be there with you guys! Cheers!",
   "id" : 10490691343884289,
   "created_at" : "Fri Dec 03 00:29:10 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -3740,7 +3740,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -3797,7 +3797,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",
@@ -3831,7 +3831,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Balanced Bites",
+      "name" : "Diane Sanfilippo",
       "screen_name" : "balancedbites",
       "indices" : [ 0, 14 ],
       "id_str" : "30372235",

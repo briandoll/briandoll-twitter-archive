@@ -228,7 +228,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "33493",
       "id" : 33493
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 8, 15 ],
       "id_str" : "659933",
@@ -353,11 +353,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -372,7 +372,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 22527382826,
   "in_reply_to_status_id" : 22526874591,
   "created_at" : "Mon Aug 30 14:12:12 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1122,11 +1122,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1141,7 +1141,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21776033519,
   "in_reply_to_status_id" : 21775666122,
   "created_at" : "Sat Aug 21 20:40:25 +0000 2010",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2156,7 +2156,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -2247,7 +2247,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 135, 140 ],
       "id_str" : "676573",
@@ -2479,7 +2479,7 @@ Grailbird.data.tweets_2010_08 =
   "geo" : {
   },
   "id_str" : "20644152847",
-  "text" : "I ♥ this pan! Ceramic/Titanium instead of Teflon and no bolts on the inside == fast clean. http://amzn.to/b1trON #paleo",
+  "text" : "I \u2665 this pan! Ceramic/Titanium instead of Teflon and no bolts on the inside == fast clean. http://amzn.to/b1trON #paleo",
   "id" : 20644152847,
   "created_at" : "Sun Aug 08 17:44:08 +0000 2010",
   "user" : {
@@ -3070,11 +3070,11 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "1260941",
       "id" : 1260941
     }, {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 71, 81 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Randall Thomas",
       "screen_name" : "daksis",

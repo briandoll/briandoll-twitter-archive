@@ -40,7 +40,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/nWiKxMj",
       "expanded_url" : "http://www.youtube.com/watch?v=xz1cee_94L4",
-      "display_url" : "youtube.com/watch?v=xz1cee…"
+      "display_url" : "youtube.com/watch?v=xz1cee\u2026"
     } ]
   },
   "geo" : {
@@ -130,7 +130,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",
@@ -164,7 +164,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",
@@ -343,7 +343,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 81, 100 ],
       "url" : "http://t.co/tMI7ytH",
       "expanded_url" : "https://peepcode.com/products/play-by-play-zed-shaw",
-      "display_url" : "peepcode.com/products/play-…"
+      "display_url" : "peepcode.com/products/play-\u2026"
     } ]
   },
   "geo" : {
@@ -406,7 +406,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 86, 105 ],
       "url" : "http://t.co/sMPFRPn",
       "expanded_url" : "http://www.stubbornella.org/content/2011/04/28/our-best-practices-are-killing-us/",
-      "display_url" : "stubbornella.org/content/2011/0…"
+      "display_url" : "stubbornella.org/content/2011/0\u2026"
     } ]
   },
   "geo" : {
@@ -457,7 +457,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "wycats",
+      "name" : "Yehuda Katz",
       "screen_name" : "wycats",
       "indices" : [ 5, 12 ],
       "id_str" : "8526432",
@@ -480,7 +480,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/I4yppqc",
       "expanded_url" : "http://www.radiolab.org/blogs/radiolab-blog/2008/jul/29/tell-me-a-story/",
-      "display_url" : "radiolab.org/blogs/radiolab…"
+      "display_url" : "radiolab.org/blogs/radiolab\u2026"
     } ]
   },
   "geo" : {
@@ -854,7 +854,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 25, 44 ],
       "url" : "http://t.co/93ww51H",
       "expanded_url" : "https://skitch.com/briandoll/rhc8d/kill-darlings-kellogg",
-      "display_url" : "skitch.com/briandoll/rhc8…"
+      "display_url" : "skitch.com/briandoll/rhc8\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "63301424884359168",
@@ -1052,7 +1052,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/FaQHLXG",
       "expanded_url" : "http://www.43folders.com/2011/04/22/cranking",
-      "display_url" : "43folders.com/2011/04/22/cra…"
+      "display_url" : "43folders.com/2011/04/22/cra\u2026"
     } ]
   },
   "geo" : {
@@ -1160,11 +1160,11 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1172,7 +1172,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 73, 92 ],
       "url" : "http://t.co/LYRVvCS",
       "expanded_url" : "http://emphaticsolutions.com/2011/04/23/agile-construction-projects.html",
-      "display_url" : "emphaticsolutions.com/2011/04/23/agi…"
+      "display_url" : "emphaticsolutions.com/2011/04/23/agi\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "61485205659193344",
@@ -1184,7 +1184,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 61500480974622720,
   "in_reply_to_status_id" : 61485205659193344,
   "created_at" : "Fri Apr 22 18:43:51 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 73, 92 ],
       "url" : "http://t.co/ZAwjxBZ",
       "expanded_url" : "http://www.yelp.com/biz/church-key-san-francisco",
-      "display_url" : "yelp.com/biz/church-key…"
+      "display_url" : "yelp.com/biz/church-key\u2026"
     } ]
   },
   "geo" : {
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 96, 115 ],
       "url" : "http://t.co/Y9T6iNa",
       "expanded_url" : "http://techcrunch.com/2011/04/18/real-estate-listings-site-zillow-files-for-51-75-million-ipo/",
-      "display_url" : "techcrunch.com/2011/04/18/rea…"
+      "display_url" : "techcrunch.com/2011/04/18/rea\u2026"
     } ]
   },
   "geo" : {
@@ -1522,11 +1522,11 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1541,7 +1541,7 @@ Grailbird.data.tweets_2011_04 =
   "id" : 59767764340051968,
   "in_reply_to_status_id" : 59759401250193408,
   "created_at" : "Sun Apr 17 23:58:40 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1705,7 +1705,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 100, 119 ],
       "url" : "http://t.co/FRNeNeu",
       "expanded_url" : "http://www.youtube.com/watch?feature=player_embedded&v=G-dPjDYVKUY#at=120",
-      "display_url" : "youtube.com/watch?feature=…"
+      "display_url" : "youtube.com/watch?feature=\u2026"
     } ]
   },
   "geo" : {
@@ -1745,7 +1745,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 75, 94 ],
       "url" : "http://t.co/ToSpjj2",
       "expanded_url" : "http://confreaks.net/videos/363-gogaruco2010-the-shell-hater-s-handbook",
-      "display_url" : "confreaks.net/videos/363-gog…"
+      "display_url" : "confreaks.net/videos/363-gog\u2026"
     } ]
   },
   "geo" : {
@@ -1974,7 +1974,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 66, 85 ],
       "url" : "http://t.co/GV1fPPu",
       "expanded_url" : "http://muledesign.com/remote/fuck-you-pay-me-promo.png",
-      "display_url" : "muledesign.com/remote/fuck-yo…"
+      "display_url" : "muledesign.com/remote/fuck-yo\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "58586569115836416",
@@ -2140,7 +2140,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 94, 113 ],
       "url" : "http://t.co/3jHbM2o",
       "expanded_url" : "http://games.crossfit.com/features/regional-locations-and-qualifying-spots",
-      "display_url" : "games.crossfit.com/features/regio…"
+      "display_url" : "games.crossfit.com/features/regio\u2026"
     } ]
   },
   "geo" : {
@@ -2174,7 +2174,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 119, 138 ],
       "url" : "http://t.co/Ou1l2yT",
       "expanded_url" : "http://en.blog.wordpress.com/2011/04/13/security/",
-      "display_url" : "en.blog.wordpress.com/2011/04/13/sec…"
+      "display_url" : "en.blog.wordpress.com/2011/04/13/sec\u2026"
     } ]
   },
   "geo" : {
@@ -2693,7 +2693,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "GOOD",
       "protected" : false,
       "id_str" : "19621110",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2828755079/c03c10b9b4a7aeab8961a5ddecab3715_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3444533212/fd0ee01ab8ff3ee05b8d1b5c5187f840_normal.jpeg",
       "id" : 19621110,
       "verified" : true
     }
@@ -3114,7 +3114,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 115, 134 ],
       "url" : "http://t.co/crf3HWP",
       "expanded_url" : "http://laughingsquid.com/mike-monteiro-fck-you-pay-me-at-creativemornings-in-san-francisco/",
-      "display_url" : "laughingsquid.com/mike-monteiro-…"
+      "display_url" : "laughingsquid.com/mike-monteiro-\u2026"
     } ]
   },
   "geo" : {
@@ -3142,7 +3142,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 29, 48 ],
       "url" : "http://t.co/ln8OHfL",
       "expanded_url" : "http://cyclingshoesonline.com/road-cycling-shoes/sidi-t2-women%E2%80%99s-triathlon-shoe/",
-      "display_url" : "cyclingshoesonline.com/road-cycling-s…"
+      "display_url" : "cyclingshoesonline.com/road-cycling-s\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "56099361989472256",
@@ -3209,7 +3209,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 87, 106 ],
       "url" : "http://t.co/85gVWT4",
       "expanded_url" : "http://www.nytimes.com/2011/04/07/nyregion/07wishbone.html?_r=1",
-      "display_url" : "nytimes.com/2011/04/07/nyr…"
+      "display_url" : "nytimes.com/2011/04/07/nyr\u2026"
     } ]
   },
   "geo" : {
@@ -3243,7 +3243,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 81, 100 ],
       "url" : "http://t.co/229VJkq",
       "expanded_url" : "http://blog.newrelic.com/2011/04/06/test-drive-our-new-user-interface-now-in-beta/",
-      "display_url" : "blog.newrelic.com/2011/04/06/tes…"
+      "display_url" : "blog.newrelic.com/2011/04/06/tes\u2026"
     } ]
   },
   "geo" : {
@@ -3366,7 +3366,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "aral",
       "protected" : false,
       "id_str" : "48903",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2402610195/l7da7z83oydda5ogs0az_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3368588846/256379c601670ec2a0adf2d6a678a46d_normal.jpeg",
       "id" : 48903,
       "verified" : false
     }
@@ -3548,7 +3548,7 @@ Grailbird.data.tweets_2011_04 =
       "indices" : [ 84, 103 ],
       "url" : "http://t.co/KVCFR1s",
       "expanded_url" : "http://confreaks.net/videos/350-gogaruco2010-being-your-best-asset-and-not-your-worst-enemy",
-      "display_url" : "confreaks.net/videos/350-gog…"
+      "display_url" : "confreaks.net/videos/350-gog\u2026"
     } ]
   },
   "geo" : {
@@ -3570,7 +3570,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -3672,7 +3672,7 @@ Grailbird.data.tweets_2011_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3774,7 +3774,7 @@ Grailbird.data.tweets_2011_04 =
       "screen_name" : "newrelic",
       "protected" : false,
       "id_str" : "15527007",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/63290922/avatar_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3406837805/0779891adbade5fba538642cbd6d3953_normal.png",
       "id" : 15527007,
       "verified" : true
     }

@@ -50,7 +50,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 85, 105 ],
       "url" : "http://t.co/7owqYNx7",
       "expanded_url" : "http://techcrunch.com/2012/02/29/coderdojo-hits-the-us/",
-      "display_url" : "techcrunch.com/2012/02/29/cod…"
+      "display_url" : "techcrunch.com/2012/02/29/cod\u2026"
     } ]
   },
   "geo" : {
@@ -73,7 +73,7 @@ Grailbird.data.tweets_2012_02 =
         "indices" : [ 69, 89 ],
         "url" : "http://t.co/7owqYNx7",
         "expanded_url" : "http://techcrunch.com/2012/02/29/coderdojo-hits-the-us/",
-        "display_url" : "techcrunch.com/2012/02/29/cod…"
+        "display_url" : "techcrunch.com/2012/02/29/cod\u2026"
       } ]
     },
     "geo" : {
@@ -125,7 +125,7 @@ Grailbird.data.tweets_2012_02 =
   "geo" : {
   },
   "id_str" : "174922239798546432",
-  "text" : "RT @paulca: Úll is now on sale.\n\nhttp://t.co/OOp4d4yy",
+  "text" : "RT @paulca: \u00DAll is now on sale.\n\nhttp://t.co/OOp4d4yy",
   "retweeted_status" : {
     "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
     "entities" : {
@@ -142,7 +142,7 @@ Grailbird.data.tweets_2012_02 =
     "geo" : {
     },
     "id_str" : "174920148233359360",
-    "text" : "Úll is now on sale.\n\nhttp://t.co/OOp4d4yy",
+    "text" : "\u00DAll is now on sale.\n\nhttp://t.co/OOp4d4yy",
     "id" : 174920148233359360,
     "created_at" : "Wed Feb 29 18:13:07 +0000 2012",
     "user" : {
@@ -182,7 +182,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 61, 81 ],
       "url" : "http://t.co/z391Iv5K",
       "expanded_url" : "http://shop.github.com/products/octocat-hoodie",
-      "display_url" : "shop.github.com/products/octoc…"
+      "display_url" : "shop.github.com/products/octoc\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "174713142570528768",
@@ -351,7 +351,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 58, 78 ],
       "url" : "http://t.co/WIoUCihO",
       "expanded_url" : "http://blog.twitter.com/2012/02/promoted-products-now-more-mobile.html",
-      "display_url" : "blog.twitter.com/2012/02/promot…"
+      "display_url" : "blog.twitter.com/2012/02/promot\u2026"
     } ]
   },
   "geo" : {
@@ -385,7 +385,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/07xDyzMR",
       "expanded_url" : "http://zachholman.com/talk/word-of-mouth",
-      "display_url" : "zachholman.com/talk/word-of-m…"
+      "display_url" : "zachholman.com/talk/word-of-m\u2026"
     } ]
   },
   "geo" : {
@@ -612,12 +612,12 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 54, 75 ],
       "url" : "https://t.co/qYQ8SBgY",
       "expanded_url" : "https://github.com/blog/1042-brian-doll-is-a-githubber",
-      "display_url" : "github.com/blog/1042-bria…"
+      "display_url" : "github.com/blog/1042-bria\u2026"
     }, {
       "indices" : [ 115, 135 ],
       "url" : "http://t.co/UQ74ZI9T",
       "expanded_url" : "http://www.wired.com/wiredenterprise/2012/02/github/",
-      "display_url" : "wired.com/wiredenterpris…"
+      "display_url" : "wired.com/wiredenterpris\u2026"
     } ]
   },
   "geo" : {
@@ -691,7 +691,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 45, 66 ],
       "url" : "https://t.co/BdGhK5fK",
       "expanded_url" : "https://github.com/blog/1042-brian-doll-is-a-githubber",
-      "display_url" : "github.com/blog/1042-bria…"
+      "display_url" : "github.com/blog/1042-bria\u2026"
     } ]
   },
   "geo" : {
@@ -714,7 +714,7 @@ Grailbird.data.tweets_2012_02 =
         "indices" : [ 33, 54 ],
         "url" : "https://t.co/BdGhK5fK",
         "expanded_url" : "https://github.com/blog/1042-brian-doll-is-a-githubber",
-        "display_url" : "github.com/blog/1042-bria…"
+        "display_url" : "github.com/blog/1042-bria\u2026"
       } ]
     },
     "geo" : {
@@ -860,7 +860,7 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "169919444313837569",
   "in_reply_to_user_id" : 14060922,
-  "text" : "@mperham soap4r barely works on any ruby… so sad how abandoned that code is. I have a patch from 2008 that never got merged, too.",
+  "text" : "@mperham soap4r barely works on any ruby\u2026 so sad how abandoned that code is. I have a patch from 2008 that never got merged, too.",
   "id" : 169919444313837569,
   "in_reply_to_status_id" : 169919205016223744,
   "created_at" : "Wed Feb 15 23:02:07 +0000 2012",
@@ -1243,7 +1243,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/cDsiEjdM",
       "expanded_url" : "http://service.path.com/customer/portal/articles/257565-how-do-i-close-reactivate-my-path-account-",
-      "display_url" : "service.path.com/customer/porta…"
+      "display_url" : "service.path.com/customer/porta\u2026"
     } ]
   },
   "geo" : {
@@ -1283,7 +1283,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 90, 111 ],
       "url" : "https://t.co/sUCnI7v4",
       "expanded_url" : "https://github.com/mathiasbynens/dotfiles/blob/master/.osx",
-      "display_url" : "github.com/mathiasbynens/…"
+      "display_url" : "github.com/mathiasbynens/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "166950081080197121",
@@ -1414,7 +1414,7 @@ Grailbird.data.tweets_2012_02 =
       "indices" : [ 115, 136 ],
       "url" : "https://t.co/swF6HUFu",
       "expanded_url" : "https://www.destroyallsoftware.com/screencasts/users/sign_up",
-      "display_url" : "destroyallsoftware.com/screencasts/us…"
+      "display_url" : "destroyallsoftware.com/screencasts/us\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "165547606905323520",
@@ -1441,7 +1441,7 @@ Grailbird.data.tweets_2012_02 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 0, 7 ],
       "id_str" : "93017945",
@@ -1488,7 +1488,7 @@ Grailbird.data.tweets_2012_02 =
   },
   "id_str" : "165484529031725057",
   "in_reply_to_user_id" : 5841,
-  "text" : "@stirman or as gymnasts call it: \"getting up on the rings to start my day\"… hate those gymnasts ;) Congrats man!",
+  "text" : "@stirman or as gymnasts call it: \"getting up on the rings to start my day\"\u2026 hate those gymnasts ;) Congrats man!",
   "id" : 165484529031725057,
   "in_reply_to_status_id" : 165482574037270529,
   "created_at" : "Fri Feb 03 17:19:20 +0000 2012",

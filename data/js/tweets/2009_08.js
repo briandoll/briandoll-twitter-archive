@@ -564,7 +564,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3409546934",
-  "text" : "wishing _why's last tweet about programming not being very rewarding was in the cached version of his twitter page.  ⌘Z _why, ⌘Z!",
+  "text" : "wishing _why's last tweet about programming not being very rewarding was in the cached version of his twitter page.  \u2318Z _why, \u2318Z!",
   "id" : 3409546934,
   "created_at" : "Wed Aug 19 17:53:41 +0000 2009",
   "user" : {

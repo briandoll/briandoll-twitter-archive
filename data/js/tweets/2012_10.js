@@ -145,7 +145,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -160,7 +160,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "263114617033748480",
-  "text" : "Sofia is such a beautiful old city. @ София (Sofia) http://t.co/lEYUXjvV",
+  "text" : "Sofia is such a beautiful old city. @ \u0421\u043E\u0444\u0438\u044F (Sofia) http://t.co/lEYUXjvV",
   "id" : 263114617033748480,
   "created_at" : "Tue Oct 30 03:06:27 +0000 2012",
   "user" : {
@@ -288,7 +288,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "261905544242147328",
   "in_reply_to_user_id" : 89854263,
-  "text" : "@ralphbod @nicbenders I’m not so sure how I feel about dem pickle juices",
+  "text" : "@ralphbod @nicbenders I\u2019m not so sure how I feel about dem pickle juices",
   "id" : 261905544242147328,
   "in_reply_to_status_id" : 261896798480785409,
   "created_at" : "Fri Oct 26 19:02:02 +0000 2012",
@@ -304,7 +304,7 @@ Grailbird.data.tweets_2012_10 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -353,7 +353,7 @@ Grailbird.data.tweets_2012_10 =
       "id_str" : "9980812",
       "id" : 9980812
     }, {
-      "name" : "Sparked Ventures",
+      "name" : "Science!",
       "screen_name" : "s",
       "indices" : [ 134, 136 ],
       "id_str" : "347002675",
@@ -459,7 +459,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "261281866643021825",
-  "text" : "Bonita Applebaum on the juke, manhattans poured perfectly in a Boat bar in Brooklyn. Having a real I ❤ NY moment right now. /cc @dylanegan",
+  "text" : "Bonita Applebaum on the juke, manhattans poured perfectly in a Boat bar in Brooklyn. Having a real I \u2764 NY moment right now. /cc @dylanegan",
   "id" : 261281866643021825,
   "created_at" : "Thu Oct 25 01:43:46 +0000 2012",
   "user" : {
@@ -475,7 +475,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "₍˄ุ.͡˳̫.˄ุ₎",
+      "name" : "\u208D\u02C4\u0E38.\u0361\u02F3\u032B.\u02C4\u0E38\u208E",
       "screen_name" : "jina",
       "indices" : [ 0, 5 ],
       "id_str" : "8501792",
@@ -508,7 +508,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "261264325187100672",
   "in_reply_to_user_id" : 8501792,
-  "text" : "@jina @dylanegan @meixellent @seaofclouds no more rose. She’s gone baby, she’s gone. Lets pour one out for Rosie.",
+  "text" : "@jina @dylanegan @meixellent @seaofclouds no more rose. She\u2019s gone baby, she\u2019s gone. Lets pour one out for Rosie.",
   "id" : 261264325187100672,
   "in_reply_to_status_id" : 261201953638469632,
   "created_at" : "Thu Oct 25 00:34:03 +0000 2012",
@@ -527,7 +527,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "₍˄ุ.͡˳̫.˄ุ₎",
+      "name" : "\u208D\u02C4\u0E38.\u0361\u02F3\u032B.\u02C4\u0E38\u208E",
       "screen_name" : "jina",
       "indices" : [ 0, 5 ],
       "id_str" : "8501792",
@@ -590,7 +590,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "261263651934195713",
   "in_reply_to_user_id" : 8501792,
-  "text" : "@jina @dylanegan @meixellent @seaofclouds I’m on a boat! Looking for Rose… http://t.co/BqeJqiSz",
+  "text" : "@jina @dylanegan @meixellent @seaofclouds I\u2019m on a boat! Looking for Rose\u2026 http://t.co/BqeJqiSz",
   "id" : 261263651934195713,
   "in_reply_to_status_id" : 261201953638469632,
   "created_at" : "Thu Oct 25 00:31:23 +0000 2012",
@@ -865,7 +865,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 83, 104 ],
       "url" : "https://t.co/BmkY4FH3",
       "expanded_url" : "https://twitter.com/BigDataBorat/status/261136673969147905",
-      "display_url" : "twitter.com/BigDataBorat/s…"
+      "display_url" : "twitter.com/BigDataBorat/s\u2026"
     } ]
   },
   "geo" : {
@@ -1003,7 +1003,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "260921719475273728",
-  "text" : "Hangin’ with a corpus of data scientists",
+  "text" : "Hangin\u2019 with a corpus of data scientists",
   "id" : 260921719475273728,
   "created_at" : "Wed Oct 24 01:52:40 +0000 2012",
   "user" : {
@@ -1216,7 +1216,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "260501356383719425",
   "in_reply_to_user_id" : 6077512,
-  "text" : "@unsane1 yes! Would love to stop over. I’ll email soon.",
+  "text" : "@unsane1 yes! Would love to stop over. I\u2019ll email soon.",
   "id" : 260501356383719425,
   "in_reply_to_status_id" : 260500214664790016,
   "created_at" : "Mon Oct 22 22:02:17 +0000 2012",
@@ -1270,7 +1270,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Forbes.com Tech News",
+      "name" : "Forbes Tech News",
       "screen_name" : "ForbesTech",
       "indices" : [ 3, 14 ],
       "id_str" : "14885549",
@@ -1309,13 +1309,13 @@ Grailbird.data.tweets_2012_10 =
     "id" : 259822481244819456,
     "created_at" : "Sun Oct 21 01:04:41 +0000 2012",
     "user" : {
-      "name" : "Forbes.com Tech News",
+      "name" : "Forbes Tech News",
       "screen_name" : "ForbesTech",
       "protected" : false,
       "id_str" : "14885549",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/828527305/technology_normal.jpg",
       "id" : 14885549,
-      "verified" : false
+      "verified" : true
     }
   },
   "id" : 259870052415856640,
@@ -1445,7 +1445,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "259125531092586497",
   "in_reply_to_user_id" : 14086000,
-  "text" : "@timocratic wow, that’s a hell of a post on travel. Lots to think about.",
+  "text" : "@timocratic wow, that\u2019s a hell of a post on travel. Lots to think about.",
   "id" : 259125531092586497,
   "in_reply_to_status_id" : 259118248203788288,
   "created_at" : "Fri Oct 19 02:55:15 +0000 2012",
@@ -1547,7 +1547,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "258715763760824320",
   "in_reply_to_user_id" : 59503,
-  "text" : "@h3h definitely. It’s been about two years, I think I might read it again soon, since I’ve got some travel coming up.",
+  "text" : "@h3h definitely. It\u2019s been about two years, I think I might read it again soon, since I\u2019ve got some travel coming up.",
   "id" : 258715763760824320,
   "in_reply_to_status_id" : 258715288214843393,
   "created_at" : "Wed Oct 17 23:46:59 +0000 2012",
@@ -1581,7 +1581,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "258713885668962305",
   "in_reply_to_user_id" : 59503,
-  "text" : "@h3h I’ve read that book at least four times. My favorite book by far.",
+  "text" : "@h3h I\u2019ve read that book at least four times. My favorite book by far.",
   "id" : 258713885668962305,
   "in_reply_to_status_id" : 258709319502163968,
   "created_at" : "Wed Oct 17 23:39:31 +0000 2012",
@@ -1663,7 +1663,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 28, 49 ],
       "url" : "https://t.co/2YSZzvwM",
       "expanded_url" : "https://twitter.com/matz_translated/statuses/258303767101988865",
-      "display_url" : "twitter.com/matz_translate…"
+      "display_url" : "twitter.com/matz_translate\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "257982733228339200",
@@ -1834,7 +1834,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 112, 132 ],
       "url" : "http://t.co/yshTRjuh",
       "expanded_url" : "http://www.nytimes.com/interactive/2012/10/15/us/politics/swing-history.html?hp",
-      "display_url" : "nytimes.com/interactive/20…"
+      "display_url" : "nytimes.com/interactive/20\u2026"
     } ]
   },
   "geo" : {
@@ -1915,7 +1915,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "257982587660804096",
-  "text" : "In a single day @jeejkang’s dog is already moving his way up the list of favorite @github office dogs",
+  "text" : "In a single day @jeejkang\u2019s dog is already moving his way up the list of favorite @github office dogs",
   "id" : 257982587660804096,
   "created_at" : "Mon Oct 15 23:13:36 +0000 2012",
   "user" : {
@@ -1943,7 +1943,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 13, 33 ],
       "url" : "http://t.co/pTdfKu7f",
       "expanded_url" : "http://www.feelnumb.com/wp-content/uploads/2011/02/theclashlondoncalling.jpg",
-      "display_url" : "feelnumb.com/wp-content/upl…"
+      "display_url" : "feelnumb.com/wp-content/upl\u2026"
     } ]
   },
   "geo" : {
@@ -2017,7 +2017,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "257256716213833730",
   "in_reply_to_user_id" : 15591045,
-  "text" : "@tmm1 hold steady for 12 more min…",
+  "text" : "@tmm1 hold steady for 12 more min\u2026",
   "id" : 257256716213833730,
   "in_reply_to_status_id" : 257256537268027392,
   "created_at" : "Sat Oct 13 23:09:15 +0000 2012",
@@ -2121,7 +2121,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "digiphile",
       "protected" : false,
       "id_str" : "1175221",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2203436180/IMG_3481-1_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3652812617/0ab8385a2fcfd2a72c792488b118994d_normal.jpeg",
       "id" : 1175221,
       "verified" : false
     }
@@ -2266,7 +2266,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "256831035457826816",
   "in_reply_to_user_id" : 11294,
-  "text" : "@nzkoz 🚀😘🎉🍺",
+  "text" : "@nzkoz \uD83D\uDE80\uD83D\uDE18\uD83C\uDF89\uD83C\uDF7A",
   "id" : 256831035457826816,
   "in_reply_to_status_id" : 256830529469550593,
   "created_at" : "Fri Oct 12 18:57:45 +0000 2012",
@@ -2318,7 +2318,7 @@ Grailbird.data.tweets_2012_10 =
       "screen_name" : "mperham",
       "protected" : false,
       "id_str" : "14060922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1531638646/headshot_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3615499471/5305a46167bd44ffd639196cf9965427_normal.jpeg",
       "id" : 14060922,
       "verified" : false
     }
@@ -2350,13 +2350,13 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/2YLp4GoC",
       "expanded_url" : "http://zachholman.com/talk/product-is-the-byproduct",
-      "display_url" : "zachholman.com/talk/product-i…"
+      "display_url" : "zachholman.com/talk/product-i\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "256805559276290048",
-  "text" : "The Product is the Byproduct http://t.co/2YLp4GoC - I think this is @holman’s best presentation on such an important distinction.",
+  "text" : "The Product is the Byproduct http://t.co/2YLp4GoC - I think this is @holman\u2019s best presentation on such an important distinction.",
   "id" : 256805559276290048,
   "created_at" : "Fri Oct 12 17:16:31 +0000 2012",
   "user" : {
@@ -2412,7 +2412,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 23, 44 ],
       "url" : "https://t.co/vV08bim2",
       "expanded_url" : "https://github.com/blog/1289-emoji-autocomplete",
-      "display_url" : "github.com/blog/1289-emoj…"
+      "display_url" : "github.com/blog/1289-emoj\u2026"
     } ]
   },
   "geo" : {
@@ -2448,7 +2448,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "256541371979157505",
   "in_reply_to_user_id" : 30923,
-  "text" : "@rands Really loved your pice in The Magazine today. You’re inching closer to a monumental piece, I can feel it.",
+  "text" : "@rands Really loved your pice in The Magazine today. You\u2019re inching closer to a monumental piece, I can feel it.",
   "id" : 256541371979157505,
   "created_at" : "Thu Oct 11 23:46:44 +0000 2012",
   "in_reply_to_screen_name" : "rands",
@@ -2472,7 +2472,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 56, 77 ],
       "url" : "https://t.co/T3AZ76jp",
       "expanded_url" : "https://github.com/lockitron/selfstarter",
-      "display_url" : "github.com/lockitron/self…"
+      "display_url" : "github.com/lockitron/self\u2026"
     } ]
   },
   "geo" : {
@@ -2512,7 +2512,7 @@ Grailbird.data.tweets_2012_10 =
   "geo" : {
   },
   "id_str" : "256459963243839488",
-  "text" : "Honored to be on the expert panel for @railsrumble. Can’t wait to see what people ship this weekend! http://t.co/92IrYts3",
+  "text" : "Honored to be on the expert panel for @railsrumble. Can\u2019t wait to see what people ship this weekend! http://t.co/92IrYts3",
   "id" : 256459963243839488,
   "created_at" : "Thu Oct 11 18:23:14 +0000 2012",
   "user" : {
@@ -2534,7 +2534,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/4AfydATt",
       "expanded_url" : "http://venturebeat.com/2012/10/11/facebook-coming-out/",
-      "display_url" : "venturebeat.com/2012/10/11/fac…"
+      "display_url" : "venturebeat.com/2012/10/11/fac\u2026"
     } ]
   },
   "geo" : {
@@ -2605,7 +2605,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "256147489462300672",
   "in_reply_to_user_id" : 24926510,
-  "text" : "@janaboruta “all of them”",
+  "text" : "@janaboruta \u201Call of them\u201D",
   "id" : 256147489462300672,
   "in_reply_to_status_id" : 256146993380990976,
   "created_at" : "Wed Oct 10 21:41:35 +0000 2012",
@@ -2664,7 +2664,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 108, 128 ],
       "url" : "http://t.co/wXrh3RiT",
       "expanded_url" : "http://www.youtube.com/watch?v=cMBh8P1m9Wo",
-      "display_url" : "youtube.com/watch?v=cMBh8P…"
+      "display_url" : "youtube.com/watch?v=cMBh8P\u2026"
     } ]
   },
   "geo" : {
@@ -2701,7 +2701,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "256104023982215168",
   "in_reply_to_user_id" : 14500363,
-  "text" : "@jake_boxer Mail.app (desktop + iOS) doesn’t show your last reply in thread view. Deal breaker for me.",
+  "text" : "@jake_boxer Mail.app (desktop + iOS) doesn\u2019t show your last reply in thread view. Deal breaker for me.",
   "id" : 256104023982215168,
   "in_reply_to_status_id" : 256103298317295616,
   "created_at" : "Wed Oct 10 18:48:52 +0000 2012",
@@ -2720,7 +2720,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -2769,7 +2769,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "255786373783642112",
   "in_reply_to_user_id" : 1133971,
-  "text" : "@j3 Awesome. Can’t wait to see even moar awesome",
+  "text" : "@j3 Awesome. Can\u2019t wait to see even moar awesome",
   "id" : 255786373783642112,
   "in_reply_to_status_id" : 255784313801539586,
   "created_at" : "Tue Oct 09 21:46:38 +0000 2012",
@@ -2809,7 +2809,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "255775645647372288",
   "in_reply_to_user_id" : 6867422,
-  "text" : "@glenngillen @WassupBryant it’s Hawaii, mate. They have very strict guarantee paperwork. Nooooooooooooo pressure!",
+  "text" : "@glenngillen @WassupBryant it\u2019s Hawaii, mate. They have very strict guarantee paperwork. Nooooooooooooo pressure!",
   "id" : 255775645647372288,
   "in_reply_to_status_id" : 255775108289937409,
   "created_at" : "Tue Oct 09 21:04:00 +0000 2012",
@@ -2840,13 +2840,13 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 106, 126 ],
       "url" : "http://t.co/3EttZLJP",
       "expanded_url" : "http://www.shopify.com/blog/6695662-1-billion",
-      "display_url" : "shopify.com/blog/6695662-1…"
+      "display_url" : "shopify.com/blog/6695662-1\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "255772426334502912",
-  "text" : "Huge congrats to @shopify for selling over $1B worth of products so far! Here’s to eleventy billion more. http://t.co/3EttZLJP",
+  "text" : "Huge congrats to @shopify for selling over $1B worth of products so far! Here\u2019s to eleventy billion more. http://t.co/3EttZLJP",
   "id" : 255772426334502912,
   "created_at" : "Tue Oct 09 20:51:13 +0000 2012",
   "user" : {
@@ -2877,7 +2877,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "255765422232727552",
   "in_reply_to_user_id" : 3283901,
-  "text" : "@andrewchen I hope you didn’t have anything private in your calendar ;)",
+  "text" : "@andrewchen I hope you didn\u2019t have anything private in your calendar ;)",
   "id" : 255765422232727552,
   "in_reply_to_status_id" : 255764708244725760,
   "created_at" : "Tue Oct 09 20:23:23 +0000 2012",
@@ -2917,7 +2917,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "255765192611336192",
   "in_reply_to_user_id" : 346721803,
-  "text" : "@WassupBryant I love that your spelling fits your pronunciation (vs. minger or mingin’) Also, how’d @glenngillen skip the house move today?",
+  "text" : "@WassupBryant I love that your spelling fits your pronunciation (vs. minger or mingin\u2019) Also, how\u2019d @glenngillen skip the house move today?",
   "id" : 255765192611336192,
   "in_reply_to_status_id" : 255764394775031809,
   "created_at" : "Tue Oct 09 20:22:28 +0000 2012",
@@ -2942,7 +2942,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/8XUrixB5",
       "expanded_url" : "http://shop.github.com/products/pinktocat-2-0",
-      "display_url" : "shop.github.com/products/pinkt…"
+      "display_url" : "shop.github.com/products/pinkt\u2026"
     } ]
   },
   "geo" : {
@@ -3128,7 +3128,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "indices" : [ 99, 113 ],
       "id_str" : "72831048",
@@ -3140,13 +3140,13 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 39, 59 ],
       "url" : "http://t.co/RqQngwuJ",
       "expanded_url" : "http://www.lettersofnote.com/2009/10/word-god-is-product-of-human-weakness.html",
-      "display_url" : "lettersofnote.com/2009/10/word-g…"
+      "display_url" : "lettersofnote.com/2009/10/word-g\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "255302655960834049",
-  "text" : "Einstein’s famed “God Letter” in full: http://t.co/RqQngwuJ - such a great and honest letter. /via @LettersOfNote",
+  "text" : "Einstein\u2019s famed \u201CGod Letter\u201D in full: http://t.co/RqQngwuJ - such a great and honest letter. /via @LettersOfNote",
   "id" : 255302655960834049,
   "created_at" : "Mon Oct 08 13:44:31 +0000 2012",
   "user" : {
@@ -3168,7 +3168,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 41, 61 ],
       "url" : "http://t.co/99NBCoY6",
       "expanded_url" : "http://www.youtube.com/watch?v=7ajHezlJq-A",
-      "display_url" : "youtube.com/watch?v=7ajHez…"
+      "display_url" : "youtube.com/watch?v=7ajHez\u2026"
     } ]
   },
   "geo" : {
@@ -3253,11 +3253,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "rands",
       "screen_name" : "rands",
@@ -3274,11 +3274,11 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "254291156660269056",
   "in_reply_to_user_id" : 12685,
-  "text" : "@cjkihlbom @rands aren’t we all",
+  "text" : "@cjkihlbom @rands aren\u2019t we all",
   "id" : 254291156660269056,
   "in_reply_to_status_id" : 254291088263770114,
   "created_at" : "Fri Oct 05 18:45:10 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -3308,7 +3308,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "254287973527482368",
   "in_reply_to_user_id" : 12686,
-  "text" : "@Lilly WOW that looks amazing! What’s it rated? Seems like there’s some good distance between those bolts!",
+  "text" : "@Lilly WOW that looks amazing! What\u2019s it rated? Seems like there\u2019s some good distance between those bolts!",
   "id" : 254287973527482368,
   "in_reply_to_status_id" : 254287091998027776,
   "created_at" : "Fri Oct 05 18:32:31 +0000 2012",
@@ -3393,7 +3393,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "254279936590872576",
   "in_reply_to_user_id" : 9896342,
-  "text" : "@mikedoel @objo As an eagle scout, it’s beyond incomprehensible to me why they propagate hate. Launch http://t.co/d3flgjTK or similar?",
+  "text" : "@mikedoel @objo As an eagle scout, it\u2019s beyond incomprehensible to me why they propagate hate. Launch http://t.co/d3flgjTK or similar?",
   "id" : 254279936590872576,
   "in_reply_to_status_id" : 254180415097692160,
   "created_at" : "Fri Oct 05 18:00:35 +0000 2012",
@@ -3412,11 +3412,11 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "rands",
       "screen_name" : "rands",
@@ -3437,7 +3437,7 @@ Grailbird.data.tweets_2012_10 =
   "id" : 254278990402056192,
   "in_reply_to_status_id" : 254150271947665408,
   "created_at" : "Fri Oct 05 17:56:50 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -3464,7 +3464,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 59, 79 ],
       "url" : "http://t.co/lpK9uRsZ",
       "expanded_url" : "http://mixthatdrink.com/skittles-vodka-tutorial/",
-      "display_url" : "mixthatdrink.com/skittles-vodka…"
+      "display_url" : "mixthatdrink.com/skittles-vodka\u2026"
     } ]
   },
   "geo" : {
@@ -3504,7 +3504,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "253995679385546752",
   "in_reply_to_user_id" : 1315011,
-  "text" : "@objo heh, I’m stressing and they’re both a few weeks away",
+  "text" : "@objo heh, I\u2019m stressing and they\u2019re both a few weeks away",
   "id" : 253995679385546752,
   "in_reply_to_status_id" : 253994807125495808,
   "created_at" : "Thu Oct 04 23:11:03 +0000 2012",
@@ -3561,7 +3561,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "253941483655286785",
   "in_reply_to_user_id" : 150,
-  "text" : "@stevej yea, I’m glad we’ve got a ton of tooling and UI around it too. The docs aren’t easily to grok either, for me at least",
+  "text" : "@stevej yea, I\u2019m glad we\u2019ve got a ton of tooling and UI around it too. The docs aren\u2019t easily to grok either, for me at least",
   "id" : 253941483655286785,
   "in_reply_to_status_id" : 253941068649857024,
   "created_at" : "Thu Oct 04 19:35:42 +0000 2012",
@@ -3751,7 +3751,7 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/VEDjt3iv",
       "expanded_url" : "http://www.youtube.com/watch?v=aU3Rk-Z9boM",
-      "display_url" : "youtube.com/watch?v=aU3Rk-…"
+      "display_url" : "youtube.com/watch?v=aU3Rk-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "253561815521452032",
@@ -3778,7 +3778,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -3793,7 +3793,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "253190232982290432",
   "in_reply_to_user_id" : 16211142,
-  "text" : "@BenBalter you’ll probably find some blog posts that show lots of good unix tools eventually becoming “web 2.0” apps",
+  "text" : "@BenBalter you\u2019ll probably find some blog posts that show lots of good unix tools eventually becoming \u201Cweb 2.0\u201D apps",
   "id" : 253190232982290432,
   "in_reply_to_status_id" : 253136925274284032,
   "created_at" : "Tue Oct 02 17:50:30 +0000 2012",
@@ -3812,7 +3812,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -3827,7 +3827,7 @@ Grailbird.data.tweets_2012_10 =
   },
   "id_str" : "252854581908881408",
   "in_reply_to_user_id" : 16211142,
-  "text" : "@BenBalter whaaaa which modem? what’s required to convert it over, just get the gateway IP right and go?",
+  "text" : "@BenBalter whaaaa which modem? what\u2019s required to convert it over, just get the gateway IP right and go?",
   "id" : 252854581908881408,
   "in_reply_to_status_id" : 252804497875804160,
   "created_at" : "Mon Oct 01 19:36:44 +0000 2012",
@@ -3846,7 +3846,7 @@ Grailbird.data.tweets_2012_10 =
   "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 127, 137 ],
       "id_str" : "16211142",
@@ -3858,13 +3858,13 @@ Grailbird.data.tweets_2012_10 =
       "indices" : [ 102, 123 ],
       "url" : "https://t.co/SbuTR7M5",
       "expanded_url" : "https://github.com/benbalter/post-forking",
-      "display_url" : "github.com/benbalter/post…"
+      "display_url" : "github.com/benbalter/post\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "252786463358464000",
-  "text" : "‘Post Forking’ looks awesome. It’s a WordPress plugin supporting collaborative editing and publishing https://t.co/SbuTR7M5 by @BenBalter",
+  "text" : "\u2018Post Forking\u2019 looks awesome. It\u2019s a WordPress plugin supporting collaborative editing and publishing https://t.co/SbuTR7M5 by @BenBalter",
   "id" : 252786463358464000,
   "created_at" : "Mon Oct 01 15:06:04 +0000 2012",
   "user" : {

@@ -138,7 +138,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Neil Boorjian",
+      "name" : "CFCB",
       "screen_name" : "CFCB",
       "indices" : [ 0, 5 ],
       "id_str" : "41645945",

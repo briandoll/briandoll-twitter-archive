@@ -106,7 +106,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 39, 59 ],
       "url" : "http://t.co/sSkriyFv",
       "expanded_url" : "http://www.maximoriera.com/html/images/projects/octupus/100701-09-10.jpg",
-      "display_url" : "maximoriera.com/html/images/pr…"
+      "display_url" : "maximoriera.com/html/images/pr\u2026"
     } ]
   },
   "geo" : {
@@ -191,7 +191,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -225,7 +225,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -259,7 +259,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -541,7 +541,7 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "207680372186685441",
   "in_reply_to_user_id" : 10255262,
-  "text" : "@ReinH @garybernhardt Ah, the pass-by-value vs. pass-by-reference thing… gets even more bizarre in Java where Objects and primitives differ.",
+  "text" : "@ReinH @garybernhardt Ah, the pass-by-value vs. pass-by-reference thing\u2026 gets even more bizarre in Java where Objects and primitives differ.",
   "id" : 207680372186685441,
   "in_reply_to_status_id" : 207680107479957504,
   "created_at" : "Wed May 30 03:50:33 +0000 2012",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 92, 112 ],
       "url" : "http://t.co/GGz0phNV",
       "expanded_url" : "http://apple.stackexchange.com/questions/21112/in-lion-how-can-i-configure-to-not-automatically-re-open-recent-files-that-were",
-      "display_url" : "apple.stackexchange.com/questions/2111…"
+      "display_url" : "apple.stackexchange.com/questions/2111\u2026"
     } ]
   },
   "geo" : {
@@ -661,7 +661,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "indices" : [ 79, 93 ],
       "id_str" : "72831048",
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/LIwwyUn0",
       "expanded_url" : "http://www.lettersofnote.com/2009/12/hi-buckley-again.html",
-      "display_url" : "lettersofnote.com/2009/12/hi-buc…"
+      "display_url" : "lettersofnote.com/2009/12/hi-buc\u2026"
     } ]
   },
   "geo" : {
@@ -991,7 +991,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 11, 31 ],
       "url" : "http://t.co/8rY3tbdC",
       "expanded_url" : "http://mustachify.me/?src=http://distilleryimage2.instagram.com/bb45f040a3a611e188131231381b5c25_7.jpg",
-      "display_url" : "mustachify.me/?src=http://di…"
+      "display_url" : "mustachify.me/?src=http://di\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "204733457941798914",
@@ -1069,7 +1069,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 43, 64 ],
       "url" : "https://t.co/VWMmUTnI",
       "expanded_url" : "https://github.com/blog/1127-github-for-windows",
-      "display_url" : "github.com/blog/1127-gith…"
+      "display_url" : "github.com/blog/1127-gith\u2026"
     } ]
   },
   "geo" : {
@@ -1086,7 +1086,7 @@ Grailbird.data.tweets_2012_05 =
         "indices" : [ 31, 52 ],
         "url" : "https://t.co/VWMmUTnI",
         "expanded_url" : "https://github.com/blog/1127-github-for-windows",
-        "display_url" : "github.com/blog/1127-gith…"
+        "display_url" : "github.com/blog/1127-gith\u2026"
       } ]
     },
     "geo" : {
@@ -1524,7 +1524,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 97, 118 ],
       "url" : "https://t.co/SntMX1mQ",
       "expanded_url" : "https://github.com/blog/1118-the-github-data-challenge",
-      "display_url" : "github.com/blog/1118-the-…"
+      "display_url" : "github.com/blog/1118-the-\u2026"
     } ]
   },
   "geo" : {
@@ -1549,7 +1549,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1629,11 +1629,11 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2012_05 =
   "id" : 201364671838695425,
   "in_reply_to_status_id" : 201361810241236993,
   "created_at" : "Sat May 12 17:34:13 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1897,12 +1897,12 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 83, 104 ],
       "url" : "https://t.co/wLt3r7qC",
       "expanded_url" : "https://github.com/blog/1106-say-hello-to-octicons",
-      "display_url" : "github.com/blog/1106-say-…"
+      "display_url" : "github.com/blog/1106-say-\u2026"
     }, {
       "indices" : [ 109, 130 ],
       "url" : "https://t.co/YDeUo1H4",
       "expanded_url" : "https://github.com/blog/1135-the-making-of-octicons",
-      "display_url" : "github.com/blog/1135-the-…"
+      "display_url" : "github.com/blog/1135-the-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "200349377603178496",
@@ -2382,7 +2382,7 @@ Grailbird.data.tweets_2012_05 =
       "screen_name" : "Caged",
       "protected" : false,
       "id_str" : "779169",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1844276317/G2qfwPj0Wx_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000068763201/7931fd7893de54d731d45448e39ca579_normal.jpeg",
       "id" : 779169,
       "verified" : false
     }
@@ -2490,7 +2490,7 @@ Grailbird.data.tweets_2012_05 =
   },
   "id_str" : "198540280226529280",
   "in_reply_to_user_id" : 35954885,
-  "text" : "@joshsusser Giant Iggle… memories! Have you been to Giordano Bros. in SF? An intentional Primani Bros. knockoff: http://t.co/iVAgi4Uq",
+  "text" : "@joshsusser Giant Iggle\u2026 memories! Have you been to Giordano Bros. in SF? An intentional Primani Bros. knockoff: http://t.co/iVAgi4Uq",
   "id" : 198540280226529280,
   "in_reply_to_status_id" : 198539677337260032,
   "created_at" : "Fri May 04 22:31:06 +0000 2012",
@@ -2555,7 +2555,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/J2aH9K9w",
       "expanded_url" : "http://grammarist.com/spelling/gray-grey/",
-      "display_url" : "grammarist.com/spelling/gray-…"
+      "display_url" : "grammarist.com/spelling/gray-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "198538259100467200",
@@ -2667,7 +2667,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 9, 29 ],
       "url" : "http://t.co/3omegqIW",
       "expanded_url" : "http://en.wikiquote.org/wiki/Three_Amigos#Dialogue",
-      "display_url" : "en.wikiquote.org/wiki/Three_Ami…"
+      "display_url" : "en.wikiquote.org/wiki/Three_Ami\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "198466924106100736",
@@ -2740,7 +2740,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 72, 92 ],
       "url" : "http://t.co/HDLLLWRz",
       "expanded_url" : "http://scottchacon.com/2011/08/31/github-flow.html",
-      "display_url" : "scottchacon.com/2011/08/31/git…"
+      "display_url" : "scottchacon.com/2011/08/31/git\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "197831628461064193",
@@ -2841,7 +2841,7 @@ Grailbird.data.tweets_2012_05 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2927,7 +2927,7 @@ Grailbird.data.tweets_2012_05 =
       "indices" : [ 62, 83 ],
       "url" : "https://t.co/oujeB4xt",
       "expanded_url" : "https://github.com/blog/1124-how-we-use-pull-requests-to-build-github",
-      "display_url" : "github.com/blog/1124-how-…"
+      "display_url" : "github.com/blog/1124-how-\u2026"
     } ]
   },
   "geo" : {

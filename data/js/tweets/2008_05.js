@@ -1985,12 +1985,6 @@ Grailbird.data.tweets_2008_05 =
       "indices" : [ 0, 10 ],
       "id_str" : "12964182",
       "id" : 12964182
-    }, {
-      "name" : "home",
-      "screen_name" : "home",
-      "indices" : [ 21, 26 ],
-      "id_str" : "610923",
-      "id" : 610923
     } ],
     "media" : [ ],
     "hashtags" : [ ],

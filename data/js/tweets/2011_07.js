@@ -95,7 +95,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 86, 105 ],
       "url" : "http://t.co/b1xoFnL",
       "expanded_url" : "http://newrelic.com/about/partners/rackspace",
-      "display_url" : "newrelic.com/about/partners…"
+      "display_url" : "newrelic.com/about/partners\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "97667678357037056",
@@ -242,7 +242,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 103, 122 ],
       "url" : "http://t.co/HPPBqgd",
       "expanded_url" : "http://www.youtube.com/watch?v=HuoVM9nm42E",
-      "display_url" : "youtube.com/watch?v=HuoVM9…"
+      "display_url" : "youtube.com/watch?v=HuoVM9\u2026"
     } ]
   },
   "geo" : {
@@ -440,7 +440,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 113, 132 ],
       "url" : "http://t.co/UHvtdJn",
       "expanded_url" : "http://www.thisamericanlife.org/radio-archives/episode/441/when-patents-attack",
-      "display_url" : "thisamericanlife.org/radio-archives…"
+      "display_url" : "thisamericanlife.org/radio-archives\u2026"
     } ]
   },
   "geo" : {
@@ -514,7 +514,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 34, 53 ],
       "url" : "http://t.co/3GTNC5l",
       "expanded_url" : "https://skitch.com/briandoll/fcfsc/sign-in-new-relic",
-      "display_url" : "skitch.com/briandoll/fcfs…"
+      "display_url" : "skitch.com/briandoll/fcfs\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "96311205043503104",
@@ -559,7 +559,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/o6cGN4p",
       "expanded_url" : "http://emphaticsolutions.com/2011/07/01/the-ultimate-productivity-hack-having-kids.html",
-      "display_url" : "emphaticsolutions.com/2011/07/01/the…"
+      "display_url" : "emphaticsolutions.com/2011/07/01/the\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "94552674451730433",
@@ -638,7 +638,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 101, 120 ],
       "url" : "http://t.co/ykaDSzq",
       "expanded_url" : "http://blog.newrelic.com/2010/07/22/what-changed-using-deployment-tracking-in-rpm/",
-      "display_url" : "blog.newrelic.com/2010/07/22/wha…"
+      "display_url" : "blog.newrelic.com/2010/07/22/wha\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "94488818920599552",
@@ -767,11 +767,11 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veezus Kreist",
-      "screen_name" : "veezus",
+      "name" : "Vee",
+      "screen_name" : "Veezus",
       "indices" : [ 0, 7 ],
-      "id_str" : "14051754",
-      "id" : 14051754
+      "id_str" : "818377692",
+      "id" : 818377692
     }, {
       "name" : "NewRelic",
       "screen_name" : "newrelic",
@@ -786,12 +786,9 @@ Grailbird.data.tweets_2011_07 =
   "geo" : {
   },
   "id_str" : "94168648247279616",
-  "in_reply_to_user_id" : 14051754,
   "text" : "@veezus Hey man, just read your post. We're hiring at @NewRelic.  Just sayin' :)",
   "id" : 94168648247279616,
   "created_at" : "Thu Jul 21 22:15:29 +0000 2011",
-  "in_reply_to_screen_name" : "veezus",
-  "in_reply_to_user_id_str" : "14051754",
   "user" : {
     "name" : "Brian Doll",
     "screen_name" : "briandoll",
@@ -873,11 +870,11 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -892,7 +889,7 @@ Grailbird.data.tweets_2011_07 =
   "id" : 94141042051383296,
   "in_reply_to_status_id" : 94138987668705280,
   "created_at" : "Thu Jul 21 20:25:48 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -959,7 +956,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 103, 122 ],
       "url" : "http://t.co/zJdZ58Z",
       "expanded_url" : "http://www.etsy.com/blog/en/2011/our-next-chapter-at-etsy/",
-      "display_url" : "etsy.com/blog/en/2011/o…"
+      "display_url" : "etsy.com/blog/en/2011/o\u2026"
     } ]
   },
   "geo" : {
@@ -1425,7 +1422,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 97, 116 ],
       "url" : "http://t.co/AcgT2Fu",
       "expanded_url" : "http://www.cdc.gov/obesity/data/trends.html",
-      "display_url" : "cdc.gov/obesity/data/t…"
+      "display_url" : "cdc.gov/obesity/data/t\u2026"
     } ]
   },
   "geo" : {
@@ -1741,7 +1738,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 106, 125 ],
       "url" : "http://t.co/txApkPI",
       "expanded_url" : "http://highscalability.com/blog/2011/7/18/new-relic-architecture-collecting-20-billion-metrics-a-day.html",
-      "display_url" : "highscalability.com/blog/2011/7/18…"
+      "display_url" : "highscalability.com/blog/2011/7/18\u2026"
     } ]
   },
   "geo" : {
@@ -1920,7 +1917,7 @@ Grailbird.data.tweets_2011_07 =
       "indices" : [ 112, 131 ],
       "url" : "http://t.co/drLx7AS",
       "expanded_url" : "http://blog.newrelic.com/2011/07/15/drag-and-zoom-for-great-justice/",
-      "display_url" : "blog.newrelic.com/2011/07/15/dra…"
+      "display_url" : "blog.newrelic.com/2011/07/15/dra\u2026"
     } ]
   },
   "geo" : {
@@ -2028,7 +2025,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "18519660",
       "id" : 18519660
     }, {
-      "name" : "Deanna Lorraine",
+      "name" : "Nurse DEE",
       "screen_name" : "DeannaLorraine",
       "indices" : [ 32, 47 ],
       "id_str" : "53160049",
@@ -2876,7 +2873,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",
@@ -2915,7 +2912,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",
@@ -2949,7 +2946,7 @@ Grailbird.data.tweets_2011_07 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jack Danger Canty",
+      "name" : "Jack Danger",
       "screen_name" : "jackdanger",
       "indices" : [ 0, 11 ],
       "id_str" : "3496901",
@@ -2994,7 +2991,7 @@ Grailbird.data.tweets_2011_07 =
       "id_str" : "2404341",
       "id" : 2404341
     }, {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 59, 66 ],
       "id_str" : "93017945",
@@ -3262,12 +3259,12 @@ Grailbird.data.tweets_2011_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Contrast",
-      "screen_name" : "contrast",
+      "screen_name" : "Contrast",
       "indices" : [ 18, 27 ],
-      "id_str" : "9926962",
-      "id" : 9926962
+      "id_str" : "1362681632",
+      "id" : 1362681632
     }, {
-      "name" : "Olark - Live chat",
+      "name" : "Olark live chat",
       "screen_name" : "olark",
       "indices" : [ 98, 104 ],
       "id_str" : "21672965",

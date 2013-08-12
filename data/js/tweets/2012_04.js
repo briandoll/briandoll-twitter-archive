@@ -157,7 +157,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 115, 135 ],
       "url" : "http://t.co/zmZkPCYr",
       "expanded_url" : "http://andrewchenblog.com/2012/04/27/how-to-be-a-growth-hacker-an-airbnbcraigslist-case-study/",
-      "display_url" : "andrewchenblog.com/2012/04/27/how…"
+      "display_url" : "andrewchenblog.com/2012/04/27/how\u2026"
     } ]
   },
   "geo" : {
@@ -255,7 +255,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "195270753292267522",
   "in_reply_to_user_id" : 9885222,
-  "text" : "@deadprogram  What, no harmonica??? Nice piece! \"Launches App on Heroku from the Side of a Road: http://t.co/CLN2BSuT”",
+  "text" : "@deadprogram  What, no harmonica??? Nice piece! \"Launches App on Heroku from the Side of a Road: http://t.co/CLN2BSuT\u201D",
   "id" : 195270753292267522,
   "created_at" : "Wed Apr 25 21:59:10 +0000 2012",
   "in_reply_to_screen_name" : "deadprogram",
@@ -288,7 +288,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "195201817930514432",
   "in_reply_to_user_id" : 50466707,
-  "text" : "@foliosus pshaw… there's not even ONE spam sandwich on that list!",
+  "text" : "@foliosus pshaw\u2026 there's not even ONE spam sandwich on that list!",
   "id" : 195201817930514432,
   "in_reply_to_status_id" : 195201070006407168,
   "created_at" : "Wed Apr 25 17:25:14 +0000 2012",
@@ -484,17 +484,17 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 20, 40 ],
       "url" : "http://t.co/1IWMJSrP",
       "expanded_url" : "http://www.youtube.com/watch?v=njwKUJwzD3A&feature=player_embedded#",
-      "display_url" : "youtube.com/watch?v=njwKUJ…"
+      "display_url" : "youtube.com/watch?v=njwKUJ\u2026"
     }, {
       "indices" : [ 55, 75 ],
       "url" : "http://t.co/V0r9uxz6",
       "expanded_url" : "http://photos.igougo.com/images/p205956-The_Bucket.jpg",
-      "display_url" : "photos.igougo.com/images/p205956…"
+      "display_url" : "photos.igougo.com/images/p205956\u2026"
     }, {
       "indices" : [ 89, 109 ],
       "url" : "http://t.co/hv8T6fIz",
       "expanded_url" : "http://www.directindustry.com/cat/equipment-construction-civil-engineering-mining/surface-mining-and-quarrying-excavators-AR-910.html",
-      "display_url" : "directindustry.com/cat/equipment-…"
+      "display_url" : "directindustry.com/cat/equipment-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "194898797778841601",
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 11, 31 ],
       "url" : "http://t.co/kWhyQo46",
       "expanded_url" : "http://static.flickr.com/113/299367913_124a5fa6fe_o.jpg",
-      "display_url" : "static.flickr.com/113/299367913_…"
+      "display_url" : "static.flickr.com/113/299367913_\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "194894183130079233",
@@ -683,7 +683,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "194836460493479936",
   "in_reply_to_user_id" : 150,
-  "text" : "@stevej soon… soon...",
+  "text" : "@stevej soon\u2026 soon...",
   "id" : 194836460493479936,
   "in_reply_to_status_id" : 194836313395052544,
   "created_at" : "Tue Apr 24 17:13:26 +0000 2012",
@@ -842,7 +842,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/SIVLx8vd",
       "expanded_url" : "http://www.abookapart.com/products/design-is-a-job",
-      "display_url" : "abookapart.com/products/desig…"
+      "display_url" : "abookapart.com/products/desig\u2026"
     } ]
   },
   "geo" : {
@@ -981,7 +981,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "194469711273148417",
   "in_reply_to_user_id" : 14909439,
-  "text" : "@sundaykofax :HUGS: Today shall be amazing starting… NOW!",
+  "text" : "@sundaykofax :HUGS: Today shall be amazing starting\u2026 NOW!",
   "id" : 194469711273148417,
   "in_reply_to_status_id" : 194469532222488577,
   "created_at" : "Mon Apr 23 16:56:06 +0000 2012",
@@ -1077,7 +1077,7 @@ Grailbird.data.tweets_2012_04 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1278,7 +1278,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 45, 65 ],
       "url" : "http://t.co/I6VrNiVO",
       "expanded_url" : "http://www.tshirtlaundry.com/assets/images/photos/GorillianDollars12-21-2010-2.jpg",
-      "display_url" : "tshirtlaundry.com/assets/images/…"
+      "display_url" : "tshirtlaundry.com/assets/images/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "193381342115934210",
@@ -1286,7 +1286,7 @@ Grailbird.data.tweets_2012_04 =
   },
   "id_str" : "193381836674695169",
   "in_reply_to_user_id" : 14761655,
-  "text" : "@tenderlove \"kazillion\"?  pshaw… Gorillions! http://t.co/I6VrNiVO",
+  "text" : "@tenderlove \"kazillion\"?  pshaw\u2026 Gorillions! http://t.co/I6VrNiVO",
   "id" : 193381836674695169,
   "in_reply_to_status_id" : 193381342115934210,
   "created_at" : "Fri Apr 20 16:53:17 +0000 2012",
@@ -1492,7 +1492,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/M5OhSClU",
       "expanded_url" : "http://dl.dropbox.com/u/602885/github-2011.png",
-      "display_url" : "dl.dropbox.com/u/602885/githu…"
+      "display_url" : "dl.dropbox.com/u/602885/githu\u2026"
     } ]
   },
   "geo" : {
@@ -1520,7 +1520,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "550097026",
       "id" : 550097026
     }, {
-      "name" : "Emil Stenström",
+      "name" : "Emil Stenstr\u00F6m",
       "screen_name" : "EmilStenstrom",
       "indices" : [ 59, 73 ],
       "id_str" : "16038461",
@@ -1583,7 +1583,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Emil Stenström",
+      "name" : "Emil Stenstr\u00F6m",
       "screen_name" : "EmilStenstrom",
       "indices" : [ 0, 14 ],
       "id_str" : "16038461",
@@ -1690,7 +1690,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 31, 52 ],
       "url" : "https://t.co/wdz8l2XN",
       "expanded_url" : "https://github.com/blog/1105-an-easier-way-to-create-repositories",
-      "display_url" : "github.com/blog/1105-an-e…"
+      "display_url" : "github.com/blog/1105-an-e\u2026"
     } ]
   },
   "geo" : {
@@ -1921,7 +1921,7 @@ Grailbird.data.tweets_2012_04 =
   "geo" : {
   },
   "id_str" : "191952779961581570",
-  "text" : "Current status: Office music battle to determine once and for all… Biggie &gt; Tupac?",
+  "text" : "Current status: Office music battle to determine once and for all\u2026 Biggie &gt; Tupac?",
   "id" : 191952779961581570,
   "created_at" : "Mon Apr 16 18:14:43 +0000 2012",
   "user" : {
@@ -2095,7 +2095,7 @@ Grailbird.data.tweets_2012_04 =
       "screen_name" : "aq",
       "protected" : false,
       "id_str" : "1178441",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1570233850/delorean_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3721028745/e95bcd019a14afcbde1ff60740b3cf7b_normal.jpeg",
       "id" : 1178441,
       "verified" : false
     }
@@ -2155,7 +2155,7 @@ Grailbird.data.tweets_2012_04 =
       "id_str" : "22386062",
       "id" : 22386062
     }, {
-      "name" : "dunzor",
+      "name" : "dz",
       "screen_name" : "dunzor",
       "indices" : [ 14, 21 ],
       "id_str" : "20299496",
@@ -2383,7 +2383,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 13, 34 ],
       "url" : "https://t.co/pqxHLOBr",
       "expanded_url" : "https://talks.githubapp.com/talk/1ff89f40bf1e64de56e71e39fabcd0fbd364447b",
-      "display_url" : "talks.githubapp.com/talk/1ff89f40b…"
+      "display_url" : "talks.githubapp.com/talk/1ff89f40b\u2026"
     } ]
   },
   "geo" : {
@@ -2734,7 +2734,7 @@ Grailbird.data.tweets_2012_04 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "indices" : [ 0, 14 ],
       "id_str" : "72831048",
@@ -2746,7 +2746,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 87, 107 ],
       "url" : "http://t.co/fidCYegp",
       "expanded_url" : "http://www.ted.com/talks/benjamin_zander_on_music_and_passion.html",
-      "display_url" : "ted.com/talks/benjamin…"
+      "display_url" : "ted.com/talks/benjamin\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "188313509929566208",
@@ -3109,7 +3109,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 46, 67 ],
       "url" : "https://t.co/vBWu7dyb",
       "expanded_url" : "https://skitch.com/briandoll/8xadb/your-profile",
-      "display_url" : "skitch.com/briandoll/8xad…"
+      "display_url" : "skitch.com/briandoll/8xad\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "187567648287109120",
@@ -3188,7 +3188,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 110, 130 ],
       "url" : "http://t.co/ZopKn8hT",
       "expanded_url" : "http://blog.intercom.io/automated-emails-customer-respect/",
-      "display_url" : "blog.intercom.io/automated-emai…"
+      "display_url" : "blog.intercom.io/automated-emai\u2026"
     } ]
   },
   "geo" : {
@@ -3352,7 +3352,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 71, 91 ],
       "url" : "http://t.co/l7Ey66pG",
       "expanded_url" : "http://tomayko.com/writings/management-style",
-      "display_url" : "tomayko.com/writings/manag…"
+      "display_url" : "tomayko.com/writings/manag\u2026"
     } ]
   },
   "geo" : {
@@ -3386,7 +3386,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 37, 57 ],
       "url" : "http://t.co/1D11ZsYz",
       "expanded_url" : "http://help.github.com/send-pull-requests/",
-      "display_url" : "help.github.com/send-pull-requ…"
+      "display_url" : "help.github.com/send-pull-requ\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "186961864234770433",
@@ -3519,7 +3519,7 @@ Grailbird.data.tweets_2012_04 =
       "indices" : [ 84, 105 ],
       "url" : "https://t.co/wcWVjjfv",
       "expanded_url" : "https://github.com/briandoll/influencer.tweets",
-      "display_url" : "github.com/briandoll/infl…"
+      "display_url" : "github.com/briandoll/infl\u2026"
     } ]
   },
   "geo" : {

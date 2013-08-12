@@ -49,7 +49,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 62, 82 ],
       "url" : "http://t.co/JKuBjpVU",
       "expanded_url" : "http://strataconf.com/stratany2012/public/sv/q/441",
-      "display_url" : "strataconf.com/stratany2012/p…"
+      "display_url" : "strataconf.com/stratany2012/p\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "274244956921683969",
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "273227448341110784",
-  "text" : "\"Chatting with Obama For America’s Director of Frontend Development: Daniel Ryan\" http://t.co/7gXHAbsk - saved via @Prismatic",
+  "text" : "\"Chatting with Obama For America\u2019s Director of Frontend Development: Daniel Ryan\" http://t.co/7gXHAbsk - saved via @Prismatic",
   "id" : 273227448341110784,
   "created_at" : "Tue Nov 27 00:51:14 +0000 2012",
   "user" : {
@@ -485,7 +485,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -513,7 +513,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -649,7 +649,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "271265443694661632",
-  "text" : "Home by 3:30am, back up and out by 7am for… golf.",
+  "text" : "Home by 3:30am, back up and out by 7am for\u2026 golf.",
   "id" : 271265443694661632,
   "created_at" : "Wed Nov 21 14:54:56 +0000 2012",
   "user" : {
@@ -755,7 +755,7 @@ Grailbird.data.tweets_2012_11 =
       "id_str" : "24926510",
       "id" : 24926510
     }, {
-      "name" : "Vicent Martí",
+      "name" : "Vicent Mart\u00ED",
       "screen_name" : "vmg",
       "indices" : [ 30, 34 ],
       "id_str" : "53043664",
@@ -801,7 +801,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 23, 43 ],
       "url" : "http://t.co/E0ZouJH0",
       "expanded_url" : "http://en.wikipedia.org/wiki/Double_Dare_(1986_game_show)",
-      "display_url" : "en.wikipedia.org/wiki/Double_Da…"
+      "display_url" : "en.wikipedia.org/wiki/Double_Da\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "271008214181609472",
@@ -1017,7 +1017,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 76, 97 ],
       "url" : "https://t.co/HoJN1vIi",
       "expanded_url" : "https://codeclimate.com/changelog/50aac67a13d6377e22000042",
-      "display_url" : "codeclimate.com/changelog/50aa…"
+      "display_url" : "codeclimate.com/changelog/50aa\u2026"
     } ]
   },
   "geo" : {
@@ -1319,7 +1319,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 81, 101 ],
       "url" : "http://t.co/XrjRkVsd",
       "expanded_url" : "http://tomayko.com/writings/adopt-an-open-source-process-constraints",
-      "display_url" : "tomayko.com/writings/adopt…"
+      "display_url" : "tomayko.com/writings/adopt\u2026"
     } ]
   },
   "geo" : {
@@ -1336,7 +1336,7 @@ Grailbird.data.tweets_2012_11 =
         "indices" : [ 67, 87 ],
         "url" : "http://t.co/XrjRkVsd",
         "expanded_url" : "http://tomayko.com/writings/adopt-an-open-source-process-constraints",
-        "display_url" : "tomayko.com/writings/adopt…"
+        "display_url" : "tomayko.com/writings/adopt\u2026"
       } ]
     },
     "geo" : {
@@ -1382,7 +1382,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 77, 98 ],
       "url" : "https://t.co/cIOugoX3",
       "expanded_url" : "https://speakerdeck.com/caniszczyk/open-source-compliance-at-twitter",
-      "display_url" : "speakerdeck.com/caniszczyk/ope…"
+      "display_url" : "speakerdeck.com/caniszczyk/ope\u2026"
     } ]
   },
   "geo" : {
@@ -2055,7 +2055,7 @@ Grailbird.data.tweets_2012_11 =
   "geo" : {
   },
   "id_str" : "269124191289212928",
-  "text" : "Business development ProTip™ : Code &gt; Coffee",
+  "text" : "Business development ProTip\u2122 : Code &gt; Coffee",
   "id" : 269124191289212928,
   "created_at" : "Thu Nov 15 17:06:21 +0000 2012",
   "user" : {
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 111, 132 ],
       "url" : "https://t.co/BsgSFvGq",
       "expanded_url" : "https://github.com/blog/1318-dodgeballs-dodged-charities-win",
-      "display_url" : "github.com/blog/1318-dodg…"
+      "display_url" : "github.com/blog/1318-dodg\u2026"
     } ]
   },
   "geo" : {
@@ -2190,7 +2190,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 115, 135 ],
       "url" : "http://t.co/ptkSHexU",
       "expanded_url" : "http://muppet.wikia.com/wiki/Uncle_Traveling_Matt",
-      "display_url" : "muppet.wikia.com/wiki/Uncle_Tra…"
+      "display_url" : "muppet.wikia.com/wiki/Uncle_Tra\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "268579927949987841",
@@ -2487,7 +2487,7 @@ Grailbird.data.tweets_2012_11 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Benjamin J. Balter",
+      "name" : "Ben Balter",
       "screen_name" : "BenBalter",
       "indices" : [ 0, 10 ],
       "id_str" : "16211142",
@@ -2545,7 +2545,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 89, 110 ],
       "url" : "https://t.co/QifVIe1b",
       "expanded_url" : "https://github.com/clintecker/python-googleanalytics",
-      "display_url" : "github.com/clintecker/pyt…"
+      "display_url" : "github.com/clintecker/pyt\u2026"
     }, {
       "indices" : [ 116, 137 ],
       "url" : "https://t.co/WVrYGRhy",
@@ -2654,7 +2654,7 @@ Grailbird.data.tweets_2012_11 =
       "screen_name" : "cra",
       "protected" : false,
       "id_str" : "14602130",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1440894270/zxtwitter_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000230842503/7672258b1bcb90e3d52c4a23b0820e0a_normal.jpeg",
       "id" : 14602130,
       "verified" : false
     }
@@ -2723,7 +2723,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "267687722842468352",
   "in_reply_to_user_id" : 22,
-  "text" : "@rabble Ace hotels (Portland, NYC, …) feel very much like that",
+  "text" : "@rabble Ace hotels (Portland, NYC, \u2026) feel very much like that",
   "id" : 267687722842468352,
   "in_reply_to_status_id" : 267682812335894528,
   "created_at" : "Sun Nov 11 17:58:21 +0000 2012",
@@ -2803,13 +2803,7 @@ Grailbird.data.tweets_2012_11 =
 }, {
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "xCyb0rg ▲Illumin▲",
-      "screen_name" : "illumin_binary",
-      "indices" : [ 0, 15 ],
-      "id_str" : "130034459",
-      "id" : 130034459
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ {
@@ -2828,7 +2822,7 @@ Grailbird.data.tweets_2012_11 =
   "id" : 267640844352364545,
   "in_reply_to_status_id" : 267417912728514560,
   "created_at" : "Sun Nov 11 14:52:04 +0000 2012",
-  "in_reply_to_screen_name" : "illumin_binary",
+  "in_reply_to_screen_name" : "CyborgCode",
   "in_reply_to_user_id_str" : "130034459",
   "user" : {
     "name" : "Brian Doll",
@@ -2985,7 +2979,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 42, 62 ],
       "url" : "http://t.co/NMuVRVjf",
       "expanded_url" : "http://ir.priceline.com/releasedetail.cfm?ReleaseID=719898",
-      "display_url" : "ir.priceline.com/releasedetail.…"
+      "display_url" : "ir.priceline.com/releasedetail.\u2026"
     } ]
   },
   "geo" : {
@@ -3082,7 +3076,7 @@ Grailbird.data.tweets_2012_11 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/qL5rRNI9",
       "expanded_url" : "http://developer.github.com/v3/#rate-limiting",
-      "display_url" : "developer.github.com/v3/#rate-limit…"
+      "display_url" : "developer.github.com/v3/#rate-limit\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "265730214976421889",
@@ -3168,7 +3162,7 @@ Grailbird.data.tweets_2012_11 =
   },
   "id_str" : "265705353801523200",
   "in_reply_to_user_id" : 14260145,
-  "text" : "@itayneeman here’s the public timeline https://t.co/6gXRhyBd also check out http://t.co/Q1QL3bon",
+  "text" : "@itayneeman here\u2019s the public timeline https://t.co/6gXRhyBd also check out http://t.co/Q1QL3bon",
   "id" : 265705353801523200,
   "in_reply_to_status_id" : 265703732887580672,
   "created_at" : "Tue Nov 06 06:41:07 +0000 2012",
@@ -3237,7 +3231,7 @@ Grailbird.data.tweets_2012_11 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],

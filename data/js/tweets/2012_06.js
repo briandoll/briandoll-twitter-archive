@@ -140,7 +140,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/wre1SnpI",
       "expanded_url" : "http://emphaticsolutions.com/2012/06/22/marketing-for-geeks.html",
-      "display_url" : "emphaticsolutions.com/2012/06/22/mar…"
+      "display_url" : "emphaticsolutions.com/2012/06/22/mar\u2026"
     } ]
   },
   "geo" : {
@@ -457,7 +457,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 59, 79 ],
       "url" : "http://t.co/wre1SnpI",
       "expanded_url" : "http://emphaticsolutions.com/2012/06/22/marketing-for-geeks.html",
-      "display_url" : "emphaticsolutions.com/2012/06/22/mar…"
+      "display_url" : "emphaticsolutions.com/2012/06/22/mar\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "216228138387111936",
@@ -481,7 +481,7 @@ Grailbird.data.tweets_2012_06 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -578,7 +578,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "indices" : [ 3, 17 ],
       "id_str" : "72831048",
@@ -623,11 +623,11 @@ Grailbird.data.tweets_2012_06 =
     "id" : 216523558585769986,
     "created_at" : "Sat Jun 23 13:30:13 +0000 2012",
     "user" : {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "protected" : false,
       "id_str" : "72831048",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2634882335/4e3a25c645144121e70f8c33879ff0dd_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000219483144/444514a8e041f96c846e7691156c1298_normal.jpeg",
       "id" : 72831048,
       "verified" : false
     }
@@ -693,7 +693,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 43, 63 ],
       "url" : "http://t.co/mfrklrZP",
       "expanded_url" : "http://4.bp.blogspot.com/-w6O6GnQiFjk/TtUKJRO2P7I/AAAAAAAADGY/vg9xHES5bPI/s1600/bananas-766426.jpg",
-      "display_url" : "4.bp.blogspot.com/-w6O6GnQiFjk/T…"
+      "display_url" : "4.bp.blogspot.com/-w6O6GnQiFjk/T\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "216254567946526720",
@@ -825,11 +825,11 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -844,7 +844,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 215928314601275392,
   "in_reply_to_status_id" : 215927982223671296,
   "created_at" : "Thu Jun 21 22:04:56 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -893,11 +893,11 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ {
       "expanded_url" : "http://twitter.com/briandoll/status/215658875385425920/photo/1",
@@ -940,7 +940,7 @@ Grailbird.data.tweets_2012_06 =
   "text" : "@cjkihlbom a dram after dinner. Cheers! http://t.co/iPeN0IeM",
   "id" : 215658875385425920,
   "created_at" : "Thu Jun 21 04:14:17 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -961,7 +961,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 61, 82 ],
       "url" : "https://t.co/gkoU6r7p",
       "expanded_url" : "https://speakerdeck.com/u/briandoll/p/marketing-for-geeks",
-      "display_url" : "speakerdeck.com/u/briandoll/p/…"
+      "display_url" : "speakerdeck.com/u/briandoll/p/\u2026"
     } ]
   },
   "geo" : {
@@ -1077,7 +1077,7 @@ Grailbird.data.tweets_2012_06 =
   "id_str" : "215539787627630592",
   "text" : "RT @luckiestmonkey: Women of GitHub http://t.co/mepJLjtu",
   "retweeted_status" : {
-    "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+    "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1126,7 +1126,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/d3BUEJ0b",
       "expanded_url" : "http://online.wsj.com/article_email/SB10001424052702303379204577474953586383604-lMyQjAxMTAyMDEwOTExNDkyWj.html?mod=wsj_valettop_email",
-      "display_url" : "online.wsj.com/article_email/…"
+      "display_url" : "online.wsj.com/article_email/\u2026"
     } ]
   },
   "geo" : {
@@ -1148,11 +1148,11 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Lilly Kihlbom",
       "screen_name" : "Lilly",
@@ -1173,7 +1173,7 @@ Grailbird.data.tweets_2012_06 =
   "id" : 214714127908737024,
   "in_reply_to_status_id" : 214674610216632321,
   "created_at" : "Mon Jun 18 13:40:11 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1303,7 +1303,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 20, 41 ],
       "url" : "https://t.co/gkoU6r7p",
       "expanded_url" : "https://speakerdeck.com/u/briandoll/p/marketing-for-geeks",
-      "display_url" : "speakerdeck.com/u/briandoll/p/…"
+      "display_url" : "speakerdeck.com/u/briandoll/p/\u2026"
     } ]
   },
   "geo" : {
@@ -2064,7 +2064,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/WQHXxWNk",
       "expanded_url" : "http://www.youtube.com/watch?v=0gpya5OTOnM",
-      "display_url" : "youtube.com/watch?v=0gpya5…"
+      "display_url" : "youtube.com/watch?v=0gpya5\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "211167620022550528",
@@ -2103,12 +2103,12 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/85urk1eb",
       "expanded_url" : "http://www.newbalance.com/Minimus-Zero/MR00,default,pd.html",
-      "display_url" : "newbalance.com/Minimus-Zero/M…"
+      "display_url" : "newbalance.com/Minimus-Zero/M\u2026"
     }, {
       "indices" : [ 109, 129 ],
       "url" : "http://t.co/GQqGiRKa",
       "expanded_url" : "http://www.newbalance.com/Minimus-Zero-Trail/MT00,default,pd.html",
-      "display_url" : "newbalance.com/Minimus-Zero-T…"
+      "display_url" : "newbalance.com/Minimus-Zero-T\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "211164075848249345",
@@ -2268,7 +2268,7 @@ Grailbird.data.tweets_2012_06 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Shaun Usher",
+      "name" : "Letters of Note",
       "screen_name" : "LettersOfNote",
       "indices" : [ 0, 14 ],
       "id_str" : "72831048",
@@ -2280,7 +2280,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 72, 92 ],
       "url" : "http://t.co/KSLoTf5h",
       "expanded_url" : "http://en.wikipedia.org/wiki/Death_of_John_Lennon",
-      "display_url" : "en.wikipedia.org/wiki/Death_of_…"
+      "display_url" : "en.wikipedia.org/wiki/Death_of_\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "211101091394355200",
@@ -2319,7 +2319,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 37, 57 ],
       "url" : "http://t.co/Dd5FgIXb",
       "expanded_url" : "http://statigr.am/viewer.php#/detail/205483464664959988_13241169",
-      "display_url" : "statigr.am/viewer.php#/de…"
+      "display_url" : "statigr.am/viewer.php#/de\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "210842028488130561",
@@ -2421,7 +2421,7 @@ Grailbird.data.tweets_2012_06 =
   "geo" : {
   },
   "id_str" : "210769487488761856",
-  "text" : "\"A common failure mode in human reasoning is…\" http://t.co/ZxclHIEI great post by esr on closed source software /ht @cra",
+  "text" : "\"A common failure mode in human reasoning is\u2026\" http://t.co/ZxclHIEI great post by esr on closed source software /ht @cra",
   "id" : 210769487488761856,
   "created_at" : "Thu Jun 07 16:25:36 +0000 2012",
   "user" : {
@@ -2758,11 +2758,11 @@ Grailbird.data.tweets_2012_06 =
       "id_str" : "8605362",
       "id" : 8605362
     }, {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 7, 17 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Ben Bleything",
       "screen_name" : "bleything",
@@ -2785,7 +2785,7 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "210424723320995840",
   "in_reply_to_user_id" : 8605362,
-  "text" : "@keavy @cjkihlbom @bleything yes yes yes @nordicruby… is it time yet or what?",
+  "text" : "@keavy @cjkihlbom @bleything yes yes yes @nordicruby\u2026 is it time yet or what?",
   "id" : 210424723320995840,
   "in_reply_to_status_id" : 210424579422830594,
   "created_at" : "Wed Jun 06 17:35:38 +0000 2012",
@@ -2895,7 +2895,7 @@ Grailbird.data.tweets_2012_06 =
       "indices" : [ 12, 32 ],
       "url" : "http://t.co/D0Ekr8fi",
       "expanded_url" : "http://engineering.twitter.com/2012/06/studying-rapidly-evolving-user.html",
-      "display_url" : "engineering.twitter.com/2012/06/studyi…"
+      "display_url" : "engineering.twitter.com/2012/06/studyi\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "209708843087826944",
@@ -3111,7 +3111,7 @@ Grailbird.data.tweets_2012_06 =
   },
   "id_str" : "208740045635588096",
   "in_reply_to_user_id" : 6221832,
-  "text" : "@amerine nope, ❤ teardrop so hard though. Miss you!!!",
+  "text" : "@amerine nope, \u2764 teardrop so hard though. Miss you!!!",
   "id" : 208740045635588096,
   "in_reply_to_status_id" : 208724428924784640,
   "created_at" : "Sat Jun 02 02:01:19 +0000 2012",

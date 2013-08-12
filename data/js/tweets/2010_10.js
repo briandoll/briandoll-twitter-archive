@@ -307,7 +307,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "29003006417",
-  "text" : "Video of @billybragg on making music in political times http://tinyurl.com/28pwxv3. I ♥ Billy Bragg.",
+  "text" : "Video of @billybragg on making music in political times http://tinyurl.com/28pwxv3. I \u2665 Billy Bragg.",
   "id" : 29003006417,
   "created_at" : "Thu Oct 28 16:12:05 +0000 2010",
   "user" : {
@@ -398,7 +398,7 @@ Grailbird.data.tweets_2010_10 =
   "geo" : {
   },
   "id_str" : "28863891566",
-  "text" : "Just watched 180° South, an incredibly beautiful and inspiring movie. Moving my Patagonia trip up from 'someday' to 'soonish'.",
+  "text" : "Just watched 180\u00B0 South, an incredibly beautiful and inspiring movie. Moving my Patagonia trip up from 'someday' to 'soonish'.",
   "id" : 28863891566,
   "created_at" : "Wed Oct 27 05:43:32 +0000 2010",
   "user" : {
@@ -1002,7 +1002,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1036,7 +1036,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2199,7 +2199,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Tweetie for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -2280,7 +2280,7 @@ Grailbird.data.tweets_2010_10 =
       "indices" : [ 74, 93 ],
       "url" : "http://t.co/8tylSZi",
       "expanded_url" : "http://intridea.com/2010/10/4/omniauth-flexible-authentication-for-rack",
-      "display_url" : "intridea.com/2010/10/4/omni…"
+      "display_url" : "intridea.com/2010/10/4/omni\u2026"
     } ]
   },
   "geo" : {

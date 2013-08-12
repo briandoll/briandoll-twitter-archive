@@ -156,7 +156,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kamlesh ®",
+      "name" : "Kamlesh \u00AE",
       "screen_name" : "kamleshrao",
       "indices" : [ 0, 11 ],
       "id_str" : "16851793",
@@ -174,7 +174,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 106, 126 ],
       "url" : "http://t.co/W9N9ruQw",
       "expanded_url" : "https://gist.github.com/d057399112bd65bc7465",
-      "display_url" : "gist.github.com/d057399112bd65…"
+      "display_url" : "gist.github.com/d057399112bd65\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "130699404561752064",
@@ -247,7 +247,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 69, 89 ],
       "url" : "http://t.co/Nu7uslsk",
       "expanded_url" : "http://www.sonyclassics.com/beatsrhymesandlife/",
-      "display_url" : "sonyclassics.com/beatsrhymesand…"
+      "display_url" : "sonyclassics.com/beatsrhymesand\u2026"
     } ]
   },
   "geo" : {
@@ -321,7 +321,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 100, 120 ],
       "url" : "http://t.co/BQdJlWom",
       "expanded_url" : "https://github.com/github/hubot-scripts/pull/50",
-      "display_url" : "github.com/github/hubot-s…"
+      "display_url" : "github.com/github/hubot-s\u2026"
     } ]
   },
   "geo" : {
@@ -343,11 +343,11 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -362,7 +362,7 @@ Grailbird.data.tweets_2011_10 =
   "id" : 130293002831790080,
   "in_reply_to_status_id" : 130259310977613824,
   "created_at" : "Sat Oct 29 14:40:47 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -377,7 +377,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lucas Jenß",
+      "name" : "Lucas Jen\u00DF",
       "screen_name" : "x3rames",
       "indices" : [ 0, 8 ],
       "id_str" : "80026720",
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 43, 63 ],
       "url" : "http://t.co/9rOosyPV",
       "expanded_url" : "https://support.newrelic.com/help/kb/php/php-agent-phpini-settings",
-      "display_url" : "support.newrelic.com/help/kb/php/ph…"
+      "display_url" : "support.newrelic.com/help/kb/php/ph\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "130114777207943168",
@@ -422,7 +422,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Boštjan Hribar",
+      "name" : "Bo\u0161tjan Hribar",
       "screen_name" : "hribcek",
       "indices" : [ 0, 8 ],
       "id_str" : "35243815",
@@ -650,7 +650,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 110, 130 ],
       "url" : "http://t.co/mHKXqd9x",
       "expanded_url" : "https://support.newrelic.com/help/kb/features/tracking-front-end-time#request_queueing",
-      "display_url" : "support.newrelic.com/help/kb/featur…"
+      "display_url" : "support.newrelic.com/help/kb/featur\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "129240394864148480",
@@ -820,7 +820,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 115, 135 ],
       "url" : "http://t.co/c3u3wyGO",
       "expanded_url" : "http://venturebeat.com/2011/10/24/github-dodgeball-tournament/",
-      "display_url" : "venturebeat.com/2011/10/24/git…"
+      "display_url" : "venturebeat.com/2011/10/24/git\u2026"
     } ]
   },
   "geo" : {
@@ -932,7 +932,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1477,12 +1477,12 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 29, 49 ],
       "url" : "http://t.co/HvJ5mKa6",
       "expanded_url" : "http://blog.cardinalblue.com/post/4419007874/using-the-new-relic-api-with-geckoboard",
-      "display_url" : "blog.cardinalblue.com/post/441900787…"
+      "display_url" : "blog.cardinalblue.com/post/441900787\u2026"
     }, {
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/kLgfkuOt",
       "expanded_url" : "http://blog.newrelic.com/2011/06/20/new-data-api/",
-      "display_url" : "blog.newrelic.com/2011/06/20/new…"
+      "display_url" : "blog.newrelic.com/2011/06/20/new\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "126790977607319552",
@@ -1634,7 +1634,7 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pjammer",
+      "name" : "Philip Ingram",
       "screen_name" : "pjammer",
       "indices" : [ 0, 8 ],
       "id_str" : "15266123",
@@ -1880,7 +1880,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 91, 111 ],
       "url" : "http://t.co/h8l6NS2T",
       "expanded_url" : "http://confreaks.net/events/gogaruco2011",
-      "display_url" : "confreaks.net/events/gogaruc…"
+      "display_url" : "confreaks.net/events/gogaruc\u2026"
     } ]
   },
   "geo" : {
@@ -1909,7 +1909,7 @@ Grailbird.data.tweets_2011_10 =
         "indices" : [ 77, 97 ],
         "url" : "http://t.co/h8l6NS2T",
         "expanded_url" : "http://confreaks.net/events/gogaruco2011",
-        "display_url" : "confreaks.net/events/gogaruc…"
+        "display_url" : "confreaks.net/events/gogaruc\u2026"
       } ]
     },
     "geo" : {
@@ -1923,7 +1923,7 @@ Grailbird.data.tweets_2011_10 =
       "screen_name" : "gogaruco",
       "protected" : false,
       "id_str" : "19278778",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2305637396/mbhyx1x0azuf6c4p2yt1_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3704109174/9fa686a50cfa1c0b487d58dea971f17a_normal.png",
       "id" : 19278778,
       "verified" : false
     }
@@ -2057,11 +2057,11 @@ Grailbird.data.tweets_2011_10 =
   "source" : "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 3, 13 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     }, {
       "name" : "Elabs",
       "screen_name" : "elabs",
@@ -2083,7 +2083,7 @@ Grailbird.data.tweets_2011_10 =
   "id_str" : "125671604855377920",
   "text" : "RT @cjkihlbom: Full spread about the @elabs office in today's newspaper (GT) http://t.co/p5KyYYEf",
   "retweeted_status" : {
-    "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+    "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Elabs",
@@ -2109,7 +2109,7 @@ Grailbird.data.tweets_2011_10 =
     "created_at" : "Sun Oct 16 16:49:40 +0000 2011",
     "user" : {
       "name" : "CJ Kihlbom",
-      "screen_name" : "cjkihlbom",
+      "screen_name" : "cjse",
       "protected" : false,
       "id_str" : "12685",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2640600457/66086dcf03db21542f2922bfc62d81a2_normal.jpeg",
@@ -2394,7 +2394,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 94, 114 ],
       "url" : "http://t.co/dBbLQLB8",
       "expanded_url" : "https://support.newrelic.com/help/kb/java/real-user-monitoring-in-java#manual",
-      "display_url" : "support.newrelic.com/help/kb/java/r…"
+      "display_url" : "support.newrelic.com/help/kb/java/r\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "124837984146161664",
@@ -2881,7 +2881,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 83, 103 ],
       "url" : "http://t.co/N1VSSXtX",
       "expanded_url" : "http://eaves.ca/2011/10/05/the-science-of-community-management-djangocon-keynote/",
-      "display_url" : "eaves.ca/2011/10/05/the…"
+      "display_url" : "eaves.ca/2011/10/05/the\u2026"
     } ]
   },
   "geo" : {
@@ -2955,7 +2955,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 76, 96 ],
       "url" : "http://t.co/ZYOvbTPE",
       "expanded_url" : "https://skitch.com/briandoll/f6fma/united-airlines-join-mileage-plus",
-      "display_url" : "skitch.com/briandoll/f6fm…"
+      "display_url" : "skitch.com/briandoll/f6fm\u2026"
     } ]
   },
   "geo" : {
@@ -3035,7 +3035,7 @@ Grailbird.data.tweets_2011_10 =
       "indices" : [ 88, 108 ],
       "url" : "http://t.co/jdEP7sXQ",
       "expanded_url" : "http://blog.newrelic.com/2010/12/15/how-to-use-pagerduty-with-rpms-availability-monitor/",
-      "display_url" : "blog.newrelic.com/2010/12/15/how…"
+      "display_url" : "blog.newrelic.com/2010/12/15/how\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "121255635810664448",

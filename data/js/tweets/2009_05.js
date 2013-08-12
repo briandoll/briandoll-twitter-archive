@@ -1446,7 +1446,7 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "45603",
       "id" : 45603
     }, {
-      "name" : "Erik Morén",
+      "name" : "Erik Mor\u00E9n",
       "screen_name" : "unclebob",
       "indices" : [ 14, 23 ],
       "id_str" : "768220",
@@ -1478,7 +1478,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "<a href=\"http://loungeapp.com\" rel=\"nofollow\">Lounge</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -1916,7 +1916,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "<a href=\"http://loungeapp.com\" rel=\"nofollow\">Lounge</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

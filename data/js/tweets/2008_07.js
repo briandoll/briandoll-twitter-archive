@@ -685,13 +685,7 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "home",
-      "screen_name" : "home",
-      "indices" : [ 39, 44 ],
-      "id_str" : "610923",
-      "id" : 610923
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

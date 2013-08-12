@@ -1,6 +1,6 @@
 Grailbird.data.tweets_2012_03 = 
  [ {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -264,7 +264,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/QA2LpyQ8",
       "expanded_url" : "http://emphaticsolutions.com/2012/03/13/my-setup.html",
-      "display_url" : "emphaticsolutions.com/2012/03/13/my-…"
+      "display_url" : "emphaticsolutions.com/2012/03/13/my-\u2026"
     }, {
       "indices" : [ 120, 140 ],
       "url" : "http://t.co/5cQrLtQX",
@@ -291,7 +291,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -325,7 +325,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 34, 54 ],
       "url" : "http://t.co/AWn8PXdt",
       "expanded_url" : "http://www.dailymail.co.uk/news/article-1246550/Hercules-900lb-liger-crosses-Abbey-Road-takes-Underground-goes-tour-London.html",
-      "display_url" : "dailymail.co.uk/news/article-1…"
+      "display_url" : "dailymail.co.uk/news/article-1\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "185222711709138946",
@@ -732,7 +732,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -786,7 +786,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 116, 137 ],
       "url" : "https://t.co/JTp1Fjdn",
       "expanded_url" : "https://github.com/mozilla/BrowserQuest/",
-      "display_url" : "github.com/mozilla/Browse…"
+      "display_url" : "github.com/mozilla/Browse\u2026"
     } ]
   },
   "geo" : {
@@ -820,7 +820,7 @@ Grailbird.data.tweets_2012_03 =
       "id_str" : "5437372",
       "id" : 5437372
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 16, 23 ],
       "id_str" : "659933",
@@ -1409,11 +1409,11 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1428,7 +1428,7 @@ Grailbird.data.tweets_2012_03 =
   "id" : 181106558283952128,
   "in_reply_to_status_id" : 181063654005944320,
   "created_at" : "Sat Mar 17 19:55:42 +0000 2012",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -1474,7 +1474,7 @@ Grailbird.data.tweets_2012_03 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1517,7 +1517,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 34, 55 ],
       "url" : "https://t.co/L1hBcVYZ",
       "expanded_url" : "https://skitch.com/briandoll/8kuej/briandoll-dotfiles",
-      "display_url" : "skitch.com/briandoll/8kue…"
+      "display_url" : "skitch.com/briandoll/8kue\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "180523782694375424",
@@ -1712,7 +1712,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "180333988588695552",
   "in_reply_to_user_id" : 50466707,
-  "text" : "@foliosus I'm glad that my solution is on the right track though… was really fun to hack it out last night.",
+  "text" : "@foliosus I'm glad that my solution is on the right track though\u2026 was really fun to hack it out last night.",
   "id" : 180333988588695552,
   "in_reply_to_status_id" : 180333747013554176,
   "created_at" : "Thu Mar 15 16:45:47 +0000 2012",
@@ -1827,7 +1827,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 95, 115 ],
       "url" : "http://t.co/eOz7Qf92",
       "expanded_url" : "http://open.nasa.gov/blog/2012/02/06/code-nasa-at-one-month-old/",
-      "display_url" : "open.nasa.gov/blog/2012/02/0…"
+      "display_url" : "open.nasa.gov/blog/2012/02/0\u2026"
     } ]
   },
   "geo" : {
@@ -1918,7 +1918,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 45, 65 ],
       "url" : "http://t.co/iTeTnHRZ",
       "expanded_url" : "http://emphaticsolutions.com/2011/01/21/functional-widgets-with-rails-javascript-jsonp.html",
-      "display_url" : "emphaticsolutions.com/2011/01/21/fun…"
+      "display_url" : "emphaticsolutions.com/2011/01/21/fun\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "179748611339460610",
@@ -1991,13 +1991,13 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 73, 93 ],
       "url" : "http://t.co/XvgVdluJ",
       "expanded_url" : "http://www.randsinrepose.com/archives/2012/03/13/hacking_is_important.html",
-      "display_url" : "randsinrepose.com/archives/2012/…"
+      "display_url" : "randsinrepose.com/archives/2012/\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "179604186449719297",
-  "text" : "Yet again, @rands nails the essence of what we do… Hacking is Important: http://t.co/XvgVdluJ",
+  "text" : "Yet again, @rands nails the essence of what we do\u2026 Hacking is Important: http://t.co/XvgVdluJ",
   "id" : 179604186449719297,
   "created_at" : "Tue Mar 13 16:25:49 +0000 2012",
   "user" : {
@@ -2096,7 +2096,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "179437902210666496",
   "in_reply_to_user_id" : 11374142,
-  "text" : "@bphogan hmm… i'm stumped as to what the issue is. I'm doing that exactly and it doesn't work. I tried iTerm2 and terminal.app, no dice.",
+  "text" : "@bphogan hmm\u2026 i'm stumped as to what the issue is. I'm doing that exactly and it doesn't work. I tried iTerm2 and terminal.app, no dice.",
   "id" : 179437902210666496,
   "in_reply_to_status_id" : 179437416128593920,
   "created_at" : "Tue Mar 13 05:25:04 +0000 2012",
@@ -2161,12 +2161,12 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 30, 51 ],
       "url" : "https://t.co/rdTpGjXF",
       "expanded_url" : "https://github.com/briandoll/dotfiles/blob/master/tmux.conf",
-      "display_url" : "github.com/briandoll/dotf…"
+      "display_url" : "github.com/briandoll/dotf\u2026"
     }, {
       "indices" : [ 63, 84 ],
       "url" : "https://t.co/EuFqhARt",
       "expanded_url" : "https://github.com/briandoll/dotfiles/blob/master/vimrc",
-      "display_url" : "github.com/briandoll/dotf…"
+      "display_url" : "github.com/briandoll/dotf\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "179432805900615680",
@@ -2174,7 +2174,7 @@ Grailbird.data.tweets_2012_03 =
   },
   "id_str" : "179435658455166976",
   "in_reply_to_user_id" : 11374142,
-  "text" : "@bphogan this is my tmux.conf https://t.co/rdTpGjXF, my .vimrc https://t.co/EuFqhARt and the reattach-… script is on my path.",
+  "text" : "@bphogan this is my tmux.conf https://t.co/rdTpGjXF, my .vimrc https://t.co/EuFqhARt and the reattach-\u2026 script is on my path.",
   "id" : 179435658455166976,
   "in_reply_to_status_id" : 179432805900615680,
   "created_at" : "Tue Mar 13 05:16:09 +0000 2012",
@@ -2225,7 +2225,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2259,7 +2259,7 @@ Grailbird.data.tweets_2012_03 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2271,7 +2271,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 119, 140 ],
       "url" : "https://t.co/rdTpGjXF",
       "expanded_url" : "https://github.com/briandoll/dotfiles/blob/master/tmux.conf",
-      "display_url" : "github.com/briandoll/dotf…"
+      "display_url" : "github.com/briandoll/dotf\u2026"
     } ]
   },
   "geo" : {
@@ -2316,7 +2316,7 @@ Grailbird.data.tweets_2012_03 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2354,7 +2354,7 @@ Grailbird.data.tweets_2012_03 =
   "geo" : {
   },
   "id_str" : "178937786156593152",
-  "text" : "@xpaulbetts ahh yes… did that and added a vim shortcut to open the file in the default app. so handy.",
+  "text" : "@xpaulbetts ahh yes\u2026 did that and added a vim shortcut to open the file in the default app. so handy.",
   "id" : 178937786156593152,
   "created_at" : "Sun Mar 11 20:17:47 +0000 2012",
   "user" : {
@@ -2421,7 +2421,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 115, 135 ],
       "url" : "http://t.co/Vr1xjcVH",
       "expanded_url" : "http://support.markedapp.com/kb/how-to-tips-and-tricks/using-marked-with-github-flavored-markdown-and-syntax-highlighting",
-      "display_url" : "support.markedapp.com/kb/how-to-tips…"
+      "display_url" : "support.markedapp.com/kb/how-to-tips\u2026"
     } ]
   },
   "geo" : {
@@ -2484,7 +2484,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 21, 41 ],
       "url" : "http://t.co/Qh5ku0Jh",
       "expanded_url" : "http://en.wikipedia.org/wiki/Feature_phone",
-      "display_url" : "en.wikipedia.org/wiki/Feature_p…"
+      "display_url" : "en.wikipedia.org/wiki/Feature_p\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "178260977513529344",
@@ -2627,7 +2627,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 68, 88 ],
       "url" : "http://t.co/RWKZ7kdD",
       "expanded_url" : "http://shop.github.com/products/octodex-sticker-pack",
-      "display_url" : "shop.github.com/products/octod…"
+      "display_url" : "shop.github.com/products/octod\u2026"
     } ]
   },
   "geo" : {
@@ -2644,7 +2644,7 @@ Grailbird.data.tweets_2012_03 =
         "indices" : [ 49, 69 ],
         "url" : "http://t.co/RWKZ7kdD",
         "expanded_url" : "http://shop.github.com/products/octodex-sticker-pack",
-        "display_url" : "shop.github.com/products/octod…"
+        "display_url" : "shop.github.com/products/octod\u2026"
       } ]
     },
     "geo" : {
@@ -2774,7 +2774,7 @@ Grailbird.data.tweets_2012_03 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://instagr.am\" rel=\"nofollow\">Instagram</a>",
+  "source" : "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2971,7 +2971,7 @@ Grailbird.data.tweets_2012_03 =
       "indices" : [ 9, 29 ],
       "url" : "http://t.co/2BJ15Vx5",
       "expanded_url" : "http://dribbble.com/shots/372734-Simple-Card-Packaging",
-      "display_url" : "dribbble.com/shots/372734-S…"
+      "display_url" : "dribbble.com/shots/372734-S\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "175706231082717184",

@@ -934,7 +934,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Sieger [日空]",
+      "name" : "Nick Sieger [\u65E5\u7A7A]",
       "screen_name" : "nicksieger",
       "indices" : [ 0, 11 ],
       "id_str" : "5504482",
@@ -1851,7 +1851,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",

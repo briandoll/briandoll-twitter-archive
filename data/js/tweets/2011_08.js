@@ -205,7 +205,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -251,7 +251,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 79, 98 ],
       "url" : "http://t.co/BgiE8Rk",
       "expanded_url" : "http://www.amazon.com/Deep-Survival-Who-Lives-Dies/dp/0393326152",
-      "display_url" : "amazon.com/Deep-Survival-…"
+      "display_url" : "amazon.com/Deep-Survival-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "107536203951255552",
@@ -290,7 +290,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 116, 135 ],
       "url" : "http://t.co/2Lcu9GZ",
       "expanded_url" : "http://www.eventbrite.com/event/1974420545",
-      "display_url" : "eventbrite.com/event/19744205…"
+      "display_url" : "eventbrite.com/event/19744205\u2026"
     } ]
   },
   "geo" : {
@@ -563,7 +563,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 97, 116 ],
       "url" : "http://t.co/Z4bqWg1",
       "expanded_url" : "http://blog.heroku.com/archives/2011/8/25/java/",
-      "display_url" : "blog.heroku.com/archives/2011/…"
+      "display_url" : "blog.heroku.com/archives/2011/\u2026"
     } ]
   },
   "geo" : {
@@ -1064,7 +1064,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 93, 112 ],
       "url" : "http://t.co/IG4AIaq",
       "expanded_url" : "http://osx.iusethis.com/search?q=PDF+converter",
-      "display_url" : "osx.iusethis.com/search?q=PDF+c…"
+      "display_url" : "osx.iusethis.com/search?q=PDF+c\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "106057876363157504",
@@ -1684,11 +1684,11 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "CJ Kihlbom",
+      "name" : "Old CJ Kihlbom",
       "screen_name" : "cjkihlbom",
       "indices" : [ 0, 10 ],
-      "id_str" : "12685",
-      "id" : 12685
+      "id_str" : "1203121040",
+      "id" : 1203121040
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1703,7 +1703,7 @@ Grailbird.data.tweets_2011_08 =
   "id" : 101399997559476224,
   "in_reply_to_status_id" : 101397029300862976,
   "created_at" : "Wed Aug 10 21:10:18 +0000 2011",
-  "in_reply_to_screen_name" : "cjkihlbom",
+  "in_reply_to_screen_name" : "cjse",
   "in_reply_to_user_id_str" : "12685",
   "user" : {
     "name" : "Brian Doll",
@@ -2081,7 +2081,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 71, 90 ],
       "url" : "http://t.co/s22VHxl",
       "expanded_url" : "https://bitly.com/howdoestheinternetwork",
-      "display_url" : "bitly.com/howdoestheinte…"
+      "display_url" : "bitly.com/howdoestheinte\u2026"
     } ]
   },
   "geo" : {
@@ -2478,7 +2478,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 28, 47 ],
       "url" : "http://t.co/mEhYXYI",
       "expanded_url" : "http://games.crossfit.com/features/videos/tjs-gym-coaches-speech",
-      "display_url" : "games.crossfit.com/features/video…"
+      "display_url" : "games.crossfit.com/features/video\u2026"
     } ]
   },
   "geo" : {
@@ -2540,7 +2540,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -2756,7 +2756,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 71, 90 ],
       "url" : "http://t.co/Es1btob",
       "expanded_url" : "https://skitch.com/briandoll/fc92q/icloud",
-      "display_url" : "skitch.com/briandoll/fc92…"
+      "display_url" : "skitch.com/briandoll/fc92\u2026"
     } ]
   },
   "geo" : {
@@ -2790,7 +2790,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 54, 73 ],
       "url" : "http://t.co/7u2cRFl",
       "expanded_url" : "http://dribbble.com/shots/158000-DevOps-crest-revised",
-      "display_url" : "dribbble.com/shots/158000-D…"
+      "display_url" : "dribbble.com/shots/158000-D\u2026"
     } ]
   },
   "geo" : {
@@ -2827,7 +2827,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 64, 83 ],
       "url" : "http://t.co/LQK1y72",
       "expanded_url" : "http://www.devopsdays.org/blog/2010/05/16/the-panel-experiment-and-ignite-devops/",
-      "display_url" : "devopsdays.org/blog/2010/05/1…"
+      "display_url" : "devopsdays.org/blog/2010/05/1\u2026"
     } ]
   },
   "geo" : {
@@ -2924,7 +2924,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "timocratic",
       "protected" : false,
       "id_str" : "14086000",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/532917848/me_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000045265098/f8582f2640ba8fee5957a95964b1555c_normal.jpeg",
       "id" : 14086000,
       "verified" : false
     }
@@ -2956,7 +2956,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 79, 98 ],
       "url" : "http://t.co/LQK1y72",
       "expanded_url" : "http://www.devopsdays.org/blog/2010/05/16/the-panel-experiment-and-ignite-devops/",
-      "display_url" : "devopsdays.org/blog/2010/05/1…"
+      "display_url" : "devopsdays.org/blog/2010/05/1\u2026"
     } ]
   },
   "geo" : {
